@@ -1,0 +1,377 @@
+,Provider Name,Provider City,"Provider
+State",ZIP,APC,"APC
+Description","Comprehensive APC
+Services","Average
+Medicare
+Allowed
+Amount",CBSA
+6869,Northside Hospital Forsyth,Cumming,GA,30041,5123,Level 3 Musculoskeletal Procedures,81,4643.91703703703,12060
+6870,Northside Hospital Forsyth,Cumming,GA,30041,5124,Level 4 Musculoskeletal Procedures,62,6515.05258064514,12060
+6871,Northside Hospital Forsyth,Cumming,GA,30041,5125,Level 5 Musculoskeletal Procedures,35,9833.65,12060
+6872,Northside Hospital Forsyth,Cumming,GA,30041,5165,Level 5 ENT Procedures,31,3637.33161290322,12060
+6873,Northside Hospital Forsyth,Cumming,GA,30041,5191,Level 1 Endovascular Procedures,35,4193.78771428571,12060
+6874,Northside Hospital Forsyth,Cumming,GA,30041,5192,Level 2 Endovascular Procedures,88,8820.48965909089,12060
+6875,Northside Hospital Forsyth,Cumming,GA,30041,5213,Level 3 Electrophysiologic Procedures,16,14508.988125,12060
+6876,Northside Hospital Forsyth,Cumming,GA,30041,5222,Level 2 Pacemaker and Similar Procedures,20,5759.736,12060
+6877,Northside Hospital Forsyth,Cumming,GA,30041,5223,Level 3 Pacemaker and Similar Procedures,57,8656.87649122807,12060
+6878,Northside Hospital Forsyth,Cumming,GA,30041,5232,Level 2 ICD and Similar Procedures,18,28403.37,12060
+6879,Northside Hospital Forsyth,Cumming,GA,30041,5361,Level 1 Laparoscopy,113,3633.81619469026,12060
+6880,Northside Hospital Forsyth,Cumming,GA,30041,5362,Level 2 Laparoscopy,34,6261.02235294117,12060
+6881,Northside Hospital Forsyth,Cumming,GA,30041,5375,Level 5 Urology and Related Services,102,3150.29519607843,12060
+6882,Northside Hospital Forsyth,Cumming,GA,30041,5376,Level 6 Urology and Related Services,11,6425.67272727272,12060
+6883,Northside Hospital Forsyth,Cumming,GA,30041,5627,Level 7 Radiation Therapy,31,6820.28,12060
+6884,Northside Hospital Forsyth,Cumming,GA,30041,8011,Comprehensive Observation Services,178,1995.43814606742,12060
+6931,Northside Hospital Cherokee,Canton,GA,30114,5123,Level 3 Musculoskeletal Procedures,57,4579.11122807017,12060
+6932,Northside Hospital Cherokee,Canton,GA,30114,5124,Level 4 Musculoskeletal Procedures,21,6600.47,12060
+6933,Northside Hospital Cherokee,Canton,GA,30114,5191,Level 1 Endovascular Procedures,23,4291.47999999999,12060
+6934,Northside Hospital Cherokee,Canton,GA,30114,5192,Level 2 Endovascular Procedures,62,8907.07,12060
+6935,Northside Hospital Cherokee,Canton,GA,30114,5223,Level 3 Pacemaker and Similar Procedures,12,8656.75,12060
+6936,Northside Hospital Cherokee,Canton,GA,30114,5361,Level 1 Laparoscopy,110,3652.198,12060
+6937,Northside Hospital Cherokee,Canton,GA,30114,5362,Level 2 Laparoscopy,24,6198.04416666666,12060
+6938,Northside Hospital Cherokee,Canton,GA,30114,5375,Level 5 Urology and Related Services,97,3094.79020618556,12060
+6939,Northside Hospital Cherokee,Canton,GA,30114,5415,Level 5 Gynecologic Procedures,37,3215.78351351351,12060
+6940,Northside Hospital Cherokee,Canton,GA,30114,5416,Level 6 Gynecologic Procedures,12,5329.92,12060
+6941,Northside Hospital Cherokee,Canton,GA,30114,5463,Level 3 Neurostimulator and Related Procedures,22,15512.834090909,12060
+6942,Northside Hospital Cherokee,Canton,GA,30114,5464,Level 4 Neurostimulator and Related Procedures,13,23086.0553846153,12060
+6943,Northside Hospital Cherokee,Canton,GA,30114,8011,Comprehensive Observation Services,201,1983.46238805971,12060
+6944,Emory University Hospital,Atlanta,GA,30322,5123,Level 3 Musculoskeletal Procedures,63,4526.46904761904,12060
+6945,Emory University Hospital,Atlanta,GA,30322,5124,Level 4 Musculoskeletal Procedures,11,6600.47,12060
+6946,Emory University Hospital,Atlanta,GA,30322,5125,Level 5 Musculoskeletal Procedures,11,9833.65,12060
+6947,Emory University Hospital,Atlanta,GA,30322,5165,Level 5 ENT Procedures,43,3585.53255813953,12060
+6948,Emory University Hospital,Atlanta,GA,30322,5191,Level 1 Endovascular Procedures,40,4120.5185,12060
+6949,Emory University Hospital,Atlanta,GA,30322,5192,Level 2 Endovascular Procedures,260,8586.11538461538,12060
+6950,Emory University Hospital,Atlanta,GA,30322,5193,Level 3 Endovascular Procedures,83,12389.9518072289,12060
+6951,Emory University Hospital,Atlanta,GA,30322,5212,Level 2 Electrophysiologic Procedures,21,4390.37,12060
+6952,Emory University Hospital,Atlanta,GA,30322,5213,Level 3 Electrophysiologic Procedures,102,14130.2564705882,12060
+6953,Emory University Hospital,Atlanta,GA,30322,5222,Level 2 Pacemaker and Similar Procedures,53,6258.37,12060
+6954,Emory University Hospital,Atlanta,GA,30322,5223,Level 3 Pacemaker and Similar Procedures,86,8573.16279069767,12060
+6955,Emory University Hospital,Atlanta,GA,30322,5224,Level 4 Pacemaker and Similar Procedures,31,15301.3096774193,12060
+6956,Emory University Hospital,Atlanta,GA,30322,5231,Level 1 ICD and Similar Procedures,17,17428.8070588235,12060
+6957,Emory University Hospital,Atlanta,GA,30322,5232,Level 2 ICD and Similar Procedures,92,25052.479347826,12060
+6958,Emory University Hospital,Atlanta,GA,30322,5331,Complex GI Procedures,37,3308.0654054054,12060
+6959,Emory University Hospital,Atlanta,GA,30322,5361,Level 1 Laparoscopy,49,3678.37040816326,12060
+6960,Emory University Hospital,Atlanta,GA,30322,5362,Level 2 Laparoscopy,18,6151.07944444444,12060
+6961,Emory University Hospital,Atlanta,GA,30322,5375,Level 5 Urology and Related Services,45,3033.44066666666,12060
+6962,Emory University Hospital,Atlanta,GA,30322,5415,Level 5 Gynecologic Procedures,14,3423.8,12060
+6963,Emory University Hospital,Atlanta,GA,30322,5416,Level 6 Gynecologic Procedures,14,5329.92,12060
+6964,Emory University Hospital,Atlanta,GA,30322,5463,Level 3 Neurostimulator and Related Procedures,62,15050.349516129,12060
+6965,Emory University Hospital,Atlanta,GA,30322,5464,Level 4 Neurostimulator and Related Procedures,32,24164.605,12060
+6966,Emory University Hospital,Atlanta,GA,30322,8011,Comprehensive Observation Services,371,2001.28078167117,12060
+6967,Children's Healthcare Of Atlanta At Egleston,Atlanta,GA,30322,8011,Comprehensive Observation Services,11,1884.61454545454,12060
+6968,Tanner Medical Center - Carrollton,Carrollton,GA,30117,5123,Level 3 Musculoskeletal Procedures,56,4511.75678571428,12060
+6969,Tanner Medical Center - Carrollton,Carrollton,GA,30117,5124,Level 4 Musculoskeletal Procedures,17,6600.47,12060
+6970,Tanner Medical Center - Carrollton,Carrollton,GA,30117,5191,Level 1 Endovascular Procedures,43,4191.68093023255,12060
+6971,Tanner Medical Center - Carrollton,Carrollton,GA,30117,5192,Level 2 Endovascular Procedures,89,8735.85494382021,12060
+6972,Tanner Medical Center - Carrollton,Carrollton,GA,30117,5193,Level 3 Endovascular Procedures,17,10419.6376470588,12060
+6973,Tanner Medical Center - Carrollton,Carrollton,GA,30117,5223,Level 3 Pacemaker and Similar Procedures,31,8656.77774193548,12060
+6974,Tanner Medical Center - Carrollton,Carrollton,GA,30117,5232,Level 2 ICD and Similar Procedures,11,28403.37,12060
+6975,Tanner Medical Center - Carrollton,Carrollton,GA,30117,5361,Level 1 Laparoscopy,71,3697.20971830986,12060
+6976,Tanner Medical Center - Carrollton,Carrollton,GA,30117,5362,Level 2 Laparoscopy,17,6110.00470588235,12060
+6977,Tanner Medical Center - Carrollton,Carrollton,GA,30117,5375,Level 5 Urology and Related Services,48,3118.87625,12060
+6978,Tanner Medical Center - Carrollton,Carrollton,GA,30117,5415,Level 5 Gynecologic Procedures,15,3423.8,12060
+6979,Tanner Medical Center - Carrollton,Carrollton,GA,30117,8011,Comprehensive Observation Services,616,2008.75599025975,12060
+6980,Tanner Medical Center Villa Rica,Villa Rica,GA,30180,5123,Level 3 Musculoskeletal Procedures,25,4643.9,12060
+6981,Tanner Medical Center Villa Rica,Villa Rica,GA,30180,5361,Level 1 Laparoscopy,16,3552.97125,12060
+6982,Tanner Medical Center Villa Rica,Villa Rica,GA,30180,8011,Comprehensive Observation Services,241,2012.20170124482,12060
+6983,Wellstar West Georgia Medical Center,Lagrange,GA,30240,5123,Level 3 Musculoskeletal Procedures,14,4351.74071428571,12060
+6984,Wellstar West Georgia Medical Center,Lagrange,GA,30240,5123,Level 3 Musculoskeletal Procedures,14,4351.74071428571,29300
+6985,Wellstar West Georgia Medical Center,Lagrange,GA,30240,5192,Level 2 Endovascular Procedures,60,8576.90866666666,12060
+6986,Wellstar West Georgia Medical Center,Lagrange,GA,30240,5192,Level 2 Endovascular Procedures,60,8576.90866666666,29300
+6987,Wellstar West Georgia Medical Center,Lagrange,GA,30240,5193,Level 3 Endovascular Procedures,30,10874.0533333333,12060
+6988,Wellstar West Georgia Medical Center,Lagrange,GA,30240,5193,Level 3 Endovascular Procedures,30,10874.0533333333,29300
+6989,Wellstar West Georgia Medical Center,Lagrange,GA,30240,5223,Level 3 Pacemaker and Similar Procedures,22,8601.81409090909,12060
+6990,Wellstar West Georgia Medical Center,Lagrange,GA,30240,5223,Level 3 Pacemaker and Similar Procedures,22,8601.81409090909,29300
+6991,Wellstar West Georgia Medical Center,Lagrange,GA,30240,5232,Level 2 ICD and Similar Procedures,14,25318.9228571428,12060
+6992,Wellstar West Georgia Medical Center,Lagrange,GA,30240,5232,Level 2 ICD and Similar Procedures,14,25318.9228571428,29300
+6993,Wellstar West Georgia Medical Center,Lagrange,GA,30240,5361,Level 1 Laparoscopy,96,3531.59750000001,12060
+6994,Wellstar West Georgia Medical Center,Lagrange,GA,30240,5361,Level 1 Laparoscopy,96,3531.59750000001,29300
+6995,Wellstar West Georgia Medical Center,Lagrange,GA,30240,5375,Level 5 Urology and Related Services,45,3095.98088888889,12060
+6996,Wellstar West Georgia Medical Center,Lagrange,GA,30240,5375,Level 5 Urology and Related Services,45,3095.98088888889,29300
+6997,Wellstar West Georgia Medical Center,Lagrange,GA,30240,8011,Comprehensive Observation Services,692,1992.76471098265,12060
+6998,Wellstar West Georgia Medical Center,Lagrange,GA,30240,8011,Comprehensive Observation Services,692,1992.76471098265,29300
+6999,Piedmont Newton Hospital,Covington,GA,30014,5123,Level 3 Musculoskeletal Procedures,25,4203.9252,12060
+7000,Piedmont Newton Hospital,Covington,GA,30014,5361,Level 1 Laparoscopy,46,3739.17,12060
+7001,Piedmont Newton Hospital,Covington,GA,30014,5464,Level 4 Neurostimulator and Related Procedures,17,23513.4682352941,12060
+7002,Piedmont Newton Hospital,Covington,GA,30014,8011,Comprehensive Observation Services,648,2005.4114351852,12060
+7083,Cartersville Medical Center,Cartersville,GA,30120,5123,Level 3 Musculoskeletal Procedures,47,4565.22936170212,12060
+7084,Cartersville Medical Center,Cartersville,GA,30120,5124,Level 4 Musculoskeletal Procedures,17,6600.47,12060
+7085,Cartersville Medical Center,Cartersville,GA,30120,5192,Level 2 Endovascular Procedures,25,8608.9472,12060
+7086,Cartersville Medical Center,Cartersville,GA,30120,5223,Level 3 Pacemaker and Similar Procedures,13,8656.8223076923,12060
+7087,Cartersville Medical Center,Cartersville,GA,30120,5361,Level 1 Laparoscopy,85,3634.05376470588,12060
+7088,Cartersville Medical Center,Cartersville,GA,30120,5375,Level 5 Urology and Related Services,25,3070.444,12060
+7089,Cartersville Medical Center,Cartersville,GA,30120,8011,Comprehensive Observation Services,312,2031.8076923077,12060
+7090,Wellstar Spalding Regional Hospital,Griffin,GA,30223,5123,Level 3 Musculoskeletal Procedures,30,4528.87066666666,12060
+7091,Wellstar Spalding Regional Hospital,Griffin,GA,30223,5191,Level 1 Endovascular Procedures,94,4291.49787234042,12060
+7092,Wellstar Spalding Regional Hospital,Griffin,GA,30223,5192,Level 2 Endovascular Procedures,54,8766.03759259259,12060
+7093,Wellstar Spalding Regional Hospital,Griffin,GA,30223,5223,Level 3 Pacemaker and Similar Procedures,26,8656.79461538461,12060
+7094,Wellstar Spalding Regional Hospital,Griffin,GA,30223,5361,Level 1 Laparoscopy,48,3622.37666666666,12060
+7095,Wellstar Spalding Regional Hospital,Griffin,GA,30223,5375,Level 5 Urology and Related Services,11,3171.52,12060
+7096,Wellstar Spalding Regional Hospital,Griffin,GA,30223,5492,Level 2 Intraocular Procedures,18,3071.64833333333,12060
+7097,Wellstar Spalding Regional Hospital,Griffin,GA,30223,8011,Comprehensive Observation Services,759,2012.64582345193,12060
+7135,Wellstar Kennestone Hospital,Marietta,GA,30060,5093,Level 3 Breast/Lymphatic Surgery and Related Procedures,21,7059.98476190476,12060
+7136,Wellstar Kennestone Hospital,Marietta,GA,30060,5123,Level 3 Musculoskeletal Procedures,232,4532.59193965517,12060
+7137,Wellstar Kennestone Hospital,Marietta,GA,30060,5124,Level 4 Musculoskeletal Procedures,81,6469.29790123455,12060
+7138,Wellstar Kennestone Hospital,Marietta,GA,30060,5125,Level 5 Musculoskeletal Procedures,38,9614.03868421052,12060
+7139,Wellstar Kennestone Hospital,Marietta,GA,30060,5165,Level 5 ENT Procedures,64,3697.00140625,12060
+7140,Wellstar Kennestone Hospital,Marietta,GA,30060,5191,Level 1 Endovascular Procedures,27,4291.48,12060
+7141,Wellstar Kennestone Hospital,Marietta,GA,30060,5192,Level 2 Endovascular Procedures,164,8623.32274390244,12060
+7142,Wellstar Kennestone Hospital,Marietta,GA,30060,5193,Level 3 Endovascular Procedures,78,13363.6602564102,12060
+7143,Wellstar Kennestone Hospital,Marietta,GA,30060,5212,Level 2 Electrophysiologic Procedures,12,4390.37,12060
+7144,Wellstar Kennestone Hospital,Marietta,GA,30060,5213,Level 3 Electrophysiologic Procedures,96,13582.7655208333,12060
+7145,Wellstar Kennestone Hospital,Marietta,GA,30060,5222,Level 2 Pacemaker and Similar Procedures,35,6258.37,12060
+7146,Wellstar Kennestone Hospital,Marietta,GA,30060,5223,Level 3 Pacemaker and Similar Procedures,151,8656.75,12060
+7147,Wellstar Kennestone Hospital,Marietta,GA,30060,5224,Level 4 Pacemaker and Similar Procedures,27,15768.42,12060
+7148,Wellstar Kennestone Hospital,Marietta,GA,30060,5231,Level 1 ICD and Similar Procedures,21,20436.6,12060
+7149,Wellstar Kennestone Hospital,Marietta,GA,30060,5232,Level 2 ICD and Similar Procedures,114,27927.6653508772,12060
+7150,Wellstar Kennestone Hospital,Marietta,GA,30060,5331,Complex GI Procedures,29,3376.97,12060
+7151,Wellstar Kennestone Hospital,Marietta,GA,30060,5361,Level 1 Laparoscopy,238,3689.11714285715,12060
+7152,Wellstar Kennestone Hospital,Marietta,GA,30060,5362,Level 2 Laparoscopy,58,6167.48,12060
+7153,Wellstar Kennestone Hospital,Marietta,GA,30060,5375,Level 5 Urology and Related Services,197,3134.78294416244,12060
+7154,Wellstar Kennestone Hospital,Marietta,GA,30060,5376,Level 6 Urology and Related Services,25,6939.5616,12060
+7155,Wellstar Kennestone Hospital,Marietta,GA,30060,5415,Level 5 Gynecologic Procedures,19,3423.8,12060
+7156,Wellstar Kennestone Hospital,Marietta,GA,30060,5462,Level 2 Neurostimulator and Related Procedures,25,4900.99,12060
+7157,Wellstar Kennestone Hospital,Marietta,GA,30060,5463,Level 3 Neurostimulator and Related Procedures,18,15355.0938888888,12060
+7158,Wellstar Kennestone Hospital,Marietta,GA,30060,5464,Level 4 Neurostimulator and Related Procedures,14,23215.8057142857,12060
+7159,Wellstar Kennestone Hospital,Marietta,GA,30060,5627,Level 7 Radiation Therapy,13,6820.28,12060
+7160,Wellstar Kennestone Hospital,Marietta,GA,30060,8011,Comprehensive Observation Services,2109,2004.95128971067,12060
+7218,Wellstar Paulding Hospital,Hiram,GA,30141,5123,Level 3 Musculoskeletal Procedures,21,4643.9,12060
+7219,Wellstar Paulding Hospital,Hiram,GA,30141,5361,Level 1 Laparoscopy,56,3579.61857142857,12060
+7220,Wellstar Paulding Hospital,Hiram,GA,30141,5375,Level 5 Urology and Related Services,18,3171.52,12060
+7221,Wellstar Paulding Hospital,Hiram,GA,30141,8011,Comprehensive Observation Services,535,1984.5468598131,12060
+7240,Barrow Regional Medical Center,Winder,GA,30680,8011,Comprehensive Observation Services,152,1989.74927631578,12060
+7241,Barrow Regional Medical Center,Winder,GA,30680,8011,Comprehensive Observation Services,152,1989.74927631578,12020
+7242,Barrow Regional Medical Center,Winder,GA,30680,8011,Comprehensive Observation Services,152,1989.74927631578,27600
+7243,Clearview  Regional Medical Center,Monroe,GA,30655,5123,Level 3 Musculoskeletal Procedures,21,4467.70904761904,12060
+7244,Clearview  Regional Medical Center,Monroe,GA,30655,5361,Level 1 Laparoscopy,18,3739.17,12060
+7245,Clearview  Regional Medical Center,Monroe,GA,30655,8011,Comprehensive Observation Services,223,2011.12408071749,12060
+7295,Dekalb Medical Center,Decatur,GA,30033,5123,Level 3 Musculoskeletal Procedures,124,4541.28629032258,12060
+7296,Dekalb Medical Center,Decatur,GA,30033,5124,Level 4 Musculoskeletal Procedures,20,6343.1465,12060
+7297,Dekalb Medical Center,Decatur,GA,30033,5125,Level 5 Musculoskeletal Procedures,14,9833.78428571428,12060
+7298,Dekalb Medical Center,Decatur,GA,30033,5165,Level 5 ENT Procedures,26,3696.96,12060
+7299,Dekalb Medical Center,Decatur,GA,30033,5191,Level 1 Endovascular Procedures,53,4291.5079245283,12060
+7300,Dekalb Medical Center,Decatur,GA,30033,5192,Level 2 Endovascular Procedures,73,8907.07,12060
+7301,Dekalb Medical Center,Decatur,GA,30033,5193,Level 3 Endovascular Procedures,26,13625.68,12060
+7302,Dekalb Medical Center,Decatur,GA,30033,5223,Level 3 Pacemaker and Similar Procedures,15,8656.75,12060
+7303,Dekalb Medical Center,Decatur,GA,30033,5232,Level 2 ICD and Similar Procedures,18,28403.37,12060
+7304,Dekalb Medical Center,Decatur,GA,30033,5361,Level 1 Laparoscopy,67,3656.20044776119,12060
+7305,Dekalb Medical Center,Decatur,GA,30033,5362,Level 2 Laparoscopy,37,6324.77324324324,12060
+7306,Dekalb Medical Center,Decatur,GA,30033,5375,Level 5 Urology and Related Services,37,3107.88891891891,12060
+7307,Dekalb Medical Center,Decatur,GA,30033,8011,Comprehensive Observation Services,417,2024.05342925661,12060
+7308,Emory University Hospital Midtown,Atlanta,GA,30308,5093,Level 3 Breast/Lymphatic Surgery and Related Procedures,24,7059.95,12060
+7309,Emory University Hospital Midtown,Atlanta,GA,30308,5123,Level 3 Musculoskeletal Procedures,19,4643.9,12060
+7310,Emory University Hospital Midtown,Atlanta,GA,30308,5165,Level 5 ENT Procedures,108,3547.65953703704,12060
+7311,Emory University Hospital Midtown,Atlanta,GA,30308,5166,Level 6 ENT Procedures,29,26848.2934482758,12060
+7312,Emory University Hospital Midtown,Atlanta,GA,30308,5191,Level 1 Endovascular Procedures,94,4268.6529787234,12060
+7313,Emory University Hospital Midtown,Atlanta,GA,30308,5192,Level 2 Endovascular Procedures,95,8746.66852631577,12060
+7314,Emory University Hospital Midtown,Atlanta,GA,30308,5193,Level 3 Endovascular Procedures,28,13139.0485714285,12060
+7315,Emory University Hospital Midtown,Atlanta,GA,30308,5213,Level 3 Electrophysiologic Procedures,48,14233.478125,12060
+7316,Emory University Hospital Midtown,Atlanta,GA,30308,5222,Level 2 Pacemaker and Similar Procedures,11,5948.85727272727,12060
+7317,Emory University Hospital Midtown,Atlanta,GA,30308,5223,Level 3 Pacemaker and Similar Procedures,54,8520.29166666666,12060
+7318,Emory University Hospital Midtown,Atlanta,GA,30308,5231,Level 1 ICD and Similar Procedures,29,19865.18,12060
+7319,Emory University Hospital Midtown,Atlanta,GA,30308,5232,Level 2 ICD and Similar Procedures,59,26080.6455932203,12060
+7320,Emory University Hospital Midtown,Atlanta,GA,30308,5361,Level 1 Laparoscopy,125,3739.17,12060
+7321,Emory University Hospital Midtown,Atlanta,GA,30308,5362,Level 2 Laparoscopy,15,6069.82133333333,12060
+7322,Emory University Hospital Midtown,Atlanta,GA,30308,5375,Level 5 Urology and Related Services,24,3171.67208333333,12060
+7323,Emory University Hospital Midtown,Atlanta,GA,30308,5415,Level 5 Gynecologic Procedures,12,3423.8,12060
+7324,Emory University Hospital Midtown,Atlanta,GA,30308,5464,Level 4 Neurostimulator and Related Procedures,22,24902.56,12060
+7325,Emory University Hospital Midtown,Atlanta,GA,30308,8011,Comprehensive Observation Services,646,2017.49956656348,12060
+7326,Grady Memorial Hospital,Atlanta,GA,30303,5123,Level 3 Musculoskeletal Procedures,15,4643.9,12060
+7327,Grady Memorial Hospital,Atlanta,GA,30303,5492,Level 2 Intraocular Procedures,23,3159.41,12060
+7328,Grady Memorial Hospital,Atlanta,GA,30303,8011,Comprehensive Observation Services,759,2018.1234387352,12060
+7329,"Saint Joseph's Hospital Of Atlanta, Inc",Atlanta,GA,30342,5123,Level 3 Musculoskeletal Procedures,90,4643.90000000001,12060
+7330,"Saint Joseph's Hospital Of Atlanta, Inc",Atlanta,GA,30342,5124,Level 4 Musculoskeletal Procedures,34,6444.22088235294,12060
+7331,"Saint Joseph's Hospital Of Atlanta, Inc",Atlanta,GA,30342,5125,Level 5 Musculoskeletal Procedures,27,9833.65,12060
+7332,"Saint Joseph's Hospital Of Atlanta, Inc",Atlanta,GA,30342,5191,Level 1 Endovascular Procedures,195,4269.47682051281,12060
+7333,"Saint Joseph's Hospital Of Atlanta, Inc",Atlanta,GA,30342,5192,Level 2 Endovascular Procedures,247,8721.99137651822,12060
+7334,"Saint Joseph's Hospital Of Atlanta, Inc",Atlanta,GA,30342,5193,Level 3 Endovascular Procedures,63,13448.166984127,12060
+7335,"Saint Joseph's Hospital Of Atlanta, Inc",Atlanta,GA,30342,5213,Level 3 Electrophysiologic Procedures,176,14508.8982954545,12060
+7336,"Saint Joseph's Hospital Of Atlanta, Inc",Atlanta,GA,30342,5222,Level 2 Pacemaker and Similar Procedures,34,6258.37,12060
+7337,"Saint Joseph's Hospital Of Atlanta, Inc",Atlanta,GA,30342,5223,Level 3 Pacemaker and Similar Procedures,113,8656.75,12060
+7338,"Saint Joseph's Hospital Of Atlanta, Inc",Atlanta,GA,30342,5224,Level 4 Pacemaker and Similar Procedures,15,15768.42,12060
+7339,"Saint Joseph's Hospital Of Atlanta, Inc",Atlanta,GA,30342,5231,Level 1 ICD and Similar Procedures,15,19659.1333333333,12060
+7340,"Saint Joseph's Hospital Of Atlanta, Inc",Atlanta,GA,30342,5232,Level 2 ICD and Similar Procedures,91,26349.6078021979,12060
+7341,"Saint Joseph's Hospital Of Atlanta, Inc",Atlanta,GA,30342,5361,Level 1 Laparoscopy,99,3643.14151515151,12060
+7342,"Saint Joseph's Hospital Of Atlanta, Inc",Atlanta,GA,30342,5362,Level 2 Laparoscopy,103,1008.44737864077,12060
+7343,"Saint Joseph's Hospital Of Atlanta, Inc",Atlanta,GA,30342,5375,Level 5 Urology and Related Services,74,3145.49891891892,12060
+7344,"Saint Joseph's Hospital Of Atlanta, Inc",Atlanta,GA,30342,5415,Level 5 Gynecologic Procedures,17,3423.8,12060
+7345,"Saint Joseph's Hospital Of Atlanta, Inc",Atlanta,GA,30342,5627,Level 7 Radiation Therapy,17,6820.28,12060
+7346,"Saint Joseph's Hospital Of Atlanta, Inc",Atlanta,GA,30342,8011,Comprehensive Observation Services,1112,2012.29099820144,12060
+7347,Northside Hospital,Atlanta,GA,30342,5093,Level 3 Breast/Lymphatic Surgery and Related Procedures,29,6483.16931034482,12060
+7348,Northside Hospital,Atlanta,GA,30342,5123,Level 3 Musculoskeletal Procedures,113,4578.43663716815,12060
+7349,Northside Hospital,Atlanta,GA,30342,5124,Level 4 Musculoskeletal Procedures,31,6429.1,12060
+7350,Northside Hospital,Atlanta,GA,30342,5165,Level 5 ENT Procedures,57,3542.06894736842,12060
+7351,Northside Hospital,Atlanta,GA,30342,5191,Level 1 Endovascular Procedures,11,3980.64090909091,12060
+7352,Northside Hospital,Atlanta,GA,30342,5192,Level 2 Endovascular Procedures,57,8773.55192982456,12060
+7353,Northside Hospital,Atlanta,GA,30342,5213,Level 3 Electrophysiologic Procedures,21,12667.4533333333,12060
+7354,Northside Hospital,Atlanta,GA,30342,5223,Level 3 Pacemaker and Similar Procedures,35,8240.484,12060
+7355,Northside Hospital,Atlanta,GA,30342,5331,Complex GI Procedures,18,3283.31277777777,12060
+7356,Northside Hospital,Atlanta,GA,30342,5361,Level 1 Laparoscopy,145,3597.66710344826,12060
+7357,Northside Hospital,Atlanta,GA,30342,5362,Level 2 Laparoscopy,74,6342.3404054054,12060
+7358,Northside Hospital,Atlanta,GA,30342,5375,Level 5 Urology and Related Services,171,3125.22947368421,12060
+7359,Northside Hospital,Atlanta,GA,30342,5415,Level 5 Gynecologic Procedures,28,3423.93178571428,12060
+7360,Northside Hospital,Atlanta,GA,30342,5416,Level 6 Gynecologic Procedures,12,5330.19666666666,12060
+7361,Northside Hospital,Atlanta,GA,30342,5462,Level 2 Neurostimulator and Related Procedures,18,4900.99,12060
+7362,Northside Hospital,Atlanta,GA,30342,5463,Level 3 Neurostimulator and Related Procedures,15,16182.57,12060
+7363,Northside Hospital,Atlanta,GA,30342,5464,Level 4 Neurostimulator and Related Procedures,15,24902.56,12060
+7364,Northside Hospital,Atlanta,GA,30342,5492,Level 2 Intraocular Procedures,295,3100.16694915254,12060
+7365,Northside Hospital,Atlanta,GA,30342,8011,Comprehensive Observation Services,168,1959.75172619048,12060
+7366,Piedmont Hospital,Atlanta,GA,30309,5093,Level 3 Breast/Lymphatic Surgery and Related Procedures,13,7059.95,12060
+7367,Piedmont Hospital,Atlanta,GA,30309,5123,Level 3 Musculoskeletal Procedures,141,4617.67765957448,12060
+7368,Piedmont Hospital,Atlanta,GA,30309,5124,Level 4 Musculoskeletal Procedures,19,6600.47,12060
+7369,Piedmont Hospital,Atlanta,GA,30309,5165,Level 5 ENT Procedures,29,3696.9724137931,12060
+7370,Piedmont Hospital,Atlanta,GA,30309,5191,Level 1 Endovascular Procedures,159,4162.0703144654,12060
+7371,Piedmont Hospital,Atlanta,GA,30309,5192,Level 2 Endovascular Procedures,370,8730.11294594589,12060
+7372,Piedmont Hospital,Atlanta,GA,30309,5193,Level 3 Endovascular Procedures,149,13360.0315436241,12060
+7373,Piedmont Hospital,Atlanta,GA,30309,5212,Level 2 Electrophysiologic Procedures,19,4390.37,12060
+7374,Piedmont Hospital,Atlanta,GA,30309,5213,Level 3 Electrophysiologic Procedures,163,14347.7470552147,12060
+7375,Piedmont Hospital,Atlanta,GA,30309,5222,Level 2 Pacemaker and Similar Procedures,68,6185.12058823529,12060
+7376,Piedmont Hospital,Atlanta,GA,30309,5223,Level 3 Pacemaker and Similar Procedures,119,8512.3287394958,12060
+7377,Piedmont Hospital,Atlanta,GA,30309,5224,Level 4 Pacemaker and Similar Procedures,24,15768.42,12060
+7378,Piedmont Hospital,Atlanta,GA,30309,5231,Level 1 ICD and Similar Procedures,42,20436.5999999999,12060
+7379,Piedmont Hospital,Atlanta,GA,30309,5232,Level 2 ICD and Similar Procedures,168,27119.625,12060
+7380,Piedmont Hospital,Atlanta,GA,30309,5331,Complex GI Procedures,78,2894.53166666666,12060
+7381,Piedmont Hospital,Atlanta,GA,30309,5361,Level 1 Laparoscopy,192,3652.38057291667,12060
+7382,Piedmont Hospital,Atlanta,GA,30309,5362,Level 2 Laparoscopy,81,6348.20543209876,12060
+7383,Piedmont Hospital,Atlanta,GA,30309,5375,Level 5 Urology and Related Services,245,3161.21840816327,12060
+7384,Piedmont Hospital,Atlanta,GA,30309,5415,Level 5 Gynecologic Procedures,20,3424.253,12060
+7385,Piedmont Hospital,Atlanta,GA,30309,5492,Level 2 Intraocular Procedures,36,3089.48638888888,12060
+7386,Piedmont Hospital,Atlanta,GA,30309,5627,Level 7 Radiation Therapy,25,6820.28,12060
+7387,Piedmont Hospital,Atlanta,GA,30309,8011,Comprehensive Observation Services,901,2007.79157602665,12060
+7390,Gwinnett Medical Center,Lawrenceville,GA,30045,5123,Level 3 Musculoskeletal Procedures,134,4561.06395522388,12060
+7391,Gwinnett Medical Center,Lawrenceville,GA,30045,5124,Level 4 Musculoskeletal Procedures,83,6482.69734939757,12060
+7392,Gwinnett Medical Center,Lawrenceville,GA,30045,5125,Level 5 Musculoskeletal Procedures,41,9649.81536585365,12060
+7393,Gwinnett Medical Center,Lawrenceville,GA,30045,5165,Level 5 ENT Procedures,62,3567.3929032258,12060
+7394,Gwinnett Medical Center,Lawrenceville,GA,30045,5191,Level 1 Endovascular Procedures,25,4291.48,12060
+7395,Gwinnett Medical Center,Lawrenceville,GA,30045,5192,Level 2 Endovascular Procedures,182,8823.34395604395,12060
+7396,Gwinnett Medical Center,Lawrenceville,GA,30045,5193,Level 3 Endovascular Procedures,44,10582.535,12060
+7397,Gwinnett Medical Center,Lawrenceville,GA,30045,5213,Level 3 Electrophysiologic Procedures,96,14248.4803125,12060
+7398,Gwinnett Medical Center,Lawrenceville,GA,30045,5222,Level 2 Pacemaker and Similar Procedures,37,6258.50243243243,12060
+7399,Gwinnett Medical Center,Lawrenceville,GA,30045,5223,Level 3 Pacemaker and Similar Procedures,87,8572.11988505747,12060
+7400,Gwinnett Medical Center,Lawrenceville,GA,30045,5224,Level 4 Pacemaker and Similar Procedures,13,15768.42,12060
+7401,Gwinnett Medical Center,Lawrenceville,GA,30045,5231,Level 1 ICD and Similar Procedures,29,16403.7310344827,12060
+7402,Gwinnett Medical Center,Lawrenceville,GA,30045,5232,Level 2 ICD and Similar Procedures,80,24650.333125,12060
+7403,Gwinnett Medical Center,Lawrenceville,GA,30045,5331,Complex GI Procedures,20,3376.992,12060
+7404,Gwinnett Medical Center,Lawrenceville,GA,30045,5361,Level 1 Laparoscopy,123,3670.97162601626,12060
+7405,Gwinnett Medical Center,Lawrenceville,GA,30045,5362,Level 2 Laparoscopy,33,6411.38,12060
+7406,Gwinnett Medical Center,Lawrenceville,GA,30045,5375,Level 5 Urology and Related Services,124,3151.14177419354,12060
+7407,Gwinnett Medical Center,Lawrenceville,GA,30045,5377,Level 7 Urology and Related Services,14,13137.84,12060
+7408,Gwinnett Medical Center,Lawrenceville,GA,30045,5415,Level 5 Gynecologic Procedures,16,3423.8,12060
+7409,Gwinnett Medical Center,Lawrenceville,GA,30045,5462,Level 2 Neurostimulator and Related Procedures,11,4546.04636363636,12060
+7410,Gwinnett Medical Center,Lawrenceville,GA,30045,5463,Level 3 Neurostimulator and Related Procedures,11,16182.57,12060
+7411,Gwinnett Medical Center,Lawrenceville,GA,30045,8011,Comprehensive Observation Services,1140,2007.54244736843,12060
+7419,Rockdale Medical Center,Conyers,GA,30012,5123,Level 3 Musculoskeletal Procedures,63,4379.04793650793,12060
+7420,Rockdale Medical Center,Conyers,GA,30012,5191,Level 1 Endovascular Procedures,99,4256.96919191919,12060
+7421,Rockdale Medical Center,Conyers,GA,30012,5192,Level 2 Endovascular Procedures,131,8756.15832061068,12060
+7422,Rockdale Medical Center,Conyers,GA,30012,5193,Level 3 Endovascular Procedures,16,13625.68,12060
+7423,Rockdale Medical Center,Conyers,GA,30012,5361,Level 1 Laparoscopy,35,3591.57885714285,12060
+7424,Rockdale Medical Center,Conyers,GA,30012,5375,Level 5 Urology and Related Services,47,3089.29872340425,12060
+7425,Rockdale Medical Center,Conyers,GA,30012,5415,Level 5 Gynecologic Procedures,15,3423.8,12060
+7426,Rockdale Medical Center,Conyers,GA,30012,8011,Comprehensive Observation Services,485,2002.40554639177,12060
+7491,Wellstar Atlanta Medical Center,Atlanta,GA,30312,5123,Level 3 Musculoskeletal Procedures,14,4643.9,12060
+7492,Wellstar Atlanta Medical Center,Atlanta,GA,30312,5191,Level 1 Endovascular Procedures,18,4291.48,12060
+7493,Wellstar Atlanta Medical Center,Atlanta,GA,30312,5223,Level 3 Pacemaker and Similar Procedures,11,8656.77181818181,12060
+7494,Wellstar Atlanta Medical Center,Atlanta,GA,30312,5361,Level 1 Laparoscopy,12,3739.17,12060
+7495,Wellstar Atlanta Medical Center,Atlanta,GA,30312,5375,Level 5 Urology and Related Services,65,3171.56092307692,12060
+7496,Wellstar Atlanta Medical Center,Atlanta,GA,30312,5492,Level 2 Intraocular Procedures,21,3039.54095238095,12060
+7497,Wellstar Atlanta Medical Center,Atlanta,GA,30312,8011,Comprehensive Observation Services,180,1995.83577777778,12060
+7586,Wellstar Cobb Hospital,Austell,GA,30106,5123,Level 3 Musculoskeletal Procedures,29,4516.31344827586,12060
+7587,Wellstar Cobb Hospital,Austell,GA,30106,5124,Level 4 Musculoskeletal Procedures,14,6600.47,12060
+7588,Wellstar Cobb Hospital,Austell,GA,30106,5165,Level 5 ENT Procedures,17,3696.96,12060
+7589,Wellstar Cobb Hospital,Austell,GA,30106,5191,Level 1 Endovascular Procedures,29,3819.86206896551,12060
+7590,Wellstar Cobb Hospital,Austell,GA,30106,5192,Level 2 Endovascular Procedures,39,8711.73897435897,12060
+7591,Wellstar Cobb Hospital,Austell,GA,30106,5222,Level 2 Pacemaker and Similar Procedures,19,6258.37,12060
+7592,Wellstar Cobb Hospital,Austell,GA,30106,5223,Level 3 Pacemaker and Similar Procedures,31,8656.75,12060
+7593,Wellstar Cobb Hospital,Austell,GA,30106,5232,Level 2 ICD and Similar Procedures,44,28403.37,12060
+7594,Wellstar Cobb Hospital,Austell,GA,30106,5361,Level 1 Laparoscopy,126,3622.02579365078,12060
+7595,Wellstar Cobb Hospital,Austell,GA,30106,5362,Level 2 Laparoscopy,71,6352.03478873239,12060
+7596,Wellstar Cobb Hospital,Austell,GA,30106,5375,Level 5 Urology and Related Services,107,3085.46607476635,12060
+7597,Wellstar Cobb Hospital,Austell,GA,30106,5376,Level 6 Urology and Related Services,20,6939.44,12060
+7598,Wellstar Cobb Hospital,Austell,GA,30106,5377,Level 7 Urology and Related Services,11,13137.84,12060
+7599,Wellstar Cobb Hospital,Austell,GA,30106,5415,Level 5 Gynecologic Procedures,23,3312.21869565217,12060
+7600,Wellstar Cobb Hospital,Austell,GA,30106,8011,Comprehensive Observation Services,797,2011.36515683816,12060
+7639,Southern Regional Medical Center,Riverdale,GA,30274,5191,Level 1 Endovascular Procedures,34,4068.60029411764,12060
+7640,Southern Regional Medical Center,Riverdale,GA,30274,5192,Level 2 Endovascular Procedures,31,8907.07,12060
+7641,Southern Regional Medical Center,Riverdale,GA,30274,5361,Level 1 Laparoscopy,21,3460.79095238095,12060
+7642,Southern Regional Medical Center,Riverdale,GA,30274,5375,Level 5 Urology and Related Services,25,3075.756,12060
+7643,Southern Regional Medical Center,Riverdale,GA,30274,8011,Comprehensive Observation Services,41,1942.77341463414,12060
+7682,Wellstar Douglas Hospital,Douglasville,GA,30134,5361,Level 1 Laparoscopy,51,3622.3394117647,12060
+7683,Wellstar Douglas Hospital,Douglasville,GA,30134,5375,Level 5 Urology and Related Services,52,3122.92576923077,12060
+7684,Wellstar Douglas Hospital,Douglasville,GA,30134,8011,Comprehensive Observation Services,518,2016.71596525098,12060
+7685,Chestatee Regional Hospital,Dahlonega,GA,30533,5123,Level 3 Musculoskeletal Procedures,13,4614.26,12060
+7686,Chestatee Regional Hospital,Dahlonega,GA,30533,5123,Level 3 Musculoskeletal Procedures,13,4614.26,99999
+7687,Chestatee Regional Hospital,Dahlonega,GA,30533,5123,Level 3 Musculoskeletal Procedures,13,4614.26,23580
+7688,Chestatee Regional Hospital,Dahlonega,GA,30533,8011,Comprehensive Observation Services,129,1993.88217054264,12060
+7689,Chestatee Regional Hospital,Dahlonega,GA,30533,8011,Comprehensive Observation Services,129,1993.88217054264,99999
+7690,Chestatee Regional Hospital,Dahlonega,GA,30533,8011,Comprehensive Observation Services,129,1993.88217054264,23580
+7695,Piedmont Henry Hospital,Stockbridge,GA,30281,5123,Level 3 Musculoskeletal Procedures,52,4537.1273076923,12060
+7696,Piedmont Henry Hospital,Stockbridge,GA,30281,5125,Level 5 Musculoskeletal Procedures,12,9833.92666666666,12060
+7697,Piedmont Henry Hospital,Stockbridge,GA,30281,5191,Level 1 Endovascular Procedures,71,4291.51746478873,12060
+7698,Piedmont Henry Hospital,Stockbridge,GA,30281,5192,Level 2 Endovascular Procedures,60,8653.48116666666,12060
+7699,Piedmont Henry Hospital,Stockbridge,GA,30281,5213,Level 3 Electrophysiologic Procedures,14,13564.5407142857,12060
+7700,Piedmont Henry Hospital,Stockbridge,GA,30281,5222,Level 2 Pacemaker and Similar Procedures,17,6258.37,12060
+7701,Piedmont Henry Hospital,Stockbridge,GA,30281,5223,Level 3 Pacemaker and Similar Procedures,57,8656.81754385964,12060
+7702,Piedmont Henry Hospital,Stockbridge,GA,30281,5232,Level 2 ICD and Similar Procedures,34,28403.37,12060
+7703,Piedmont Henry Hospital,Stockbridge,GA,30281,5361,Level 1 Laparoscopy,155,3639.07361290322,12060
+7704,Piedmont Henry Hospital,Stockbridge,GA,30281,5362,Level 2 Laparoscopy,20,5948.477,12060
+7705,Piedmont Henry Hospital,Stockbridge,GA,30281,5375,Level 5 Urology and Related Services,18,3171.52,12060
+7706,Piedmont Henry Hospital,Stockbridge,GA,30281,5415,Level 5 Gynecologic Procedures,27,3328.74925925925,12060
+7707,Piedmont Henry Hospital,Stockbridge,GA,30281,8011,Comprehensive Observation Services,702,1998.79062678065,12060
+7708,Eastside Medical Center,Snellville,GA,30078,5123,Level 3 Musculoskeletal Procedures,48,4566.81645833333,12060
+7709,Eastside Medical Center,Snellville,GA,30078,5124,Level 4 Musculoskeletal Procedures,17,6600.47,12060
+7710,Eastside Medical Center,Snellville,GA,30078,5191,Level 1 Endovascular Procedures,30,4291.48,12060
+7711,Eastside Medical Center,Snellville,GA,30078,5192,Level 2 Endovascular Procedures,14,8907.07,12060
+7712,Eastside Medical Center,Snellville,GA,30078,5232,Level 2 ICD and Similar Procedures,13,27218.0976923076,12060
+7713,Eastside Medical Center,Snellville,GA,30078,5361,Level 1 Laparoscopy,33,3658.61454545454,12060
+7714,Eastside Medical Center,Snellville,GA,30078,5362,Level 2 Laparoscopy,11,5479.85636363636,12060
+7715,Eastside Medical Center,Snellville,GA,30078,5415,Level 5 Gynecologic Procedures,13,3362.95923076923,12060
+7716,Eastside Medical Center,Snellville,GA,30078,8011,Comprehensive Observation Services,222,1973.495,12060
+7719,Wellstar North Fulton Hospital,Roswell,GA,30076,5123,Level 3 Musculoskeletal Procedures,53,4574.08849056603,12060
+7720,Wellstar North Fulton Hospital,Roswell,GA,30076,5124,Level 4 Musculoskeletal Procedures,38,6460.66815789473,12060
+7721,Wellstar North Fulton Hospital,Roswell,GA,30076,5125,Level 5 Musculoskeletal Procedures,11,9833.65,12060
+7722,Wellstar North Fulton Hospital,Roswell,GA,30076,5165,Level 5 ENT Procedures,36,3623.43222222222,12060
+7723,Wellstar North Fulton Hospital,Roswell,GA,30076,5192,Level 2 Endovascular Procedures,14,8907.22428571428,12060
+7724,Wellstar North Fulton Hospital,Roswell,GA,30076,5361,Level 1 Laparoscopy,21,3739.17,12060
+7725,Wellstar North Fulton Hospital,Roswell,GA,30076,5375,Level 5 Urology and Related Services,78,3111.96576923077,12060
+7726,Wellstar North Fulton Hospital,Roswell,GA,30076,5462,Level 2 Neurostimulator and Related Procedures,33,4900.99,12060
+7727,Wellstar North Fulton Hospital,Roswell,GA,30076,5464,Level 4 Neurostimulator and Related Procedures,22,24902.56,12060
+7728,Wellstar North Fulton Hospital,Roswell,GA,30076,8011,Comprehensive Observation Services,317,2021.58047318613,12060
+7745,Piedmont Fayette Hospital,Fayetteville,GA,30214,5123,Level 3 Musculoskeletal Procedures,69,4590.30173913043,12060
+7746,Piedmont Fayette Hospital,Fayetteville,GA,30214,5124,Level 4 Musculoskeletal Procedures,46,6600.47,12060
+7747,Piedmont Fayette Hospital,Fayetteville,GA,30214,5125,Level 5 Musculoskeletal Procedures,15,10489.2266666666,12060
+7748,Piedmont Fayette Hospital,Fayetteville,GA,30214,5191,Level 1 Endovascular Procedures,19,4291.61263157894,12060
+7749,Piedmont Fayette Hospital,Fayetteville,GA,30214,5192,Level 2 Endovascular Procedures,112,8703.01741071427,12060
+7750,Piedmont Fayette Hospital,Fayetteville,GA,30214,5193,Level 3 Endovascular Procedures,35,12531.3645714285,12060
+7751,Piedmont Fayette Hospital,Fayetteville,GA,30214,5222,Level 2 Pacemaker and Similar Procedures,15,6258.37,12060
+7752,Piedmont Fayette Hospital,Fayetteville,GA,30214,5223,Level 3 Pacemaker and Similar Procedures,39,8467.80769230769,12060
+7753,Piedmont Fayette Hospital,Fayetteville,GA,30214,5331,Complex GI Procedures,12,3095.55583333333,12060
+7754,Piedmont Fayette Hospital,Fayetteville,GA,30214,5361,Level 1 Laparoscopy,193,3601.71813471503,12060
+7755,Piedmont Fayette Hospital,Fayetteville,GA,30214,5362,Level 2 Laparoscopy,36,6280.00222222222,12060
+7756,Piedmont Fayette Hospital,Fayetteville,GA,30214,5375,Level 5 Urology and Related Services,158,3107.54784810127,12060
+7757,Piedmont Fayette Hospital,Fayetteville,GA,30214,5415,Level 5 Gynecologic Procedures,24,3317.07083333333,12060
+7758,Piedmont Fayette Hospital,Fayetteville,GA,30214,8011,Comprehensive Observation Services,690,2009.58834782611,12060
+7759,Piedmont Mountainside Hospital Inc,Jasper,GA,30143,5123,Level 3 Musculoskeletal Procedures,35,4432.47085714285,12060
+7760,Piedmont Mountainside Hospital Inc,Jasper,GA,30143,5124,Level 4 Musculoskeletal Procedures,33,6439.48606060606,12060
+7761,Piedmont Mountainside Hospital Inc,Jasper,GA,30143,5222,Level 2 Pacemaker and Similar Procedures,31,6097.60580645161,12060
+7762,Piedmont Mountainside Hospital Inc,Jasper,GA,30143,5223,Level 3 Pacemaker and Similar Procedures,18,8656.75,12060
+7763,Piedmont Mountainside Hospital Inc,Jasper,GA,30143,5361,Level 1 Laparoscopy,84,3703.71559523809,12060
+7764,Piedmont Mountainside Hospital Inc,Jasper,GA,30143,5375,Level 5 Urology and Related Services,39,3171.52,12060
+7765,Piedmont Mountainside Hospital Inc,Jasper,GA,30143,5415,Level 5 Gynecologic Procedures,14,3423.8,12060
+7766,Piedmont Mountainside Hospital Inc,Jasper,GA,30143,8011,Comprehensive Observation Services,338,2012.6377810651,12060
+7767,Dekalb Medical Center At Hillandale,Lithonia,GA,30058,5191,Level 1 Endovascular Procedures,54,4291.49388888889,12060
+7768,Dekalb Medical Center At Hillandale,Lithonia,GA,30058,5361,Level 1 Laparoscopy,17,3739.32647058823,12060
+7769,Dekalb Medical Center At Hillandale,Lithonia,GA,30058,8011,Comprehensive Observation Services,183,2014.09306010929,12060
+7770,"Piedmont Newnan Hospital, Inc",Newnan,GA,30265,5123,Level 3 Musculoskeletal Procedures,21,4643.9,12060
+7771,"Piedmont Newnan Hospital, Inc",Newnan,GA,30265,5124,Level 4 Musculoskeletal Procedures,15,6600.47,12060
+7772,"Piedmont Newnan Hospital, Inc",Newnan,GA,30265,5232,Level 2 ICD and Similar Procedures,16,28403.37,12060
+7773,"Piedmont Newnan Hospital, Inc",Newnan,GA,30265,5361,Level 1 Laparoscopy,45,3678.528,12060
+7774,"Piedmont Newnan Hospital, Inc",Newnan,GA,30265,5375,Level 5 Urology and Related Services,57,3092.77052631579,12060
+7775,"Piedmont Newnan Hospital, Inc",Newnan,GA,30265,5415,Level 5 Gynecologic Procedures,12,3209.93583333333,12060
+7776,"Piedmont Newnan Hospital, Inc",Newnan,GA,30265,8011,Comprehensive Observation Services,383,2000.7420626632,12060
+7777,Southeastern Regional Medical Center,Newnan,GA,30265,5192,Level 2 Endovascular Procedures,21,8907.07,12060
+7778,Emory Johns Creek Hospital,Johns Creek,GA,30097,5123,Level 3 Musculoskeletal Procedures,62,4524.54483870967,12060
+7779,Emory Johns Creek Hospital,Johns Creek,GA,30097,5124,Level 4 Musculoskeletal Procedures,16,6600.47,12060
+7780,Emory Johns Creek Hospital,Johns Creek,GA,30097,5191,Level 1 Endovascular Procedures,13,4291.48,12060
+7781,Emory Johns Creek Hospital,Johns Creek,GA,30097,5192,Level 2 Endovascular Procedures,65,8673.442,12060
+7782,Emory Johns Creek Hospital,Johns Creek,GA,30097,5193,Level 3 Endovascular Procedures,16,12774.075,12060
+7783,Emory Johns Creek Hospital,Johns Creek,GA,30097,5361,Level 1 Laparoscopy,53,3629.59396226415,12060
+7784,Emory Johns Creek Hospital,Johns Creek,GA,30097,8011,Comprehensive Observation Services,395,1991.4990379747,12060

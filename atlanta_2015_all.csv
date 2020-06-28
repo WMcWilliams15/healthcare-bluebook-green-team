@@ -1,0 +1,187 @@
+,Provider Name,Provider City,"Provider
+State",ZIP,APC,"APC
+Description","Comprehensive APC
+Services","Average
+Medicare
+Allowed
+Amount",CBSA
+3504,Northside Hospital Forsyth,Cumming,GA,30041,67,Single Session Cranial Stereotactic Radiosurgery,19,9205.56,12060
+3505,Northside Hospital Forsyth,Cumming,GA,30041,83,Level I Endovascular Procedures,25,4283.114,12060
+3506,Northside Hospital Forsyth,Cumming,GA,30041,86,Level III Electrophysiologic Procedures,13,13521.71,12060
+3507,Northside Hospital Forsyth,Cumming,GA,30041,89,Level III Pacemaker and Similar Procedures,41,8946.49926829268,12060
+3508,Northside Hospital Forsyth,Cumming,GA,30041,90,Level II Pacemaker and Similar Procedures,15,6175.91,12060
+3509,Northside Hospital Forsyth,Cumming,GA,30041,108,Level II ICD and Similar Procedures,13,28985.96,12060
+3510,Northside Hospital Forsyth,Cumming,GA,30041,202,Level V Gynecologic Procedures,11,3502.06,12060
+3511,Northside Hospital Forsyth,Cumming,GA,30041,229,Level II Endovascular Procedures,93,8988.73290322579,12060
+3512,Northside Hospital Forsyth,Cumming,GA,30041,319,Level III Endovascular Procedures,14,13977.15,12060
+3513,Northside Hospital Forsyth,Cumming,GA,30041,425,Level V Musculoskeletal Procedures Except Hand and Foot,12,9632.91,12060
+3535,Northside Hospital Cherokee,Canton,GA,30114,83,Level I Endovascular Procedures,20,4283.084,12060
+3536,Northside Hospital Cherokee,Canton,GA,30114,202,Level V Gynecologic Procedures,30,3758.15,12060
+3537,Northside Hospital Cherokee,Canton,GA,30114,229,Level II Endovascular Procedures,50,9072.7688,12060
+3538,Northside Hospital Cherokee,Canton,GA,30114,318,Level IV Neurostimulator & Related Procedures,20,23443.051,12060
+3539,Emory University Hospital,Atlanta,GA,30322,39,Level III Neurostimulator & Related Procedures,61,14895.456557377,12060
+3540,Emory University Hospital,Atlanta,GA,30322,61,Level II Neurostimulator & Related Procedures,13,4686.07692307692,12060
+3541,Emory University Hospital,Atlanta,GA,30322,83,Level I Endovascular Procedures,46,4215.91608695652,12060
+3542,Emory University Hospital,Atlanta,GA,30322,85,Level II Electrophysiologic Procedures,17,4373.53,12060
+3543,Emory University Hospital,Atlanta,GA,30322,86,Level III Electrophysiologic Procedures,97,12896.1850515463,12060
+3544,Emory University Hospital,Atlanta,GA,30322,89,Level III Pacemaker and Similar Procedures,83,8946.40060240965,12060
+3545,Emory University Hospital,Atlanta,GA,30322,90,Level II Pacemaker and Similar Procedures,24,6175.91,12060
+3546,Emory University Hospital,Atlanta,GA,30322,107,Level I ICD and Similar Procedures,13,21560.5015384615,12060
+3547,Emory University Hospital,Atlanta,GA,30322,108,Level II ICD and Similar Procedures,78,28985.9976923076,12060
+3548,Emory University Hospital,Atlanta,GA,30322,202,Level V Gynecologic Procedures,56,3758.15,12060
+3549,Emory University Hospital,Atlanta,GA,30322,229,Level II Endovascular Procedures,256,8888.86503906246,12060
+3550,Emory University Hospital,Atlanta,GA,30322,318,Level IV Neurostimulator & Related Procedures,38,21921.5921052631,12060
+3551,Emory University Hospital,Atlanta,GA,30322,319,Level III Endovascular Procedures,58,13757.4837931034,12060
+3552,Emory University Hospital,Atlanta,GA,30322,384,GI Procedures with Stents,47,2945.07404255319,12060
+3553,Emory University Hospital,Atlanta,GA,30322,385,Level I Urogenital Procedures,19,6438.9647368421,12060
+3554,Emory University Hospital,Atlanta,GA,30322,655,Level IV Pacemaker and Similar Procedures,34,15026.4255882352,12060
+3555,Tanner Medical Center - Carrollton,Carrollton,GA,30117,83,Level I Endovascular Procedures,34,4283.02,12060
+3556,Tanner Medical Center - Carrollton,Carrollton,GA,30117,89,Level III Pacemaker and Similar Procedures,38,8946.415,12060
+3557,Tanner Medical Center - Carrollton,Carrollton,GA,30117,108,Level II ICD and Similar Procedures,18,28985.96,12060
+3558,Tanner Medical Center - Carrollton,Carrollton,GA,30117,202,Level V Gynecologic Procedures,16,3758.19375,12060
+3559,Tanner Medical Center - Carrollton,Carrollton,GA,30117,229,Level II Endovascular Procedures,86,8967.21337209301,12060
+3560,Tanner Medical Center - Carrollton,Carrollton,GA,30117,319,Level III Endovascular Procedures,15,10249.602,12060
+3561,West Georgia Medical Center,Lagrange,GA,30240,89,Level III Pacemaker and Similar Procedures,29,8681.35172413793,12060
+3562,West Georgia Medical Center,Lagrange,GA,30240,89,Level III Pacemaker and Similar Procedures,29,8681.35172413793,29300
+3563,West Georgia Medical Center,Lagrange,GA,30240,229,Level II Endovascular Procedures,74,8967.17256756756,12060
+3564,West Georgia Medical Center,Lagrange,GA,30240,229,Level II Endovascular Procedures,74,8967.17256756756,29300
+3565,West Georgia Medical Center,Lagrange,GA,30240,319,Level III Endovascular Procedures,28,11980.0542857142,12060
+3566,West Georgia Medical Center,Lagrange,GA,30240,319,Level III Endovascular Procedures,28,11980.0542857142,29300
+3567,Piedmont Newton Hospital,Covington,GA,30014,61,Level II Neurostimulator & Related Procedures,13,4992.03,12060
+3568,Piedmont Newton Hospital,Covington,GA,30014,89,Level III Pacemaker and Similar Procedures,12,8946.4,12060
+3609,Cartersville Medical Center,Cartersville,GA,30120,229,Level II Endovascular Procedures,38,8867.11236842105,12060
+3610,Spalding Regional Hospital,Griffin,GA,30223,83,Level I Endovascular Procedures,73,4189.54465753424,12060
+3611,Spalding Regional Hospital,Griffin,GA,30223,89,Level III Pacemaker and Similar Procedures,13,8946.4,12060
+3612,Spalding Regional Hospital,Griffin,GA,30223,229,Level II Endovascular Procedures,52,9072.71,12060
+3629,Wellstar Kennestone Hospital,Marietta,GA,30060,39,Level III Neurostimulator & Related Procedures,19,16100.12,12060
+3630,Wellstar Kennestone Hospital,Marietta,GA,30060,61,Level II Neurostimulator & Related Procedures,20,4812.78,12060
+3631,Wellstar Kennestone Hospital,Marietta,GA,30060,83,Level I Endovascular Procedures,25,4283.02,12060
+3632,Wellstar Kennestone Hospital,Marietta,GA,30060,86,Level III Electrophysiologic Procedures,109,13306.6759633027,12060
+3633,Wellstar Kennestone Hospital,Marietta,GA,30060,89,Level III Pacemaker and Similar Procedures,132,8888.16969696969,12060
+3634,Wellstar Kennestone Hospital,Marietta,GA,30060,90,Level II Pacemaker and Similar Procedures,31,6017.17967741935,12060
+3635,Wellstar Kennestone Hospital,Marietta,GA,30060,108,Level II ICD and Similar Procedures,86,27850.2523255814,12060
+3636,Wellstar Kennestone Hospital,Marietta,GA,30060,202,Level V Gynecologic Procedures,41,3689.49707317073,12060
+3637,Wellstar Kennestone Hospital,Marietta,GA,30060,229,Level II Endovascular Procedures,155,8820.72503225806,12060
+3638,Wellstar Kennestone Hospital,Marietta,GA,30060,318,Level IV Neurostimulator & Related Procedures,24,24610.7025,12060
+3639,Wellstar Kennestone Hospital,Marietta,GA,30060,319,Level III Endovascular Procedures,75,13807.1736,12060
+3640,Wellstar Kennestone Hospital,Marietta,GA,30060,384,GI Procedures with Stents,21,2995.86,12060
+3641,Wellstar Kennestone Hospital,Marietta,GA,30060,385,Level I Urogenital Procedures,13,5642.07,12060
+3642,Wellstar Kennestone Hospital,Marietta,GA,30060,425,Level V Musculoskeletal Procedures Except Hand and Foot,16,8586.29625,12060
+3643,Wellstar Kennestone Hospital,Marietta,GA,30060,648,Level IV Breast and Skin Surgery,15,7039.59,12060
+3644,Wellstar Kennestone Hospital,Marietta,GA,30060,655,Level IV Pacemaker and Similar Procedures,22,15443.59,12060
+3699,Dekalb Medical Center,Decatur,GA,30033,83,Level I Endovascular Procedures,48,4211.92666666666,12060
+3700,Dekalb Medical Center,Decatur,GA,30033,89,Level III Pacemaker and Similar Procedures,14,8946.4,12060
+3701,Dekalb Medical Center,Decatur,GA,30033,108,Level II ICD and Similar Procedures,18,28985.96,12060
+3702,Dekalb Medical Center,Decatur,GA,30033,202,Level V Gynecologic Procedures,14,3758.15,12060
+3703,Dekalb Medical Center,Decatur,GA,30033,229,Level II Endovascular Procedures,94,8906.54468085105,12060
+3704,Dekalb Medical Center,Decatur,GA,30033,319,Level III Endovascular Procedures,33,13976.73,12060
+3705,Emory University Hospital Midtown,Atlanta,GA,30308,83,Level I Endovascular Procedures,88,4146.90045454545,12060
+3706,Emory University Hospital Midtown,Atlanta,GA,30308,85,Level II Electrophysiologic Procedures,12,4083.14666666666,12060
+3707,Emory University Hospital Midtown,Atlanta,GA,30308,86,Level III Electrophysiologic Procedures,50,13276.4758,12060
+3708,Emory University Hospital Midtown,Atlanta,GA,30308,89,Level III Pacemaker and Similar Procedures,47,8360.60425531915,12060
+3709,Emory University Hospital Midtown,Atlanta,GA,30308,90,Level II Pacemaker and Similar Procedures,17,6175.91,12060
+3710,Emory University Hospital Midtown,Atlanta,GA,30308,107,Level I ICD and Similar Procedures,16,20291.6625,12060
+3711,Emory University Hospital Midtown,Atlanta,GA,30308,108,Level II ICD and Similar Procedures,61,28083.1501639344,12060
+3712,Emory University Hospital Midtown,Atlanta,GA,30308,202,Level V Gynecologic Procedures,12,3758.15,12060
+3713,Emory University Hospital Midtown,Atlanta,GA,30308,229,Level II Endovascular Procedures,102,8919.54843137254,12060
+3714,Emory University Hospital Midtown,Atlanta,GA,30308,259,Level VII ENT Procedures,11,27952.3,12060
+3715,Emory University Hospital Midtown,Atlanta,GA,30308,319,Level III Endovascular Procedures,33,13591.3745454545,12060
+3716,Grady Memorial Hospital,Atlanta,GA,30303,108,Level II ICD and Similar Procedures,11,28985.96,12060
+3717,Grady Memorial Hospital,Atlanta,GA,30303,229,Level II Endovascular Procedures,13,9072.71,12060
+3718,"Saint Joseph's Hospital Of Atlanta, Inc",Atlanta,GA,30342,67,Single Session Cranial Stereotactic Radiosurgery,27,8916.72444444444,12060
+3719,"Saint Joseph's Hospital Of Atlanta, Inc",Atlanta,GA,30342,83,Level I Endovascular Procedures,152,4218.31828947369,12060
+3720,"Saint Joseph's Hospital Of Atlanta, Inc",Atlanta,GA,30342,85,Level II Electrophysiologic Procedures,13,4373.53,12060
+3721,"Saint Joseph's Hospital Of Atlanta, Inc",Atlanta,GA,30342,86,Level III Electrophysiologic Procedures,177,13040.2287570621,12060
+3722,"Saint Joseph's Hospital Of Atlanta, Inc",Atlanta,GA,30342,89,Level III Pacemaker and Similar Procedures,89,8860.03595505619,12060
+3723,"Saint Joseph's Hospital Of Atlanta, Inc",Atlanta,GA,30342,90,Level II Pacemaker and Similar Procedures,24,6175.98791666666,12060
+3724,"Saint Joseph's Hospital Of Atlanta, Inc",Atlanta,GA,30342,107,Level I ICD and Similar Procedures,14,20110.4085714285,12060
+3725,"Saint Joseph's Hospital Of Atlanta, Inc",Atlanta,GA,30342,108,Level II ICD and Similar Procedures,80,27946.268625,12060
+3726,"Saint Joseph's Hospital Of Atlanta, Inc",Atlanta,GA,30342,202,Level V Gynecologic Procedures,11,3758.15,12060
+3727,"Saint Joseph's Hospital Of Atlanta, Inc",Atlanta,GA,30342,229,Level II Endovascular Procedures,186,8671.62467741935,12060
+3728,"Saint Joseph's Hospital Of Atlanta, Inc",Atlanta,GA,30342,319,Level III Endovascular Procedures,32,13142.65125,12060
+3729,"Saint Joseph's Hospital Of Atlanta, Inc",Atlanta,GA,30342,425,Level V Musculoskeletal Procedures Except Hand and Foot,33,9379.18545454545,12060
+3730,"Saint Joseph's Hospital Of Atlanta, Inc",Atlanta,GA,30342,655,Level IV Pacemaker and Similar Procedures,12,14261.6241666666,12060
+3731,Northside Hospital,Atlanta,GA,30342,39,Level III Neurostimulator & Related Procedures,19,15319.0610526315,12060
+3732,Northside Hospital,Atlanta,GA,30342,61,Level II Neurostimulator & Related Procedures,15,4992.03,12060
+3733,Northside Hospital,Atlanta,GA,30342,67,Single Session Cranial Stereotactic Radiosurgery,12,9205.56,12060
+3734,Northside Hospital,Atlanta,GA,30342,83,Level I Endovascular Procedures,14,4283.02,12060
+3735,Northside Hospital,Atlanta,GA,30342,86,Level III Electrophysiologic Procedures,22,13521.8122727272,12060
+3736,Northside Hospital,Atlanta,GA,30342,89,Level III Pacemaker and Similar Procedures,29,8946.69379310344,12060
+3737,Northside Hospital,Atlanta,GA,30342,108,Level II ICD and Similar Procedures,11,26478.7818181818,12060
+3738,Northside Hospital,Atlanta,GA,30342,202,Level V Gynecologic Procedures,59,3758.18762711864,12060
+3739,Northside Hospital,Atlanta,GA,30342,229,Level II Endovascular Procedures,65,8954.16446153846,12060
+3740,Northside Hospital,Atlanta,GA,30342,259,Level VII ENT Procedures,14,26127.9464285714,12060
+3741,Northside Hospital,Atlanta,GA,30342,384,GI Procedures with Stents,12,2805.115,12060
+3742,Northside Hospital,Atlanta,GA,30342,385,Level I Urogenital Procedures,15,6093.556,12060
+3743,Northside Hospital,Atlanta,GA,30342,648,Level IV Breast and Skin Surgery,18,7039.59,12060
+3744,Piedmont Hospital,Atlanta,GA,30309,39,Level III Neurostimulator & Related Procedures,13,16100.12,12060
+3745,Piedmont Hospital,Atlanta,GA,30309,67,Single Session Cranial Stereotactic Radiosurgery,15,8675.856,12060
+3746,Piedmont Hospital,Atlanta,GA,30309,83,Level I Endovascular Procedures,143,4232.33006993007,12060
+3747,Piedmont Hospital,Atlanta,GA,30309,85,Level II Electrophysiologic Procedures,19,4190.13,12060
+3748,Piedmont Hospital,Atlanta,GA,30309,86,Level III Electrophysiologic Procedures,167,13464.9053892215,12060
+3749,Piedmont Hospital,Atlanta,GA,30309,89,Level III Pacemaker and Similar Procedures,110,8876.56509090911,12060
+3750,Piedmont Hospital,Atlanta,GA,30309,90,Level II Pacemaker and Similar Procedures,43,6175.91,12060
+3751,Piedmont Hospital,Atlanta,GA,30309,107,Level I ICD and Similar Procedures,27,21560.4944444444,12060
+3752,Piedmont Hospital,Atlanta,GA,30309,108,Level II ICD and Similar Procedures,171,28175.3085380117,12060
+3753,Piedmont Hospital,Atlanta,GA,30309,202,Level V Gynecologic Procedures,25,3547.5952,12060
+3754,Piedmont Hospital,Atlanta,GA,30309,229,Level II Endovascular Procedures,460,8899.00173913041,12060
+3755,Piedmont Hospital,Atlanta,GA,30309,319,Level III Endovascular Procedures,189,13622.9724867724,12060
+3756,Piedmont Hospital,Atlanta,GA,30309,384,GI Procedures with Stents,69,2570.51942028985,12060
+3757,Piedmont Hospital,Atlanta,GA,30309,648,Level IV Breast and Skin Surgery,11,7039.59,12060
+3758,Piedmont Hospital,Atlanta,GA,30309,655,Level IV Pacemaker and Similar Procedures,33,15013.7842424242,12060
+3759,Gwinnett Medical Center,Lawrenceville,GA,30045,83,Level I Endovascular Procedures,27,4283.02,12060
+3760,Gwinnett Medical Center,Lawrenceville,GA,30045,86,Level III Electrophysiologic Procedures,72,13521.7099999999,12060
+3761,Gwinnett Medical Center,Lawrenceville,GA,30045,89,Level III Pacemaker and Similar Procedures,117,8946.41572649572,12060
+3762,Gwinnett Medical Center,Lawrenceville,GA,30045,90,Level II Pacemaker and Similar Procedures,56,6175.91,12060
+3763,Gwinnett Medical Center,Lawrenceville,GA,30045,107,Level I ICD and Similar Procedures,17,21560.44,12060
+3764,Gwinnett Medical Center,Lawrenceville,GA,30045,108,Level II ICD and Similar Procedures,71,28204.9470422535,12060
+3765,Gwinnett Medical Center,Lawrenceville,GA,30045,202,Level V Gynecologic Procedures,20,3758.15,12060
+3766,Gwinnett Medical Center,Lawrenceville,GA,30045,229,Level II Endovascular Procedures,221,9037.35837104068,12060
+3767,Gwinnett Medical Center,Lawrenceville,GA,30045,319,Level III Endovascular Procedures,44,13023.7711363636,12060
+3768,Gwinnett Medical Center,Lawrenceville,GA,30045,425,Level V Musculoskeletal Procedures Except Hand and Foot,22,9632.91,12060
+3770,Rockdale Medical Center,Conyers,GA,30012,83,Level I Endovascular Procedures,124,4229.80137096775,12060
+3771,Rockdale Medical Center,Conyers,GA,30012,202,Level V Gynecologic Procedures,12,3400.1,12060
+3772,Rockdale Medical Center,Conyers,GA,30012,229,Level II Endovascular Procedures,111,9020.65864864865,12060
+3773,Rockdale Medical Center,Conyers,GA,30012,319,Level III Endovascular Procedures,19,13309.9042105263,12060
+3797,Atlanta Medical Center - Atl Campus & South Campus,Atlanta,GA,30312,83,Level I Endovascular Procedures,12,4283.02,12060
+3830,Wellstar Cobb Hospital,Austell,GA,30106,83,Level I Endovascular Procedures,63,4283.02,12060
+3831,Wellstar Cobb Hospital,Austell,GA,30106,86,Level III Electrophysiologic Procedures,12,13521.71,12060
+3832,Wellstar Cobb Hospital,Austell,GA,30106,89,Level III Pacemaker and Similar Procedures,24,8946.4,12060
+3833,Wellstar Cobb Hospital,Austell,GA,30106,90,Level II Pacemaker and Similar Procedures,13,6175.91,12060
+3834,Wellstar Cobb Hospital,Austell,GA,30106,108,Level II ICD and Similar Procedures,17,28985.96,12060
+3835,Wellstar Cobb Hospital,Austell,GA,30106,202,Level V Gynecologic Procedures,27,3699.58814814814,12060
+3836,Wellstar Cobb Hospital,Austell,GA,30106,229,Level II Endovascular Procedures,30,8812.28633333333,12060
+3848,Southern Regional Medical Center,Riverdale,GA,30274,83,Level I Endovascular Procedures,41,4199.7887804878,12060
+3849,Southern Regional Medical Center,Riverdale,GA,30274,89,Level III Pacemaker and Similar Procedures,13,8946.4,12060
+3850,Southern Regional Medical Center,Riverdale,GA,30274,229,Level II Endovascular Procedures,55,8930.66072727272,12060
+3851,Southern Regional Medical Center,Riverdale,GA,30274,386,Level II Urogenital Procedures,12,12177.2283333333,12060
+3874,Wellstar Douglas Hospital,Douglasville,GA,30134,229,Level II Endovascular Procedures,16,8584.415625,12060
+3875,Piedmont Henry Hospital,Stockbridge,GA,30281,83,Level I Endovascular Procedures,57,4223.19315789473,12060
+3876,Piedmont Henry Hospital,Stockbridge,GA,30281,85,Level II Electrophysiologic Procedures,11,4373.53,12060
+3877,Piedmont Henry Hospital,Stockbridge,GA,30281,86,Level III Electrophysiologic Procedures,14,13521.71,12060
+3878,Piedmont Henry Hospital,Stockbridge,GA,30281,89,Level III Pacemaker and Similar Procedures,49,8789.62693877551,12060
+3879,Piedmont Henry Hospital,Stockbridge,GA,30281,107,Level I ICD and Similar Procedures,15,21560.44,12060
+3880,Piedmont Henry Hospital,Stockbridge,GA,30281,108,Level II ICD and Similar Procedures,43,28344.3727906976,12060
+3881,Piedmont Henry Hospital,Stockbridge,GA,30281,202,Level V Gynecologic Procedures,29,3661.0124137931,12060
+3882,Piedmont Henry Hospital,Stockbridge,GA,30281,229,Level II Endovascular Procedures,45,8871.09422222222,12060
+3883,Piedmont Henry Hospital,Stockbridge,GA,30281,385,Level I Urogenital Procedures,11,6438.81,12060
+3884,Eastside Medical Center,Snellville,GA,30078,83,Level I Endovascular Procedures,36,4283.03694444444,12060
+3885,Eastside Medical Center,Snellville,GA,30078,202,Level V Gynecologic Procedures,13,3541.45846153846,12060
+3886,Eastside Medical Center,Snellville,GA,30078,229,Level II Endovascular Procedures,15,9072.71,12060
+3887,North Fulton Hospital,Roswell,GA,30076,61,Level II Neurostimulator & Related Procedures,11,4992.03,12060
+3888,North Fulton Hospital,Roswell,GA,30076,229,Level II Endovascular Procedures,13,9072.71,12060
+3889,North Fulton Hospital,Roswell,GA,30076,318,Level IV Neurostimulator & Related Procedures,14,24610.58,12060
+3893,Piedmont Fayette Hospital,Fayetteville,GA,30214,83,Level I Endovascular Procedures,18,4283.02,12060
+3894,Piedmont Fayette Hospital,Fayetteville,GA,30214,89,Level III Pacemaker and Similar Procedures,52,8798.58461538461,12060
+3895,Piedmont Fayette Hospital,Fayetteville,GA,30214,90,Level II Pacemaker and Similar Procedures,16,6175.91,12060
+3896,Piedmont Fayette Hospital,Fayetteville,GA,30214,202,Level V Gynecologic Procedures,20,3758.15,12060
+3897,Piedmont Fayette Hospital,Fayetteville,GA,30214,229,Level II Endovascular Procedures,85,9072.70999999999,12060
+3898,Piedmont Fayette Hospital,Fayetteville,GA,30214,319,Level III Endovascular Procedures,18,13270.245,12060
+3899,Piedmont Mountainside Hospital Inc,Jasper,GA,30143,89,Level III Pacemaker and Similar Procedures,30,8946.4,12060
+3900,Dekalb Medical Center At Hillandale,Lithonia,GA,30058,83,Level I Endovascular Procedures,16,4283.02,12060
+3901,"Piedmont Newnan Hospital, Inc",Newnan,GA,30265,89,Level III Pacemaker and Similar Procedures,18,8946.4,12060
+3902,"Piedmont Newnan Hospital, Inc",Newnan,GA,30265,108,Level II ICD and Similar Procedures,12,28985.96,12060
+3903,Southeastern Regional Medical Center,Newnan,GA,30265,229,Level II Endovascular Procedures,23,9072.71,12060
+3904,Emory Johns Creek Hospital,Johns Creek,GA,30097,83,Level I Endovascular Procedures,11,4283.02,12060
+3905,Emory Johns Creek Hospital,Johns Creek,GA,30097,229,Level II Endovascular Procedures,57,8935.6449122807,12060
+3906,Emory Johns Creek Hospital,Johns Creek,GA,30097,319,Level III Endovascular Procedures,13,12901.5969230769,12060

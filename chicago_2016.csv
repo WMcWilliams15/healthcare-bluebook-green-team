@@ -1,0 +1,741 @@
+,Provider Name,Provider City,"Provider
+State",ZIP,APC,"APC
+Description","Comprehensive APC
+Services","Average
+Medicare
+Allowed
+Amount",CBSA
+8065,Presence Saint Joseph Medical Center,Joliet,IL,60435,5123,Level 3 Musculoskeletal Procedures,80,4873.4965,16980
+8066,Presence Saint Joseph Medical Center,Joliet,IL,60435,5124,Level 4 Musculoskeletal Procedures,55,6960.64345454545,16980
+8067,Presence Saint Joseph Medical Center,Joliet,IL,60435,5165,Level 5 ENT Procedures,21,3958.67666666666,16980
+8068,Presence Saint Joseph Medical Center,Joliet,IL,60435,5191,Level 1 Endovascular Procedures,77,4595.14792207792,16980
+8069,Presence Saint Joseph Medical Center,Joliet,IL,60435,5192,Level 2 Endovascular Procedures,153,9473.19562091503,16980
+8070,Presence Saint Joseph Medical Center,Joliet,IL,60435,5193,Level 3 Endovascular Procedures,94,14446.4908510638,16980
+8071,Presence Saint Joseph Medical Center,Joliet,IL,60435,5213,Level 3 Electrophysiologic Procedures,48,15533.67,16980
+8072,Presence Saint Joseph Medical Center,Joliet,IL,60435,5223,Level 3 Pacemaker and Similar Procedures,39,9267.46,16980
+8073,Presence Saint Joseph Medical Center,Joliet,IL,60435,5232,Level 2 ICD and Similar Procedures,31,30411.3199999999,16980
+8074,Presence Saint Joseph Medical Center,Joliet,IL,60435,5331,Complex GI Procedures,29,3615.91,16980
+8075,Presence Saint Joseph Medical Center,Joliet,IL,60435,5361,Level 1 Laparoscopy,73,3916.38958904109,16980
+8076,Presence Saint Joseph Medical Center,Joliet,IL,60435,5375,Level 5 Urology and Related Services,110,3297.5689090909,16980
+8077,Presence Saint Joseph Medical Center,Joliet,IL,60435,5415,Level 5 Gynecologic Procedures,17,3666.05,16980
+8078,Presence Saint Joseph Medical Center,Joliet,IL,60435,5464,Level 4 Neurostimulator and Related Procedures,12,26662.78,16980
+8079,Presence Saint Joseph Medical Center,Joliet,IL,60435,5492,Level 2 Intraocular Procedures,54,3382.96,16980
+8080,Presence Saint Joseph Medical Center,Joliet,IL,60435,8011,Comprehensive Observation Services,1560,2141.58533333337,16980
+8081,Loyola Gottlieb Memorial Hospital,Melrose Park,IL,60160,5123,Level 3 Musculoskeletal Procedures,44,4894.54568181818,16980
+8082,Loyola Gottlieb Memorial Hospital,Melrose Park,IL,60160,5124,Level 4 Musculoskeletal Procedures,14,7083.13,16980
+8083,Loyola Gottlieb Memorial Hospital,Melrose Park,IL,60160,5191,Level 1 Endovascular Procedures,94,4606.52,16980
+8084,Loyola Gottlieb Memorial Hospital,Melrose Park,IL,60160,5192,Level 2 Endovascular Procedures,17,9559.05,16980
+8085,Loyola Gottlieb Memorial Hospital,Melrose Park,IL,60160,5223,Level 3 Pacemaker and Similar Procedures,19,9290.36,16980
+8086,Loyola Gottlieb Memorial Hospital,Melrose Park,IL,60160,5361,Level 1 Laparoscopy,33,3821.43393939394,16980
+8087,Loyola Gottlieb Memorial Hospital,Melrose Park,IL,60160,5375,Level 5 Urology and Related Services,27,3319.90185185184,16980
+8088,Loyola Gottlieb Memorial Hospital,Melrose Park,IL,60160,5492,Level 2 Intraocular Procedures,30,3391.357,16980
+8089,Loyola Gottlieb Memorial Hospital,Melrose Park,IL,60160,8011,Comprehensive Observation Services,436,2160.37795871558,16980
+8090,Westlake Community Hospital,Melrose Park,IL,60160,5191,Level 1 Endovascular Procedures,13,4606.52,16980
+8091,Westlake Community Hospital,Melrose Park,IL,60160,5192,Level 2 Endovascular Procedures,14,9559.05,16980
+8092,Westlake Community Hospital,Melrose Park,IL,60160,8011,Comprehensive Observation Services,191,2171.8887434555,16980
+8093,Evanston Hospital,Evanston,IL,60201,5123,Level 3 Musculoskeletal Procedures,390,4929.37794871797,16980
+8094,Evanston Hospital,Evanston,IL,60201,5124,Level 4 Musculoskeletal Procedures,93,7085.38537634408,16980
+8095,Evanston Hospital,Evanston,IL,60201,5125,Level 5 Musculoskeletal Procedures,16,10561.48375,16980
+8096,Evanston Hospital,Evanston,IL,60201,5165,Level 5 ENT Procedures,116,3976.91775862069,16980
+8097,Evanston Hospital,Evanston,IL,60201,5191,Level 1 Endovascular Procedures,265,4600.63064150943,16980
+8098,Evanston Hospital,Evanston,IL,60201,5192,Level 2 Endovascular Procedures,296,9541.66145270267,16980
+8099,Evanston Hospital,Evanston,IL,60201,5193,Level 3 Endovascular Procedures,68,14213.0907352941,16980
+8100,Evanston Hospital,Evanston,IL,60201,5212,Level 2 Electrophysiologic Procedures,38,4720.78105263157,16980
+8101,Evanston Hospital,Evanston,IL,60201,5213,Level 3 Electrophysiologic Procedures,135,15589.9320740741,16980
+8102,Evanston Hospital,Evanston,IL,60201,5222,Level 2 Pacemaker and Similar Procedures,63,6686.96206349206,16980
+8103,Evanston Hospital,Evanston,IL,60201,5223,Level 3 Pacemaker and Similar Procedures,159,9253.53842767295,16980
+8104,Evanston Hospital,Evanston,IL,60201,5224,Level 4 Pacemaker and Similar Procedures,29,16937.9751724137,16980
+8105,Evanston Hospital,Evanston,IL,60201,5231,Level 1 ICD and Similar Procedures,20,20050.8705,16980
+8106,Evanston Hospital,Evanston,IL,60201,5232,Level 2 ICD and Similar Procedures,88,30476.3272727272,16980
+8107,Evanston Hospital,Evanston,IL,60201,5331,Complex GI Procedures,52,3630.2675,16980
+8108,Evanston Hospital,Evanston,IL,60201,5361,Level 1 Laparoscopy,406,3988.71697044335,16980
+8109,Evanston Hospital,Evanston,IL,60201,5362,Level 2 Laparoscopy,76,6813.58763157893,16980
+8110,Evanston Hospital,Evanston,IL,60201,5375,Level 5 Urology and Related Services,344,3395.23043604651,16980
+8111,Evanston Hospital,Evanston,IL,60201,5415,Level 5 Gynecologic Procedures,73,3677.52561643835,16980
+8112,Evanston Hospital,Evanston,IL,60201,5416,Level 6 Gynecologic Procedures,58,5723.39293103448,16980
+8113,Evanston Hospital,Evanston,IL,60201,5462,Level 2 Neurostimulator and Related Procedures,16,5266.643125,16980
+8114,Evanston Hospital,Evanston,IL,60201,5463,Level 3 Neurostimulator and Related Procedures,33,17384.2796969697,16980
+8115,Evanston Hospital,Evanston,IL,60201,5492,Level 2 Intraocular Procedures,251,3378.09900398406,16980
+8116,Evanston Hospital,Evanston,IL,60201,5627,Level 7 Radiation Therapy,28,7325.27285714285,16980
+8117,Evanston Hospital,Evanston,IL,60201,8011,Comprehensive Observation Services,4963,2172.36105581299,16980
+8166,Mt Sinai Hospital Medical Center,Chicago,IL,60608,5191,Level 1 Endovascular Procedures,54,4521.31222222222,16980
+8167,Mt Sinai Hospital Medical Center,Chicago,IL,60608,5192,Level 2 Endovascular Procedures,15,9559.38933333333,16980
+8168,Mt Sinai Hospital Medical Center,Chicago,IL,60608,5375,Level 5 Urology and Related Services,11,3404.58181818181,16980
+8169,Mt Sinai Hospital Medical Center,Chicago,IL,60608,8011,Comprehensive Observation Services,351,2180.9889173789,16980
+8171,Copley Memorial Hospital,Aurora,IL,60504,5123,Level 3 Musculoskeletal Procedures,81,4829.48654320987,16980
+8172,Copley Memorial Hospital,Aurora,IL,60504,5124,Level 4 Musculoskeletal Procedures,21,7071.08,16980
+8173,Copley Memorial Hospital,Aurora,IL,60504,5165,Level 5 ENT Procedures,13,3961.58,16980
+8174,Copley Memorial Hospital,Aurora,IL,60504,5191,Level 1 Endovascular Procedures,25,4598.66,16980
+8175,Copley Memorial Hospital,Aurora,IL,60504,5192,Level 2 Endovascular Procedures,54,9389.95092592594,16980
+8176,Copley Memorial Hospital,Aurora,IL,60504,5193,Level 3 Endovascular Procedures,14,14599.3871428571,16980
+8177,Copley Memorial Hospital,Aurora,IL,60504,5213,Level 3 Electrophysiologic Procedures,31,15545.57,16980
+8178,Copley Memorial Hospital,Aurora,IL,60504,5223,Level 3 Pacemaker and Similar Procedures,35,9170.614,16980
+8179,Copley Memorial Hospital,Aurora,IL,60504,5232,Level 2 ICD and Similar Procedures,15,30434.62,16980
+8180,Copley Memorial Hospital,Aurora,IL,60504,5361,Level 1 Laparoscopy,83,3779.24192771084,16980
+8181,Copley Memorial Hospital,Aurora,IL,60504,5415,Level 5 Gynecologic Procedures,25,3343.864,16980
+8182,Copley Memorial Hospital,Aurora,IL,60504,5492,Level 2 Intraocular Procedures,42,3321.33547619047,16980
+8183,Copley Memorial Hospital,Aurora,IL,60504,8011,Comprehensive Observation Services,1422,2131.02035161748,16980
+8184,Sherman Hospital,Elgin,IL,60123,5123,Level 3 Musculoskeletal Procedures,59,4841.90474576271,16980
+8185,Sherman Hospital,Elgin,IL,60123,5124,Level 4 Musculoskeletal Procedures,13,7071.08,16980
+8186,Sherman Hospital,Elgin,IL,60123,5165,Level 5 ENT Procedures,20,3961.58,16980
+8187,Sherman Hospital,Elgin,IL,60123,5191,Level 1 Endovascular Procedures,65,4436.1683076923,16980
+8188,Sherman Hospital,Elgin,IL,60123,5192,Level 2 Endovascular Procedures,94,9368.9415957447,16980
+8189,Sherman Hospital,Elgin,IL,60123,5193,Level 3 Endovascular Procedures,20,14599.15,16980
+8190,Sherman Hospital,Elgin,IL,60123,5213,Level 3 Electrophysiologic Procedures,28,15545.6332142857,16980
+8191,Sherman Hospital,Elgin,IL,60123,5222,Level 2 Pacemaker and Similar Procedures,15,6343.708,16980
+8192,Sherman Hospital,Elgin,IL,60123,5223,Level 3 Pacemaker and Similar Procedures,36,9052.78722222222,16980
+8193,Sherman Hospital,Elgin,IL,60123,5232,Level 2 ICD and Similar Procedures,42,30434.62,16980
+8194,Sherman Hospital,Elgin,IL,60123,5331,Complex GI Procedures,51,3618.69,16980
+8195,Sherman Hospital,Elgin,IL,60123,5361,Level 1 Laparoscopy,85,3894.53929411764,16980
+8196,Sherman Hospital,Elgin,IL,60123,5362,Level 2 Laparoscopy,13,6009.92769230769,16980
+8197,Sherman Hospital,Elgin,IL,60123,5375,Level 5 Urology and Related Services,145,3398.53999999999,16980
+8198,Sherman Hospital,Elgin,IL,60123,5416,Level 6 Gynecologic Procedures,14,5709.58,16980
+8199,Sherman Hospital,Elgin,IL,60123,5492,Level 2 Intraocular Procedures,68,3345.8919117647,16980
+8200,Sherman Hospital,Elgin,IL,60123,8011,Comprehensive Observation Services,1192,2163.4314681208198,16980
+8201,Presence Saint Joseph Hospital - Elgin,Elgin,IL,60123,5123,Level 3 Musculoskeletal Procedures,18,4976.34333333333,16980
+8202,Presence Saint Joseph Hospital - Elgin,Elgin,IL,60123,5124,Level 4 Musculoskeletal Procedures,23,7071.08,16980
+8203,Presence Saint Joseph Hospital - Elgin,Elgin,IL,60123,5191,Level 1 Endovascular Procedures,45,4598.75444444444,16980
+8204,Presence Saint Joseph Hospital - Elgin,Elgin,IL,60123,5192,Level 2 Endovascular Procedures,54,9542.83796296298,16980
+8205,Presence Saint Joseph Hospital - Elgin,Elgin,IL,60123,5223,Level 3 Pacemaker and Similar Procedures,22,9274.61363636363,16980
+8206,Presence Saint Joseph Hospital - Elgin,Elgin,IL,60123,5361,Level 1 Laparoscopy,13,4007.01307692307,16980
+8207,Presence Saint Joseph Hospital - Elgin,Elgin,IL,60123,5375,Level 5 Urology and Related Services,72,3398.54,16980
+8208,Presence Saint Joseph Hospital - Elgin,Elgin,IL,60123,8011,Comprehensive Observation Services,355,2152.90352112674,16980
+8297,Advocate Trinity Hospital,Chicago,IL,60617,5191,Level 1 Endovascular Procedures,11,3768.97090909091,16980
+8298,Advocate Trinity Hospital,Chicago,IL,60617,5375,Level 5 Urology and Related Services,17,3404.49647058823,16980
+8299,Advocate Trinity Hospital,Chicago,IL,60617,5492,Level 2 Intraocular Procedures,17,3391.35,16980
+8300,Advocate Trinity Hospital,Chicago,IL,60617,8011,Comprehensive Observation Services,666,2168.14639639636,16980
+8301,South Shore Hospital,Chicago,IL,60617,5123,Level 3 Musculoskeletal Procedures,12,4984.81,16980
+8302,South Shore Hospital,Chicago,IL,60617,8011,Comprehensive Observation Services,69,2180.98057971014,16980
+8303,West Suburban Medical Center,Oak Park,IL,60302,5123,Level 3 Musculoskeletal Procedures,17,4985.04235294117,16980
+8304,West Suburban Medical Center,Oak Park,IL,60302,5191,Level 1 Endovascular Procedures,117,4579.56188034189,16980
+8305,West Suburban Medical Center,Oak Park,IL,60302,5192,Level 2 Endovascular Procedures,60,9421.2545,16980
+8306,West Suburban Medical Center,Oak Park,IL,60302,5223,Level 3 Pacemaker and Similar Procedures,14,9290.36,16980
+8307,West Suburban Medical Center,Oak Park,IL,60302,5361,Level 1 Laparoscopy,28,3899.51928571428,16980
+8308,West Suburban Medical Center,Oak Park,IL,60302,5375,Level 5 Urology and Related Services,16,3298.016875,16980
+8309,West Suburban Medical Center,Oak Park,IL,60302,8011,Comprehensive Observation Services,232,2170.17073275863,16980
+8333,Macneal  Hospital,Berwyn,IL,60402,5123,Level 3 Musculoskeletal Procedures,62,4792.63435483871,16980
+8334,Macneal  Hospital,Berwyn,IL,60402,5191,Level 1 Endovascular Procedures,50,4440.9848,16980
+8335,Macneal  Hospital,Berwyn,IL,60402,5192,Level 2 Endovascular Procedures,92,9186.50434782609,16980
+8336,Macneal  Hospital,Berwyn,IL,60402,5193,Level 3 Endovascular Procedures,21,14624.07,16980
+8337,Macneal  Hospital,Berwyn,IL,60402,5223,Level 3 Pacemaker and Similar Procedures,44,9143.25022727272,16980
+8338,Macneal  Hospital,Berwyn,IL,60402,5224,Level 4 Pacemaker and Similar Procedures,22,16924.12,16980
+8339,Macneal  Hospital,Berwyn,IL,60402,5232,Level 2 ICD and Similar Procedures,30,29513.323,16980
+8340,Macneal  Hospital,Berwyn,IL,60402,5361,Level 1 Laparoscopy,38,3699.21026315789,16980
+8341,Macneal  Hospital,Berwyn,IL,60402,5362,Level 2 Laparoscopy,12,5961.40833333333,16980
+8342,Macneal  Hospital,Berwyn,IL,60402,5492,Level 2 Intraocular Procedures,45,3337.88355555555,16980
+8343,Macneal  Hospital,Berwyn,IL,60402,8011,Comprehensive Observation Services,490,2161.68983673467,16980
+8349,Palos Community Hospital,Palos Heights,IL,60463,5123,Level 3 Musculoskeletal Procedures,86,4984.82825581395,16980
+8350,Palos Community Hospital,Palos Heights,IL,60463,5124,Level 4 Musculoskeletal Procedures,13,7083.13,16980
+8351,Palos Community Hospital,Palos Heights,IL,60463,5191,Level 1 Endovascular Procedures,22,4606.52,16980
+8352,Palos Community Hospital,Palos Heights,IL,60463,5192,Level 2 Endovascular Procedures,133,9496.90947368421,16980
+8353,Palos Community Hospital,Palos Heights,IL,60463,5193,Level 3 Endovascular Procedures,12,14624.07,16980
+8354,Palos Community Hospital,Palos Heights,IL,60463,5213,Level 3 Electrophysiologic Procedures,33,15139.2581818181,16980
+8355,Palos Community Hospital,Palos Heights,IL,60463,5222,Level 2 Pacemaker and Similar Procedures,26,6716.29269230769,16980
+8356,Palos Community Hospital,Palos Heights,IL,60463,5223,Level 3 Pacemaker and Similar Procedures,67,9170.92179104476,16980
+8357,Palos Community Hospital,Palos Heights,IL,60463,5231,Level 1 ICD and Similar Procedures,18,21935.04,16980
+8358,Palos Community Hospital,Palos Heights,IL,60463,5232,Level 2 ICD and Similar Procedures,54,29646.489074074,16980
+8359,Palos Community Hospital,Palos Heights,IL,60463,5361,Level 1 Laparoscopy,133,3864.33195488721,16980
+8360,Palos Community Hospital,Palos Heights,IL,60463,5362,Level 2 Laparoscopy,15,6880.30533333333,16980
+8361,Palos Community Hospital,Palos Heights,IL,60463,5375,Level 5 Urology and Related Services,131,3383.63465648855,16980
+8362,Palos Community Hospital,Palos Heights,IL,60463,5415,Level 5 Gynecologic Procedures,23,3675.13,16980
+8363,Palos Community Hospital,Palos Heights,IL,60463,5492,Level 2 Intraocular Procedures,91,3391.37912087912,16980
+8364,Palos Community Hospital,Palos Heights,IL,60463,8011,Comprehensive Observation Services,2207,2158.644086996,16980
+8365,Rush Oak Park Hospital,Oak Park,IL,60304,5123,Level 3 Musculoskeletal Procedures,98,4984.8425510204,16980
+8366,Rush Oak Park Hospital,Oak Park,IL,60304,5124,Level 4 Musculoskeletal Procedures,16,6720.934375,16980
+8367,Rush Oak Park Hospital,Oak Park,IL,60304,5191,Level 1 Endovascular Procedures,53,4476.24679245283,16980
+8368,Rush Oak Park Hospital,Oak Park,IL,60304,5192,Level 2 Endovascular Procedures,45,9453.026,16980
+8369,Rush Oak Park Hospital,Oak Park,IL,60304,5361,Level 1 Laparoscopy,17,3825.5594117647,16980
+8370,Rush Oak Park Hospital,Oak Park,IL,60304,5462,Level 2 Neurostimulator and Related Procedures,32,5260.78,16980
+8371,Rush Oak Park Hospital,Oak Park,IL,60304,5464,Level 4 Neurostimulator and Related Procedures,34,25981.1747058823,16980
+8372,Rush Oak Park Hospital,Oak Park,IL,60304,5471,Implantation of Drug Infusion Device,11,15361.7809090909,16980
+8373,Rush Oak Park Hospital,Oak Park,IL,60304,5492,Level 2 Intraocular Procedures,37,3391.38945945946,16980
+8374,Rush Oak Park Hospital,Oak Park,IL,60304,8011,Comprehensive Observation Services,323,2145.94065015479,16980
+8375,Adventist La Grange Memorial Hospital,La Grange,IL,60525,5123,Level 3 Musculoskeletal Procedures,51,4984.89058823529,16980
+8376,Adventist La Grange Memorial Hospital,La Grange,IL,60525,5124,Level 4 Musculoskeletal Procedures,40,6938.25175,16980
+8377,Adventist La Grange Memorial Hospital,La Grange,IL,60525,5191,Level 1 Endovascular Procedures,46,3846.20913043478,16980
+8378,Adventist La Grange Memorial Hospital,La Grange,IL,60525,5192,Level 2 Endovascular Procedures,116,9476.76017241379,16980
+8379,Adventist La Grange Memorial Hospital,La Grange,IL,60525,5193,Level 3 Endovascular Procedures,29,14624.07,16980
+8380,Adventist La Grange Memorial Hospital,La Grange,IL,60525,5361,Level 1 Laparoscopy,49,3819.35448979591,16980
+8381,Adventist La Grange Memorial Hospital,La Grange,IL,60525,5375,Level 5 Urology and Related Services,45,3344.06444444444,16980
+8382,Adventist La Grange Memorial Hospital,La Grange,IL,60525,5415,Level 5 Gynecologic Procedures,13,3472.84538461538,16980
+8383,Adventist La Grange Memorial Hospital,La Grange,IL,60525,5464,Level 4 Neurostimulator and Related Procedures,17,26728.79,16980
+8384,Adventist La Grange Memorial Hospital,La Grange,IL,60525,8011,Comprehensive Observation Services,914,2167.64620350106,16980
+8405,Roseland Community Hospital,Chicago,IL,60628,8011,Comprehensive Observation Services,64,2180.95,16980
+8407,Presence Saint Francis Hospital,Evanston,IL,60202,5123,Level 3 Musculoskeletal Procedures,44,4747.63568181818,16980
+8408,Presence Saint Francis Hospital,Evanston,IL,60202,5191,Level 1 Endovascular Procedures,13,4606.72384615384,16980
+8409,Presence Saint Francis Hospital,Evanston,IL,60202,5192,Level 2 Endovascular Procedures,29,9559.05,16980
+8410,Presence Saint Francis Hospital,Evanston,IL,60202,5223,Level 3 Pacemaker and Similar Procedures,26,9290.46115384615,16980
+8411,Presence Saint Francis Hospital,Evanston,IL,60202,5361,Level 1 Laparoscopy,34,3825.61058823529,16980
+8412,Presence Saint Francis Hospital,Evanston,IL,60202,5375,Level 5 Urology and Related Services,13,3404.34,16980
+8413,Presence Saint Francis Hospital,Evanston,IL,60202,5492,Level 2 Intraocular Procedures,27,3196.21481481481,16980
+8414,Presence Saint Francis Hospital,Evanston,IL,60202,8011,Comprehensive Observation Services,626,2164.50982428113,16980
+8415,Louis A Weiss Memorial Hospital,Chicago,IL,60640,5123,Level 3 Musculoskeletal Procedures,26,4985.0873076923,16980
+8416,Louis A Weiss Memorial Hospital,Chicago,IL,60640,5191,Level 1 Endovascular Procedures,22,4606.52,16980
+8417,Louis A Weiss Memorial Hospital,Chicago,IL,60640,5192,Level 2 Endovascular Procedures,17,9559.05,16980
+8418,Louis A Weiss Memorial Hospital,Chicago,IL,60640,5361,Level 1 Laparoscopy,12,4013.67,16980
+8419,Louis A Weiss Memorial Hospital,Chicago,IL,60640,8011,Comprehensive Observation Services,459,2180.99633986925,16980
+8420,Methodist Hospital Of Chicago,Chicago,IL,60640,8011,Comprehensive Observation Services,46,2180.95,16980
+8421,Loretto Hospital,Chicago,IL,60644,8011,Comprehensive Observation Services,25,2180.95,16980
+8422,Vista Medical Center East,Waukegan,IL,60085,5123,Level 3 Musculoskeletal Procedures,62,4950.06096774193,16980
+8423,Vista Medical Center East,Waukegan,IL,60085,5124,Level 4 Musculoskeletal Procedures,12,7125.08,16980
+8424,Vista Medical Center East,Waukegan,IL,60085,5191,Level 1 Endovascular Procedures,108,4578.36990740741,16980
+8425,Vista Medical Center East,Waukegan,IL,60085,5192,Level 2 Endovascular Procedures,22,9237.69954545454,16980
+8426,Vista Medical Center East,Waukegan,IL,60085,5223,Level 3 Pacemaker and Similar Procedures,11,9345.43,16980
+8427,Vista Medical Center East,Waukegan,IL,60085,5361,Level 1 Laparoscopy,31,3830.01451612903,16980
+8428,Vista Medical Center East,Waukegan,IL,60085,5375,Level 5 Urology and Related Services,14,3229.69428571428,16980
+8429,Vista Medical Center East,Waukegan,IL,60085,8011,Comprehensive Observation Services,262,2187.24839694655,16980
+8430,The University Of Chicago Medical Center,Chicago,IL,60637,5123,Level 3 Musculoskeletal Procedures,91,4984.89857142857,16980
+8431,The University Of Chicago Medical Center,Chicago,IL,60637,5124,Level 4 Musculoskeletal Procedures,20,7437.2865,16980
+8432,The University Of Chicago Medical Center,Chicago,IL,60637,5125,Level 5 Musculoskeletal Procedures,24,10553.66,16980
+8433,The University Of Chicago Medical Center,Chicago,IL,60637,5165,Level 5 ENT Procedures,81,3968.35,16980
+8434,The University Of Chicago Medical Center,Chicago,IL,60637,5191,Level 1 Endovascular Procedures,273,4589.64703296703,16980
+8435,The University Of Chicago Medical Center,Chicago,IL,60637,5192,Level 2 Endovascular Procedures,167,9559.05556886227,16980
+8436,The University Of Chicago Medical Center,Chicago,IL,60637,5193,Level 3 Endovascular Procedures,41,14624.07,16980
+8437,The University Of Chicago Medical Center,Chicago,IL,60637,5213,Level 3 Electrophysiologic Procedures,84,15572.189047619,16980
+8438,The University Of Chicago Medical Center,Chicago,IL,60637,5222,Level 2 Pacemaker and Similar Procedures,24,6716.26,16980
+8439,The University Of Chicago Medical Center,Chicago,IL,60637,5223,Level 3 Pacemaker and Similar Procedures,29,9290.36,16980
+8440,The University Of Chicago Medical Center,Chicago,IL,60637,5231,Level 1 ICD and Similar Procedures,19,21934.98,16980
+8441,The University Of Chicago Medical Center,Chicago,IL,60637,5232,Level 2 ICD and Similar Procedures,42,30451.61,16980
+8442,The University Of Chicago Medical Center,Chicago,IL,60637,5331,Complex GI Procedures,63,3538.57333333333,16980
+8443,The University Of Chicago Medical Center,Chicago,IL,60637,5361,Level 1 Laparoscopy,106,4013.68547169811,16980
+8444,The University Of Chicago Medical Center,Chicago,IL,60637,5362,Level 2 Laparoscopy,56,6880.16178571428,16980
+8445,The University Of Chicago Medical Center,Chicago,IL,60637,5375,Level 5 Urology and Related Services,53,3404.34,16980
+8446,The University Of Chicago Medical Center,Chicago,IL,60637,5377,Level 7 Urology and Related Services,36,14100.5061111111,16980
+8447,The University Of Chicago Medical Center,Chicago,IL,60637,5415,Level 5 Gynecologic Procedures,30,3675.21666666666,16980
+8448,The University Of Chicago Medical Center,Chicago,IL,60637,5416,Level 6 Gynecologic Procedures,19,5719.31,16980
+8449,The University Of Chicago Medical Center,Chicago,IL,60637,5462,Level 2 Neurostimulator and Related Procedures,21,4384.10952380952,16980
+8450,The University Of Chicago Medical Center,Chicago,IL,60637,5464,Level 4 Neurostimulator and Related Procedures,19,26728.79,16980
+8451,The University Of Chicago Medical Center,Chicago,IL,60637,5492,Level 2 Intraocular Procedures,59,3391.41169491525,16980
+8452,The University Of Chicago Medical Center,Chicago,IL,60637,8011,Comprehensive Observation Services,868,2175.92782258061,16980
+8486,Saint Anthony Hospital,Chicago,IL,60623,8011,Comprehensive Observation Services,140,2168.58207142857,16980
+8487,Midwestern Region Med Center,Zion,IL,60099,8011,Comprehensive Observation Services,22,2094.18681818181,16980
+8488,Morris Hospital & Healthcare Centers,Morris,IL,60450,5123,Level 3 Musculoskeletal Procedures,32,4972.5365625,16980
+8489,Morris Hospital & Healthcare Centers,Morris,IL,60450,5124,Level 4 Musculoskeletal Procedures,11,7065.68,16980
+8490,Morris Hospital & Healthcare Centers,Morris,IL,60450,5191,Level 1 Endovascular Procedures,12,4290.03333333333,16980
+8491,Morris Hospital & Healthcare Centers,Morris,IL,60450,5192,Level 2 Endovascular Procedures,18,9535.49,16980
+8492,Morris Hospital & Healthcare Centers,Morris,IL,60450,5361,Level 1 Laparoscopy,39,3921.95564102564,16980
+8493,Morris Hospital & Healthcare Centers,Morris,IL,60450,5375,Level 5 Urology and Related Services,30,3215.54999999999,16980
+8494,Morris Hospital & Healthcare Centers,Morris,IL,60450,8011,Comprehensive Observation Services,346,2150.57205202313,16980
+8495,St Bernard Hospital,Chicago,IL,60621,8011,Comprehensive Observation Services,79,2180.98354430379,16980
+8502,Swedish Covenant Hospital,Chicago,IL,60625,5123,Level 3 Musculoskeletal Procedures,36,4984.81,16980
+8503,Swedish Covenant Hospital,Chicago,IL,60625,5191,Level 1 Endovascular Procedures,41,4606.52,16980
+8504,Swedish Covenant Hospital,Chicago,IL,60625,5192,Level 2 Endovascular Procedures,37,9559.0754054054,16980
+8505,Swedish Covenant Hospital,Chicago,IL,60625,5213,Level 3 Electrophysiologic Procedures,19,15572.11,16980
+8506,Swedish Covenant Hospital,Chicago,IL,60625,5223,Level 3 Pacemaker and Similar Procedures,24,8956.92833333333,16980
+8507,Swedish Covenant Hospital,Chicago,IL,60625,5232,Level 2 ICD and Similar Procedures,14,30486.61,16980
+8508,Swedish Covenant Hospital,Chicago,IL,60625,5361,Level 1 Laparoscopy,44,4013.73022727272,16980
+8509,Swedish Covenant Hospital,Chicago,IL,60625,5375,Level 5 Urology and Related Services,36,3404.34,16980
+8510,Swedish Covenant Hospital,Chicago,IL,60625,5462,Level 2 Neurostimulator and Related Procedures,13,4938.35615384615,16980
+8511,Swedish Covenant Hospital,Chicago,IL,60625,5464,Level 4 Neurostimulator and Related Procedures,11,26728.79,16980
+8512,Swedish Covenant Hospital,Chicago,IL,60625,5492,Level 2 Intraocular Procedures,41,3391.41463414634,16980
+8513,Swedish Covenant Hospital,Chicago,IL,60625,5627,Level 7 Radiation Therapy,20,7319.08,16980
+8514,Swedish Covenant Hospital,Chicago,IL,60625,8011,Comprehensive Observation Services,931,2170.34683136409,16980
+8515,Thorek Memorial Hospital,Chicago,IL,60613,5375,Level 5 Urology and Related Services,12,3404.63833333333,16980
+8516,Thorek Memorial Hospital,Chicago,IL,60613,8011,Comprehensive Observation Services,80,2180.983125,16980
+8517,Centegra Health System - Mc Henry Hospital,Mchenry,IL,60050,5123,Level 3 Musculoskeletal Procedures,85,4868.07929411764,16980
+8518,Centegra Health System - Mc Henry Hospital,Mchenry,IL,60050,5124,Level 4 Musculoskeletal Procedures,11,7075.23,16980
+8519,Centegra Health System - Mc Henry Hospital,Mchenry,IL,60050,5165,Level 5 ENT Procedures,16,3963.92,16980
+8520,Centegra Health System - Mc Henry Hospital,Mchenry,IL,60050,5191,Level 1 Endovascular Procedures,17,4466.03529411764,16980
+8521,Centegra Health System - Mc Henry Hospital,Mchenry,IL,60050,5192,Level 2 Endovascular Procedures,63,9396.85714285716,16980
+8522,Centegra Health System - Mc Henry Hospital,Mchenry,IL,60050,5193,Level 3 Endovascular Procedures,18,11361.5755555555,16980
+8523,Centegra Health System - Mc Henry Hospital,Mchenry,IL,60050,5213,Level 3 Electrophysiologic Procedures,21,14875.3523809523,16980
+8524,Centegra Health System - Mc Henry Hospital,Mchenry,IL,60050,5223,Level 3 Pacemaker and Similar Procedures,22,9280.0,16980
+8525,Centegra Health System - Mc Henry Hospital,Mchenry,IL,60050,5232,Level 2 ICD and Similar Procedures,19,30452.55,16980
+8526,Centegra Health System - Mc Henry Hospital,Mchenry,IL,60050,5361,Level 1 Laparoscopy,77,3843.27636363636,16980
+8527,Centegra Health System - Mc Henry Hospital,Mchenry,IL,60050,5375,Level 5 Urology and Related Services,56,3400.59732142857,16980
+8528,Centegra Health System - Mc Henry Hospital,Mchenry,IL,60050,8011,Comprehensive Observation Services,980,2148.13968367347,16980
+8529,Presence Resurrection Medical Center,Chicago,IL,60631,5123,Level 3 Musculoskeletal Procedures,68,4926.44264705882,16980
+8530,Presence Resurrection Medical Center,Chicago,IL,60631,5124,Level 4 Musculoskeletal Procedures,22,7083.13,16980
+8531,Presence Resurrection Medical Center,Chicago,IL,60631,5191,Level 1 Endovascular Procedures,75,4557.60253333333,16980
+8532,Presence Resurrection Medical Center,Chicago,IL,60631,5192,Level 2 Endovascular Procedures,156,9453.03102564102,16980
+8533,Presence Resurrection Medical Center,Chicago,IL,60631,5193,Level 3 Endovascular Procedures,29,14624.1844827586,16980
+8534,Presence Resurrection Medical Center,Chicago,IL,60631,5213,Level 3 Electrophysiologic Procedures,19,14820.3147368421,16980
+8535,Presence Resurrection Medical Center,Chicago,IL,60631,5222,Level 2 Pacemaker and Similar Procedures,25,6499.1296,16980
+8536,Presence Resurrection Medical Center,Chicago,IL,60631,5223,Level 3 Pacemaker and Similar Procedures,67,9290.35999999998,16980
+8537,Presence Resurrection Medical Center,Chicago,IL,60631,5232,Level 2 ICD and Similar Procedures,29,30486.61,16980
+8538,Presence Resurrection Medical Center,Chicago,IL,60631,5331,Complex GI Procedures,14,3624.88,16980
+8539,Presence Resurrection Medical Center,Chicago,IL,60631,5361,Level 1 Laparoscopy,60,4013.67,16980
+8540,Presence Resurrection Medical Center,Chicago,IL,60631,5375,Level 5 Urology and Related Services,72,3366.66777777777,16980
+8541,Presence Resurrection Medical Center,Chicago,IL,60631,5492,Level 2 Intraocular Procedures,49,3372.13693877551,16980
+8542,Presence Resurrection Medical Center,Chicago,IL,60631,8011,Comprehensive Observation Services,1063,2168.00606773282,16980
+8543,Metrosouth Medical Center,Blue Island,IL,60406,5123,Level 3 Musculoskeletal Procedures,15,4984.81,16980
+8544,Metrosouth Medical Center,Blue Island,IL,60406,5191,Level 1 Endovascular Procedures,59,4606.62372881355,16980
+8545,Metrosouth Medical Center,Blue Island,IL,60406,5192,Level 2 Endovascular Procedures,63,9283.19047619047,16980
+8546,Metrosouth Medical Center,Blue Island,IL,60406,5193,Level 3 Endovascular Procedures,16,14624.184375,16980
+8547,Metrosouth Medical Center,Blue Island,IL,60406,5223,Level 3 Pacemaker and Similar Procedures,37,9290.38108108108,16980
+8548,Metrosouth Medical Center,Blue Island,IL,60406,5231,Level 1 ICD and Similar Procedures,16,21934.98,16980
+8549,Metrosouth Medical Center,Blue Island,IL,60406,5232,Level 2 ICD and Similar Procedures,31,30486.61,16980
+8550,Metrosouth Medical Center,Blue Island,IL,60406,5375,Level 5 Urology and Related Services,12,3178.30666666666,16980
+8551,Metrosouth Medical Center,Blue Island,IL,60406,5492,Level 2 Intraocular Procedures,13,3391.35,16980
+8552,Metrosouth Medical Center,Blue Island,IL,60406,8011,Comprehensive Observation Services,267,2174.46662921348,16980
+8553,Rush University Medical Center,Chicago,IL,60612,5093,Level 3 Breast/Lymphatic Surgery and Related Procedures,15,7576.34,16980
+8554,Rush University Medical Center,Chicago,IL,60612,5123,Level 3 Musculoskeletal Procedures,114,4982.87175438596,16980
+8555,Rush University Medical Center,Chicago,IL,60612,5124,Level 4 Musculoskeletal Procedures,18,6761.17833333333,16980
+8556,Rush University Medical Center,Chicago,IL,60612,5125,Level 5 Musculoskeletal Procedures,112,10211.2441964285,16980
+8557,Rush University Medical Center,Chicago,IL,60612,5165,Level 5 ENT Procedures,62,3802.35177419354,16980
+8558,Rush University Medical Center,Chicago,IL,60612,5191,Level 1 Endovascular Procedures,407,4455.02496314498,16980
+8559,Rush University Medical Center,Chicago,IL,60612,5192,Level 2 Endovascular Procedures,164,9508.6775,16980
+8560,Rush University Medical Center,Chicago,IL,60612,5193,Level 3 Endovascular Procedures,18,14624.07,16980
+8561,Rush University Medical Center,Chicago,IL,60612,5213,Level 3 Electrophysiologic Procedures,26,15572.11,16980
+8562,Rush University Medical Center,Chicago,IL,60612,5222,Level 2 Pacemaker and Similar Procedures,12,6716.26,16980
+8563,Rush University Medical Center,Chicago,IL,60612,5223,Level 3 Pacemaker and Similar Procedures,41,9290.36,16980
+8564,Rush University Medical Center,Chicago,IL,60612,5231,Level 1 ICD and Similar Procedures,13,20355.133076923,16980
+8565,Rush University Medical Center,Chicago,IL,60612,5232,Level 2 ICD and Similar Procedures,78,30486.6496153846,16980
+8566,Rush University Medical Center,Chicago,IL,60612,5331,Complex GI Procedures,35,3438.79457142857,16980
+8567,Rush University Medical Center,Chicago,IL,60612,5361,Level 1 Laparoscopy,71,3923.58887323943,16980
+8568,Rush University Medical Center,Chicago,IL,60612,5362,Level 2 Laparoscopy,11,6880.16,16980
+8569,Rush University Medical Center,Chicago,IL,60612,5375,Level 5 Urology and Related Services,107,3353.65018691589,16980
+8570,Rush University Medical Center,Chicago,IL,60612,5377,Level 7 Urology and Related Services,31,14100.41,16980
+8571,Rush University Medical Center,Chicago,IL,60612,5415,Level 5 Gynecologic Procedures,12,3675.13,16980
+8572,Rush University Medical Center,Chicago,IL,60612,5463,Level 3 Neurostimulator and Related Procedures,39,16544.0107692307,16980
+8573,Rush University Medical Center,Chicago,IL,60612,5464,Level 4 Neurostimulator and Related Procedures,62,25908.1193548387,16980
+8574,Rush University Medical Center,Chicago,IL,60612,5492,Level 2 Intraocular Procedures,105,3365.63514285714,16980
+8575,Rush University Medical Center,Chicago,IL,60612,5627,Level 7 Radiation Therapy,51,7082.56705882353,16980
+8576,Rush University Medical Center,Chicago,IL,60612,8011,Comprehensive Observation Services,1742,2166.73185419064,16980
+8577,John H Stroger Jr Hospital,Chicago,IL,60612,5361,Level 1 Laparoscopy,13,4013.7123076923,16980
+8578,John H Stroger Jr Hospital,Chicago,IL,60612,5375,Level 5 Urology and Related Services,18,3253.70611111111,16980
+8579,John H Stroger Jr Hospital,Chicago,IL,60612,5492,Level 2 Intraocular Procedures,11,3391.47818181818,16980
+8580,John H Stroger Jr Hospital,Chicago,IL,60612,8011,Comprehensive Observation Services,545,2174.66205504585,16980
+8581,University Of Illinois Hospital,Chicago,IL,60612,5165,Level 5 ENT Procedures,23,3830.88173913043,16980
+8582,University Of Illinois Hospital,Chicago,IL,60612,5191,Level 1 Endovascular Procedures,84,4606.52,16980
+8583,University Of Illinois Hospital,Chicago,IL,60612,5192,Level 2 Endovascular Procedures,79,9559.05000000001,16980
+8584,University Of Illinois Hospital,Chicago,IL,60612,5213,Level 3 Electrophysiologic Procedures,18,15572.11,16980
+8585,University Of Illinois Hospital,Chicago,IL,60612,5232,Level 2 ICD and Similar Procedures,14,30486.61,16980
+8586,University Of Illinois Hospital,Chicago,IL,60612,5331,Complex GI Procedures,14,3625.06928571428,16980
+8587,University Of Illinois Hospital,Chicago,IL,60612,5361,Level 1 Laparoscopy,55,4013.67,16980
+8588,University Of Illinois Hospital,Chicago,IL,60612,5362,Level 2 Laparoscopy,12,6880.43666666666,16980
+8589,University Of Illinois Hospital,Chicago,IL,60612,5375,Level 5 Urology and Related Services,48,3404.39541666666,16980
+8590,University Of Illinois Hospital,Chicago,IL,60612,5462,Level 2 Neurostimulator and Related Procedures,31,5125.57,16980
+8591,University Of Illinois Hospital,Chicago,IL,60612,5464,Level 4 Neurostimulator and Related Procedures,27,25786.5385185185,16980
+8592,University Of Illinois Hospital,Chicago,IL,60612,5492,Level 2 Intraocular Procedures,203,3378.03999999998,16980
+8593,University Of Illinois Hospital,Chicago,IL,60612,8011,Comprehensive Observation Services,935,2176.76649197857,16980
+8601,Adventist Hinsdale Hospital,Hinsdale,IL,60521,5123,Level 3 Musculoskeletal Procedures,58,4904.18293103448,16980
+8602,Adventist Hinsdale Hospital,Hinsdale,IL,60521,5124,Level 4 Musculoskeletal Procedures,46,6940.07826086956,16980
+8603,Adventist Hinsdale Hospital,Hinsdale,IL,60521,5125,Level 5 Musculoskeletal Procedures,18,10527.64,16980
+8604,Adventist Hinsdale Hospital,Hinsdale,IL,60521,5165,Level 5 ENT Procedures,25,3832.3912,16980
+8605,Adventist Hinsdale Hospital,Hinsdale,IL,60521,5191,Level 1 Endovascular Procedures,15,4441.95866666666,16980
+8606,Adventist Hinsdale Hospital,Hinsdale,IL,60521,5192,Level 2 Endovascular Procedures,89,9442.84168539324,16980
+8607,Adventist Hinsdale Hospital,Hinsdale,IL,60521,5193,Level 3 Endovascular Procedures,17,14587.98,16980
+8608,Adventist Hinsdale Hospital,Hinsdale,IL,60521,5213,Level 3 Electrophysiologic Procedures,34,15533.67,16980
+8609,Adventist Hinsdale Hospital,Hinsdale,IL,60521,5222,Level 2 Pacemaker and Similar Procedures,19,6699.72,16980
+8610,Adventist Hinsdale Hospital,Hinsdale,IL,60521,5223,Level 3 Pacemaker and Similar Procedures,63,9267.46,16980
+8611,Adventist Hinsdale Hospital,Hinsdale,IL,60521,5232,Level 2 ICD and Similar Procedures,47,28911.92,16980
+8612,Adventist Hinsdale Hospital,Hinsdale,IL,60521,5361,Level 1 Laparoscopy,56,3946.78607142857,16980
+8613,Adventist Hinsdale Hospital,Hinsdale,IL,60521,5362,Level 2 Laparoscopy,18,6863.22,16980
+8614,Adventist Hinsdale Hospital,Hinsdale,IL,60521,5375,Level 5 Urology and Related Services,29,3395.92999999999,16980
+8615,Adventist Hinsdale Hospital,Hinsdale,IL,60521,5415,Level 5 Gynecologic Procedures,19,3666.05,16980
+8616,Adventist Hinsdale Hospital,Hinsdale,IL,60521,5492,Level 2 Intraocular Procedures,18,3236.58777777777,16980
+8617,Adventist Hinsdale Hospital,Hinsdale,IL,60521,8011,Comprehensive Observation Services,661,2161.59080181546,16980
+8634,Northwestern Lake Forest Hospital,Lake Forest,IL,60045,5123,Level 3 Musculoskeletal Procedures,77,4962.58844155844,16980
+8635,Northwestern Lake Forest Hospital,Lake Forest,IL,60045,5124,Level 4 Musculoskeletal Procedures,36,6962.93888888889,16980
+8636,Northwestern Lake Forest Hospital,Lake Forest,IL,60045,5125,Level 5 Musculoskeletal Procedures,17,10616.25,16980
+8637,Northwestern Lake Forest Hospital,Lake Forest,IL,60045,5191,Level 1 Endovascular Procedures,14,4633.9,16980
+8638,Northwestern Lake Forest Hospital,Lake Forest,IL,60045,5192,Level 2 Endovascular Procedures,40,9411.68675,16980
+8639,Northwestern Lake Forest Hospital,Lake Forest,IL,60045,5222,Level 2 Pacemaker and Similar Procedures,12,6756.03,16980
+8640,Northwestern Lake Forest Hospital,Lake Forest,IL,60045,5223,Level 3 Pacemaker and Similar Procedures,11,9345.43,16980
+8641,Northwestern Lake Forest Hospital,Lake Forest,IL,60045,5361,Level 1 Laparoscopy,52,4037.53,16980
+8642,Northwestern Lake Forest Hospital,Lake Forest,IL,60045,5362,Level 2 Laparoscopy,20,6258.759,16980
+8643,Northwestern Lake Forest Hospital,Lake Forest,IL,60045,5375,Level 5 Urology and Related Services,84,3392.14785714285,16980
+8644,Northwestern Lake Forest Hospital,Lake Forest,IL,60045,5415,Level 5 Gynecologic Procedures,19,3551.14,16980
+8645,Northwestern Lake Forest Hospital,Lake Forest,IL,60045,8011,Comprehensive Observation Services,1220,2176.82617213114,16980
+8646,Holy Cross Hospital,Chicago,IL,60629,5375,Level 5 Urology and Related Services,11,3404.34,16980
+8647,Holy Cross Hospital,Chicago,IL,60629,8011,Comprehensive Observation Services,246,2167.01552845529,16980
+8723,Mercy Hospital And Medical Center,Chicago,IL,60616,5123,Level 3 Musculoskeletal Procedures,15,4984.81,16980
+8724,Mercy Hospital And Medical Center,Chicago,IL,60616,5192,Level 2 Endovascular Procedures,29,9559.06793103448,16980
+8725,Mercy Hospital And Medical Center,Chicago,IL,60616,5193,Level 3 Endovascular Procedures,16,10054.099375,16980
+8726,Mercy Hospital And Medical Center,Chicago,IL,60616,5223,Level 3 Pacemaker and Similar Procedures,12,9290.36,16980
+8727,Mercy Hospital And Medical Center,Chicago,IL,60616,5361,Level 1 Laparoscopy,33,4013.7503030303,16980
+8728,Mercy Hospital And Medical Center,Chicago,IL,60616,5375,Level 5 Urology and Related Services,39,3404.34,16980
+8729,Mercy Hospital And Medical Center,Chicago,IL,60616,5492,Level 2 Intraocular Procedures,22,3268.65,16980
+8730,Mercy Hospital And Medical Center,Chicago,IL,60616,8011,Comprehensive Observation Services,726,2171.48860881539,16980
+8793,Franciscan St James Health,Olympia Fields,IL,60461,5123,Level 3 Musculoskeletal Procedures,24,4984.83208333333,16980
+8794,Franciscan St James Health,Olympia Fields,IL,60461,5191,Level 1 Endovascular Procedures,77,4560.70077922078,16980
+8795,Franciscan St James Health,Olympia Fields,IL,60461,5192,Level 2 Endovascular Procedures,84,9559.05000000001,16980
+8796,Franciscan St James Health,Olympia Fields,IL,60461,5193,Level 3 Endovascular Procedures,14,14624.07,16980
+8797,Franciscan St James Health,Olympia Fields,IL,60461,5213,Level 3 Electrophysiologic Procedures,21,15572.11,16980
+8798,Franciscan St James Health,Olympia Fields,IL,60461,5222,Level 2 Pacemaker and Similar Procedures,27,6716.26,16980
+8799,Franciscan St James Health,Olympia Fields,IL,60461,5223,Level 3 Pacemaker and Similar Procedures,22,9290.50227272727,16980
+8800,Franciscan St James Health,Olympia Fields,IL,60461,5232,Level 2 ICD and Similar Procedures,16,28661.696875,16980
+8801,Franciscan St James Health,Olympia Fields,IL,60461,5361,Level 1 Laparoscopy,21,4013.79619047619,16980
+8802,Franciscan St James Health,Olympia Fields,IL,60461,5375,Level 5 Urology and Related Services,60,3359.17766666666,16980
+8803,Franciscan St James Health,Olympia Fields,IL,60461,5492,Level 2 Intraocular Procedures,17,3391.35,16980
+8804,Franciscan St James Health,Olympia Fields,IL,60461,8011,Comprehensive Observation Services,1627,2156.07086047946,16980
+8805,Presence Mercy Medical Center,Aurora,IL,60506,5124,Level 4 Musculoskeletal Procedures,25,7071.08,16980
+8806,Presence Mercy Medical Center,Aurora,IL,60506,5191,Level 1 Endovascular Procedures,37,4400.63594594594,16980
+8807,Presence Mercy Medical Center,Aurora,IL,60506,5192,Level 2 Endovascular Procedures,44,9542.78,16980
+8808,Presence Mercy Medical Center,Aurora,IL,60506,5193,Level 3 Endovascular Procedures,18,14599.3344444444,16980
+8809,Presence Mercy Medical Center,Aurora,IL,60506,5213,Level 3 Electrophysiologic Procedures,79,15545.57,16980
+8810,Presence Mercy Medical Center,Aurora,IL,60506,5222,Level 2 Pacemaker and Similar Procedures,13,6704.83,16980
+8811,Presence Mercy Medical Center,Aurora,IL,60506,5223,Level 3 Pacemaker and Similar Procedures,33,9274.55,16980
+8812,Presence Mercy Medical Center,Aurora,IL,60506,5224,Level 4 Pacemaker and Similar Procedures,16,16895.26,16980
+8813,Presence Mercy Medical Center,Aurora,IL,60506,5232,Level 2 ICD and Similar Procedures,42,30434.62,16980
+8814,Presence Mercy Medical Center,Aurora,IL,60506,5361,Level 1 Laparoscopy,23,4006.82,16980
+8815,Presence Mercy Medical Center,Aurora,IL,60506,5375,Level 5 Urology and Related Services,93,3311.20032258064,16980
+8816,Presence Mercy Medical Center,Aurora,IL,60506,8011,Comprehensive Observation Services,764,2150.2003272251,16980
+8817,Centegra Health System - Woodstock Hospital,Woodstock,IL,60098,5123,Level 3 Musculoskeletal Procedures,39,4877.51717948718,16980
+8818,Centegra Health System - Woodstock Hospital,Woodstock,IL,60098,5361,Level 1 Laparoscopy,63,3907.77333333333,16980
+8819,Centegra Health System - Woodstock Hospital,Woodstock,IL,60098,5375,Level 5 Urology and Related Services,30,3310.326,16980
+8820,Centegra Health System - Woodstock Hospital,Woodstock,IL,60098,8011,Comprehensive Observation Services,412,2156.3922815534,16980
+8821,Jackson Park Hospital,Chicago,IL,60649,8011,Comprehensive Observation Services,127,2137.33511811022,16980
+8822,Little Company Of Mary Hospital,Evergreen Park,IL,60805,5123,Level 3 Musculoskeletal Procedures,17,4984.81,16980
+8823,Little Company Of Mary Hospital,Evergreen Park,IL,60805,5191,Level 1 Endovascular Procedures,46,4556.49195652174,16980
+8824,Little Company Of Mary Hospital,Evergreen Park,IL,60805,5192,Level 2 Endovascular Procedures,66,9559.06515151515,16980
+8825,Little Company Of Mary Hospital,Evergreen Park,IL,60805,5193,Level 3 Endovascular Procedures,16,14624.07,16980
+8826,Little Company Of Mary Hospital,Evergreen Park,IL,60805,5223,Level 3 Pacemaker and Similar Procedures,21,9290.37285714285,16980
+8827,Little Company Of Mary Hospital,Evergreen Park,IL,60805,5232,Level 2 ICD and Similar Procedures,16,30486.61,16980
+8828,Little Company Of Mary Hospital,Evergreen Park,IL,60805,5361,Level 1 Laparoscopy,24,4013.78041666666,16980
+8829,Little Company Of Mary Hospital,Evergreen Park,IL,60805,5375,Level 5 Urology and Related Services,30,3314.59799999999,16980
+8830,Little Company Of Mary Hospital,Evergreen Park,IL,60805,5492,Level 2 Intraocular Procedures,71,3391.45366197183,16980
+8831,Little Company Of Mary Hospital,Evergreen Park,IL,60805,8011,Comprehensive Observation Services,827,2174.44754534459,16980
+8832,Presence Saints Mary And Elizabeth Medical Center,Chicago,IL,60622,5123,Level 3 Musculoskeletal Procedures,31,4856.6929032258,16980
+8833,Presence Saints Mary And Elizabeth Medical Center,Chicago,IL,60622,5191,Level 1 Endovascular Procedures,13,4606.52,16980
+8834,Presence Saints Mary And Elizabeth Medical Center,Chicago,IL,60622,5192,Level 2 Endovascular Procedures,28,9559.16321428571,16980
+8835,Presence Saints Mary And Elizabeth Medical Center,Chicago,IL,60622,5223,Level 3 Pacemaker and Similar Procedures,13,9290.36,16980
+8836,Presence Saints Mary And Elizabeth Medical Center,Chicago,IL,60622,5361,Level 1 Laparoscopy,28,4013.67,16980
+8837,Presence Saints Mary And Elizabeth Medical Center,Chicago,IL,60622,5375,Level 5 Urology and Related Services,58,3357.57448275862,16980
+8838,Presence Saints Mary And Elizabeth Medical Center,Chicago,IL,60622,5492,Level 2 Intraocular Procedures,23,3273.86956521739,16980
+8839,Presence Saints Mary And Elizabeth Medical Center,Chicago,IL,60622,8011,Comprehensive Observation Services,662,2170.7775679758,16980
+8840,Norwegian-American Hospital,Chicago,IL,60622,5191,Level 1 Endovascular Procedures,11,4606.52,16980
+8841,Norwegian-American Hospital,Chicago,IL,60622,5192,Level 2 Endovascular Procedures,22,9190.10681818182,16980
+8842,Norwegian-American Hospital,Chicago,IL,60622,5193,Level 3 Endovascular Procedures,17,14624.07,16980
+8843,Norwegian-American Hospital,Chicago,IL,60622,8011,Comprehensive Observation Services,128,2181.0271875,16980
+8844,Advocate Illinois Masonic Medical Center,Chicago,IL,60657,5123,Level 3 Musculoskeletal Procedures,30,4984.81,16980
+8845,Advocate Illinois Masonic Medical Center,Chicago,IL,60657,5191,Level 1 Endovascular Procedures,23,4406.23652173913,16980
+8846,Advocate Illinois Masonic Medical Center,Chicago,IL,60657,5192,Level 2 Endovascular Procedures,31,9293.76258064516,16980
+8847,Advocate Illinois Masonic Medical Center,Chicago,IL,60657,5193,Level 3 Endovascular Procedures,15,14624.07,16980
+8848,Advocate Illinois Masonic Medical Center,Chicago,IL,60657,5213,Level 3 Electrophysiologic Procedures,56,15317.0958928571,16980
+8849,Advocate Illinois Masonic Medical Center,Chicago,IL,60657,5222,Level 2 Pacemaker and Similar Procedures,24,6497.1375,16980
+8850,Advocate Illinois Masonic Medical Center,Chicago,IL,60657,5223,Level 3 Pacemaker and Similar Procedures,16,9290.5675,16980
+8851,Advocate Illinois Masonic Medical Center,Chicago,IL,60657,5224,Level 4 Pacemaker and Similar Procedures,12,16924.12,16980
+8852,Advocate Illinois Masonic Medical Center,Chicago,IL,60657,5361,Level 1 Laparoscopy,37,3840.81162162162,16980
+8853,Advocate Illinois Masonic Medical Center,Chicago,IL,60657,5362,Level 2 Laparoscopy,15,6880.38133333333,16980
+8854,Advocate Illinois Masonic Medical Center,Chicago,IL,60657,5375,Level 5 Urology and Related Services,23,3404.41260869565,16980
+8855,Advocate Illinois Masonic Medical Center,Chicago,IL,60657,5415,Level 5 Gynecologic Procedures,16,3675.13,16980
+8856,Advocate Illinois Masonic Medical Center,Chicago,IL,60657,5462,Level 2 Neurostimulator and Related Procedures,15,5260.78,16980
+8857,Advocate Illinois Masonic Medical Center,Chicago,IL,60657,5492,Level 2 Intraocular Procedures,30,3391.35,16980
+8858,Advocate Illinois Masonic Medical Center,Chicago,IL,60657,8011,Comprehensive Observation Services,733,2162.19497953612,16980
+8859,Presence Saint Joseph Hospital - Chicago,Chicago,IL,60657,5123,Level 3 Musculoskeletal Procedures,44,4708.2384090909,16980
+8860,Presence Saint Joseph Hospital - Chicago,Chicago,IL,60657,5124,Level 4 Musculoskeletal Procedures,12,6941.98,16980
+8861,Presence Saint Joseph Hospital - Chicago,Chicago,IL,60657,5165,Level 5 ENT Procedures,12,3889.21166666666,16980
+8862,Presence Saint Joseph Hospital - Chicago,Chicago,IL,60657,5191,Level 1 Endovascular Procedures,51,4373.34745098039,16980
+8863,Presence Saint Joseph Hospital - Chicago,Chicago,IL,60657,5192,Level 2 Endovascular Procedures,49,9041.55346938775,16980
+8864,Presence Saint Joseph Hospital - Chicago,Chicago,IL,60657,5223,Level 3 Pacemaker and Similar Procedures,13,9105.32538461538,16980
+8865,Presence Saint Joseph Hospital - Chicago,Chicago,IL,60657,5361,Level 1 Laparoscopy,41,3856.96268292682,16980
+8866,Presence Saint Joseph Hospital - Chicago,Chicago,IL,60657,5375,Level 5 Urology and Related Services,24,3336.37083333333,16980
+8867,Presence Saint Joseph Hospital - Chicago,Chicago,IL,60657,5492,Level 2 Intraocular Procedures,34,3323.52,16980
+8868,Presence Saint Joseph Hospital - Chicago,Chicago,IL,60657,8011,Comprehensive Observation Services,671,2128.58159463487,16980
+8909,Ingalls Memorial Hospital,Harvey,IL,60426,5123,Level 3 Musculoskeletal Procedures,45,4808.29311111111,16980
+8910,Ingalls Memorial Hospital,Harvey,IL,60426,5191,Level 1 Endovascular Procedures,277,4207.5172202166,16980
+8911,Ingalls Memorial Hospital,Harvey,IL,60426,5192,Level 2 Endovascular Procedures,72,8817.4425,16980
+8912,Ingalls Memorial Hospital,Harvey,IL,60426,5193,Level 3 Endovascular Procedures,12,13405.3975,16980
+8913,Ingalls Memorial Hospital,Harvey,IL,60426,5213,Level 3 Electrophysiologic Procedures,14,15572.11,16980
+8914,Ingalls Memorial Hospital,Harvey,IL,60426,5222,Level 2 Pacemaker and Similar Procedures,15,6716.26,16980
+8915,Ingalls Memorial Hospital,Harvey,IL,60426,5223,Level 3 Pacemaker and Similar Procedures,20,9290.36,16980
+8916,Ingalls Memorial Hospital,Harvey,IL,60426,5232,Level 2 ICD and Similar Procedures,25,30486.6464,16980
+8917,Ingalls Memorial Hospital,Harvey,IL,60426,5361,Level 1 Laparoscopy,42,3937.54952380952,16980
+8918,Ingalls Memorial Hospital,Harvey,IL,60426,5375,Level 5 Urology and Related Services,48,3347.83166666666,16980
+8919,Ingalls Memorial Hospital,Harvey,IL,60426,5376,Level 6 Urology and Related Services,13,7446.99,16980
+8920,Ingalls Memorial Hospital,Harvey,IL,60426,5492,Level 2 Intraocular Procedures,66,3186.68939393939,16980
+8921,Ingalls Memorial Hospital,Harvey,IL,60426,8011,Comprehensive Observation Services,1165,2161.71553648068,16980
+8922,Elmhurst Memorial Hospital,Elmhurst,IL,60126,5123,Level 3 Musculoskeletal Procedures,125,4762.51287999999,16980
+8923,Elmhurst Memorial Hospital,Elmhurst,IL,60126,5124,Level 4 Musculoskeletal Procedures,47,7065.68,16980
+8924,Elmhurst Memorial Hospital,Elmhurst,IL,60126,5191,Level 1 Endovascular Procedures,36,4595.20388888889,16980
+8925,Elmhurst Memorial Hospital,Elmhurst,IL,60126,5192,Level 2 Endovascular Procedures,108,9491.38444444444,16980
+8926,Elmhurst Memorial Hospital,Elmhurst,IL,60126,5193,Level 3 Endovascular Procedures,29,14588.0158620689,16980
+8927,Elmhurst Memorial Hospital,Elmhurst,IL,60126,5222,Level 2 Pacemaker and Similar Procedures,20,6699.8085,16980
+8928,Elmhurst Memorial Hospital,Elmhurst,IL,60126,5223,Level 3 Pacemaker and Similar Procedures,67,9267.5095522388,16980
+8929,Elmhurst Memorial Hospital,Elmhurst,IL,60126,5231,Level 1 ICD and Similar Procedures,11,21880.83,16980
+8930,Elmhurst Memorial Hospital,Elmhurst,IL,60126,5232,Level 2 ICD and Similar Procedures,36,30292.495,16980
+8931,Elmhurst Memorial Hospital,Elmhurst,IL,60126,5331,Complex GI Procedures,17,2127.00588235294,16980
+8932,Elmhurst Memorial Hospital,Elmhurst,IL,60126,5361,Level 1 Laparoscopy,60,3897.44116666666,16980
+8933,Elmhurst Memorial Hospital,Elmhurst,IL,60126,5362,Level 2 Laparoscopy,12,6863.22,16980
+8934,Elmhurst Memorial Hospital,Elmhurst,IL,60126,5375,Level 5 Urology and Related Services,50,3306.7434,16980
+8935,Elmhurst Memorial Hospital,Elmhurst,IL,60126,5627,Level 7 Radiation Therapy,21,7301.04,16980
+8936,Elmhurst Memorial Hospital,Elmhurst,IL,60126,8011,Comprehensive Observation Services,995,2151.47628140707,16980
+8937,Advocate Condell Medical Center,Libertyville,IL,60048,5123,Level 3 Musculoskeletal Procedures,199,4974.31934673364,16980
+8938,Advocate Condell Medical Center,Libertyville,IL,60048,5124,Level 4 Musculoskeletal Procedures,32,6942.7675,16980
+8939,Advocate Condell Medical Center,Libertyville,IL,60048,5165,Level 5 ENT Procedures,13,3991.95,16980
+8940,Advocate Condell Medical Center,Libertyville,IL,60048,5191,Level 1 Endovascular Procedures,171,4298.99660818714,16980
+8941,Advocate Condell Medical Center,Libertyville,IL,60048,5192,Level 2 Endovascular Procedures,90,9402.04744444443,16980
+8942,Advocate Condell Medical Center,Libertyville,IL,60048,5193,Level 3 Endovascular Procedures,30,14710.84,16980
+8943,Advocate Condell Medical Center,Libertyville,IL,60048,5213,Level 3 Electrophysiologic Procedures,13,15664.52,16980
+8944,Advocate Condell Medical Center,Libertyville,IL,60048,5222,Level 2 Pacemaker and Similar Procedures,19,6574.85684210526,16980
+8945,Advocate Condell Medical Center,Libertyville,IL,60048,5223,Level 3 Pacemaker and Similar Procedures,43,9345.50720930232,16980
+8946,Advocate Condell Medical Center,Libertyville,IL,60048,5231,Level 1 ICD and Similar Procedures,13,20669.7753846153,16980
+8947,Advocate Condell Medical Center,Libertyville,IL,60048,5232,Level 2 ICD and Similar Procedures,28,28895.63,16980
+8948,Advocate Condell Medical Center,Libertyville,IL,60048,5361,Level 1 Laparoscopy,63,4037.61444444444,16980
+8949,Advocate Condell Medical Center,Libertyville,IL,60048,5375,Level 5 Urology and Related Services,94,3424.59,16980
+8950,Advocate Condell Medical Center,Libertyville,IL,60048,5492,Level 2 Intraocular Procedures,73,3374.28753424657,16980
+8951,Advocate Condell Medical Center,Libertyville,IL,60048,8011,Comprehensive Observation Services,1348,2172.81412462909,16980
+8952,Advocate Christ Hospital & Medical Center,Oak Lawn,IL,60453,5123,Level 3 Musculoskeletal Procedures,111,4805.94072072072,16980
+8953,Advocate Christ Hospital & Medical Center,Oak Lawn,IL,60453,5124,Level 4 Musculoskeletal Procedures,26,7083.13,16980
+8954,Advocate Christ Hospital & Medical Center,Oak Lawn,IL,60453,5165,Level 5 ENT Procedures,14,3968.35,16980
+8955,Advocate Christ Hospital & Medical Center,Oak Lawn,IL,60453,5191,Level 1 Endovascular Procedures,116,4416.38956896552,16980
+8956,Advocate Christ Hospital & Medical Center,Oak Lawn,IL,60453,5192,Level 2 Endovascular Procedures,237,9275.1199578059,16980
+8957,Advocate Christ Hospital & Medical Center,Oak Lawn,IL,60453,5193,Level 3 Endovascular Procedures,69,14241.3914492753,16980
+8958,Advocate Christ Hospital & Medical Center,Oak Lawn,IL,60453,5213,Level 3 Electrophysiologic Procedures,101,15289.2892079207,16980
+8959,Advocate Christ Hospital & Medical Center,Oak Lawn,IL,60453,5222,Level 2 Pacemaker and Similar Procedures,21,6695.62285714285,16980
+8960,Advocate Christ Hospital & Medical Center,Oak Lawn,IL,60453,5223,Level 3 Pacemaker and Similar Procedures,56,8978.59321428571,16980
+8961,Advocate Christ Hospital & Medical Center,Oak Lawn,IL,60453,5231,Level 1 ICD and Similar Procedures,22,21934.98,16980
+8962,Advocate Christ Hospital & Medical Center,Oak Lawn,IL,60453,5232,Level 2 ICD and Similar Procedures,84,29660.1433333333,16980
+8963,Advocate Christ Hospital & Medical Center,Oak Lawn,IL,60453,5331,Complex GI Procedures,41,3580.67414634146,16980
+8964,Advocate Christ Hospital & Medical Center,Oak Lawn,IL,60453,5361,Level 1 Laparoscopy,118,3932.36796610169,16980
+8965,Advocate Christ Hospital & Medical Center,Oak Lawn,IL,60453,5362,Level 2 Laparoscopy,19,6880.3347368421,16980
+8966,Advocate Christ Hospital & Medical Center,Oak Lawn,IL,60453,5375,Level 5 Urology and Related Services,105,3404.34,16980
+8967,Advocate Christ Hospital & Medical Center,Oak Lawn,IL,60453,5415,Level 5 Gynecologic Procedures,20,3675.13,16980
+8968,Advocate Christ Hospital & Medical Center,Oak Lawn,IL,60453,5471,Implantation of Drug Infusion Device,12,15361.42,16980
+8969,Advocate Christ Hospital & Medical Center,Oak Lawn,IL,60453,5492,Level 2 Intraocular Procedures,91,3302.27142857142,16980
+8970,Advocate Christ Hospital & Medical Center,Oak Lawn,IL,60453,8011,Comprehensive Observation Services,1598,2153.23993742182,16980
+8989,Delnor Community Hospital,Geneva,IL,60134,5123,Level 3 Musculoskeletal Procedures,35,4976.41542857142,16980
+8990,Delnor Community Hospital,Geneva,IL,60134,5124,Level 4 Musculoskeletal Procedures,49,7071.08,16980
+8991,Delnor Community Hospital,Geneva,IL,60134,5192,Level 2 Endovascular Procedures,26,9175.75,16980
+8992,Delnor Community Hospital,Geneva,IL,60134,5223,Level 3 Pacemaker and Similar Procedures,16,9274.55,16980
+8993,Delnor Community Hospital,Geneva,IL,60134,5361,Level 1 Laparoscopy,86,3932.57744186047,16980
+8994,Delnor Community Hospital,Geneva,IL,60134,5375,Level 5 Urology and Related Services,48,3352.65645833333,16980
+8995,Delnor Community Hospital,Geneva,IL,60134,8011,Comprehensive Observation Services,893,2138.53047032472,16980
+8996,Silver Cross Hospital  And Medical Centers,New Lenox,IL,60451,5123,Level 3 Musculoskeletal Procedures,66,4912.46257575757,16980
+8997,Silver Cross Hospital  And Medical Centers,New Lenox,IL,60451,5124,Level 4 Musculoskeletal Procedures,22,7065.68,16980
+8998,Silver Cross Hospital  And Medical Centers,New Lenox,IL,60451,5165,Level 5 ENT Procedures,11,3671.82545454545,16980
+8999,Silver Cross Hospital  And Medical Centers,New Lenox,IL,60451,5191,Level 1 Endovascular Procedures,31,4477.02806451613,16980
+9000,Silver Cross Hospital  And Medical Centers,New Lenox,IL,60451,5192,Level 2 Endovascular Procedures,72,9535.49,16980
+9001,Silver Cross Hospital  And Medical Centers,New Lenox,IL,60451,5193,Level 3 Endovascular Procedures,13,14587.98,16980
+9002,Silver Cross Hospital  And Medical Centers,New Lenox,IL,60451,5213,Level 3 Electrophysiologic Procedures,44,15368.6256818181,16980
+9003,Silver Cross Hospital  And Medical Centers,New Lenox,IL,60451,5222,Level 2 Pacemaker and Similar Procedures,23,6699.72,16980
+9004,Silver Cross Hospital  And Medical Centers,New Lenox,IL,60451,5223,Level 3 Pacemaker and Similar Procedures,36,9267.46,16980
+9005,Silver Cross Hospital  And Medical Centers,New Lenox,IL,60451,5232,Level 2 ICD and Similar Procedures,20,28955.154,16980
+9006,Silver Cross Hospital  And Medical Centers,New Lenox,IL,60451,5331,Complex GI Procedures,75,3539.0844,16980
+9007,Silver Cross Hospital  And Medical Centers,New Lenox,IL,60451,5361,Level 1 Laparoscopy,138,3911.3252173913,16980
+9008,Silver Cross Hospital  And Medical Centers,New Lenox,IL,60451,5362,Level 2 Laparoscopy,49,6635.66,16980
+9009,Silver Cross Hospital  And Medical Centers,New Lenox,IL,60451,5375,Level 5 Urology and Related Services,92,3366.5202173913,16980
+9010,Silver Cross Hospital  And Medical Centers,New Lenox,IL,60451,5415,Level 5 Gynecologic Procedures,28,3666.07928571428,16980
+9011,Silver Cross Hospital  And Medical Centers,New Lenox,IL,60451,5416,Level 6 Gynecologic Procedures,16,5705.23,16980
+9012,Silver Cross Hospital  And Medical Centers,New Lenox,IL,60451,5492,Level 2 Intraocular Procedures,35,3232.73371428571,16980
+9013,Silver Cross Hospital  And Medical Centers,New Lenox,IL,60451,8011,Comprehensive Observation Services,1314,2163.99955859974,16980
+9014,Advocate Lutheran General Hospital,Park Ridge,IL,60068,5123,Level 3 Musculoskeletal Procedures,104,4946.64673076923,16980
+9015,Advocate Lutheran General Hospital,Park Ridge,IL,60068,5124,Level 4 Musculoskeletal Procedures,65,6818.2163076923,16980
+9016,Advocate Lutheran General Hospital,Park Ridge,IL,60068,5125,Level 5 Musculoskeletal Procedures,36,10553.66,16980
+9017,Advocate Lutheran General Hospital,Park Ridge,IL,60068,5165,Level 5 ENT Procedures,18,3792.69611111111,16980
+9018,Advocate Lutheran General Hospital,Park Ridge,IL,60068,5191,Level 1 Endovascular Procedures,51,4263.58274509804,16980
+9019,Advocate Lutheran General Hospital,Park Ridge,IL,60068,5192,Level 2 Endovascular Procedures,95,9270.77810526317,16980
+9020,Advocate Lutheran General Hospital,Park Ridge,IL,60068,5193,Level 3 Endovascular Procedures,26,14061.6057692307,16980
+9021,Advocate Lutheran General Hospital,Park Ridge,IL,60068,5213,Level 3 Electrophysiologic Procedures,28,15572.11,16980
+9022,Advocate Lutheran General Hospital,Park Ridge,IL,60068,5223,Level 3 Pacemaker and Similar Procedures,65,9167.29784615383,16980
+9023,Advocate Lutheran General Hospital,Park Ridge,IL,60068,5224,Level 4 Pacemaker and Similar Procedures,13,16924.12,16980
+9024,Advocate Lutheran General Hospital,Park Ridge,IL,60068,5231,Level 1 ICD and Similar Procedures,11,21935.2818181818,16980
+9025,Advocate Lutheran General Hospital,Park Ridge,IL,60068,5232,Level 2 ICD and Similar Procedures,32,30213.25125,16980
+9026,Advocate Lutheran General Hospital,Park Ridge,IL,60068,5331,Complex GI Procedures,24,3624.98708333333,16980
+9027,Advocate Lutheran General Hospital,Park Ridge,IL,60068,5361,Level 1 Laparoscopy,141,4013.67645390071,16980
+9028,Advocate Lutheran General Hospital,Park Ridge,IL,60068,5362,Level 2 Laparoscopy,13,6880.16,16980
+9029,Advocate Lutheran General Hospital,Park Ridge,IL,60068,5375,Level 5 Urology and Related Services,561,3399.52509803925,16980
+9030,Advocate Lutheran General Hospital,Park Ridge,IL,60068,5415,Level 5 Gynecologic Procedures,41,3608.06268292683,16980
+9031,Advocate Lutheran General Hospital,Park Ridge,IL,60068,5416,Level 6 Gynecologic Procedures,27,5719.43296296296,16980
+9032,Advocate Lutheran General Hospital,Park Ridge,IL,60068,5462,Level 2 Neurostimulator and Related Procedures,19,5040.24,16980
+9033,Advocate Lutheran General Hospital,Park Ridge,IL,60068,5464,Level 4 Neurostimulator and Related Procedures,15,25032.7373333333,16980
+9034,Advocate Lutheran General Hospital,Park Ridge,IL,60068,5492,Level 2 Intraocular Procedures,110,3270.94409090909,16980
+9035,Advocate Lutheran General Hospital,Park Ridge,IL,60068,8011,Comprehensive Observation Services,1492,2153.11640750674,16980
+9048,Edward Hospital,Naperville,IL,60540,5123,Level 3 Musculoskeletal Procedures,82,4875.87414634146,16980
+9049,Edward Hospital,Naperville,IL,60540,5124,Level 4 Musculoskeletal Procedures,40,7065.68,16980
+9050,Edward Hospital,Naperville,IL,60540,5165,Level 5 ENT Procedures,61,3958.55,16980
+9051,Edward Hospital,Naperville,IL,60540,5191,Level 1 Endovascular Procedures,35,4490.52542857142,16980
+9052,Edward Hospital,Naperville,IL,60540,5192,Level 2 Endovascular Procedures,166,9485.8263253012,16980
+9053,Edward Hospital,Naperville,IL,60540,5193,Level 3 Endovascular Procedures,98,12950.5536734693,16980
+9054,Edward Hospital,Naperville,IL,60540,5213,Level 3 Electrophysiologic Procedures,68,15324.2497058823,16980
+9055,Edward Hospital,Naperville,IL,60540,5222,Level 2 Pacemaker and Similar Procedures,44,6602.13636363636,16980
+9056,Edward Hospital,Naperville,IL,60540,5223,Level 3 Pacemaker and Similar Procedures,82,9260.51780487805,16980
+9057,Edward Hospital,Naperville,IL,60540,5231,Level 1 ICD and Similar Procedures,20,21880.83,16980
+9058,Edward Hospital,Naperville,IL,60540,5232,Level 2 ICD and Similar Procedures,63,29772.9882539682,16980
+9059,Edward Hospital,Naperville,IL,60540,5331,Complex GI Procedures,31,3522.97580645161,16980
+9060,Edward Hospital,Naperville,IL,60540,5361,Level 1 Laparoscopy,182,3951.16791208791,16980
+9061,Edward Hospital,Naperville,IL,60540,5362,Level 2 Laparoscopy,22,6863.22,16980
+9062,Edward Hospital,Naperville,IL,60540,5375,Level 5 Urology and Related Services,103,3353.17601941746,16980
+9063,Edward Hospital,Naperville,IL,60540,5415,Level 5 Gynecologic Procedures,27,3666.06888888888,16980
+9064,Edward Hospital,Naperville,IL,60540,5416,Level 6 Gynecologic Procedures,18,5705.23,16980
+9065,Edward Hospital,Naperville,IL,60540,5462,Level 2 Neurostimulator and Related Procedures,15,5247.77,16980
+9066,Edward Hospital,Naperville,IL,60540,5464,Level 4 Neurostimulator and Related Procedures,14,24850.2957142857,16980
+9067,Edward Hospital,Naperville,IL,60540,8011,Comprehensive Observation Services,1645,2172.40089361707,16980
+9105,Central Dupage Hospital,Winfield,IL,60190,5123,Level 3 Musculoskeletal Procedures,109,4900.353853211,16980
+9106,Central Dupage Hospital,Winfield,IL,60190,5124,Level 4 Musculoskeletal Procedures,53,7065.68,16980
+9107,Central Dupage Hospital,Winfield,IL,60190,5125,Level 5 Musculoskeletal Procedures,12,10527.64,16980
+9108,Central Dupage Hospital,Winfield,IL,60190,5165,Level 5 ENT Procedures,18,3958.55,16980
+9109,Central Dupage Hospital,Winfield,IL,60190,5191,Level 1 Endovascular Procedures,57,4514.51368421052,16980
+9110,Central Dupage Hospital,Winfield,IL,60190,5192,Level 2 Endovascular Procedures,76,9176.03644736842,16980
+9111,Central Dupage Hospital,Winfield,IL,60190,5193,Level 3 Endovascular Procedures,14,14587.98,16980
+9112,Central Dupage Hospital,Winfield,IL,60190,5213,Level 3 Electrophysiologic Procedures,30,15058.8143333333,16980
+9113,Central Dupage Hospital,Winfield,IL,60190,5222,Level 2 Pacemaker and Similar Procedures,12,6699.72,16980
+9114,Central Dupage Hospital,Winfield,IL,60190,5223,Level 3 Pacemaker and Similar Procedures,49,9267.46,16980
+9115,Central Dupage Hospital,Winfield,IL,60190,5232,Level 2 ICD and Similar Procedures,30,29440.5426666666,16980
+9116,Central Dupage Hospital,Winfield,IL,60190,5331,Complex GI Procedures,38,2949.84342105263,16980
+9117,Central Dupage Hospital,Winfield,IL,60190,5361,Level 1 Laparoscopy,198,3955.65404040404,16980
+9118,Central Dupage Hospital,Winfield,IL,60190,5362,Level 2 Laparoscopy,25,6863.4856,16980
+9119,Central Dupage Hospital,Winfield,IL,60190,5375,Level 5 Urology and Related Services,108,3295.71888888888,16980
+9120,Central Dupage Hospital,Winfield,IL,60190,5415,Level 5 Gynecologic Procedures,18,3513.52944444444,16980
+9121,Central Dupage Hospital,Winfield,IL,60190,5416,Level 6 Gynecologic Procedures,12,5705.23,16980
+9122,Central Dupage Hospital,Winfield,IL,60190,5463,Level 3 Neurostimulator and Related Procedures,40,16924.84525,16980
+9123,Central Dupage Hospital,Winfield,IL,60190,5464,Level 4 Neurostimulator and Related Procedures,15,24971.128,16980
+9124,Central Dupage Hospital,Winfield,IL,60190,5627,Level 7 Radiation Therapy,30,7301.04,16980
+9125,Central Dupage Hospital,Winfield,IL,60190,8011,Comprehensive Observation Services,2039,2156.2122805297,16980
+9126,Advocate South Suburban Hospital,Hazel Crest,IL,60429,5123,Level 3 Musculoskeletal Procedures,40,4786.26375,16980
+9127,Advocate South Suburban Hospital,Hazel Crest,IL,60429,5191,Level 1 Endovascular Procedures,81,3708.14913580247,16980
+9128,Advocate South Suburban Hospital,Hazel Crest,IL,60429,5192,Level 2 Endovascular Procedures,19,9055.94210526315,16980
+9129,Advocate South Suburban Hospital,Hazel Crest,IL,60429,5223,Level 3 Pacemaker and Similar Procedures,14,9290.36,16980
+9130,Advocate South Suburban Hospital,Hazel Crest,IL,60429,5232,Level 2 ICD and Similar Procedures,12,30486.61,16980
+9131,Advocate South Suburban Hospital,Hazel Crest,IL,60429,5361,Level 1 Laparoscopy,52,3829.17692307692,16980
+9132,Advocate South Suburban Hospital,Hazel Crest,IL,60429,5375,Level 5 Urology and Related Services,26,3404.34,16980
+9133,Advocate South Suburban Hospital,Hazel Crest,IL,60429,5462,Level 2 Neurostimulator and Related Procedures,12,5261.00083333333,16980
+9134,Advocate South Suburban Hospital,Hazel Crest,IL,60429,5492,Level 2 Intraocular Procedures,24,3166.17916666666,16980
+9135,Advocate South Suburban Hospital,Hazel Crest,IL,60429,8011,Comprehensive Observation Services,756,2146.65544973542,16980
+9136,Community First Medical Center,Chicago,IL,60634,5123,Level 3 Musculoskeletal Procedures,15,4984.81,16980
+9137,Community First Medical Center,Chicago,IL,60634,5223,Level 3 Pacemaker and Similar Procedures,11,9290.51454545454,16980
+9138,Community First Medical Center,Chicago,IL,60634,5361,Level 1 Laparoscopy,12,4013.78916666666,16980
+9139,Community First Medical Center,Chicago,IL,60634,5375,Level 5 Urology and Related Services,33,3404.34,16980
+9140,Community First Medical Center,Chicago,IL,60634,5462,Level 2 Neurostimulator and Related Procedures,21,5260.99047619047,16980
+9141,Community First Medical Center,Chicago,IL,60634,5464,Level 4 Neurostimulator and Related Procedures,20,25456.7505,16980
+9142,Community First Medical Center,Chicago,IL,60634,5492,Level 2 Intraocular Procedures,15,3391.52666666666,16980
+9143,Community First Medical Center,Chicago,IL,60634,8011,Comprehensive Observation Services,599,2166.53005008345,16980
+9144,Northwest Community Hospital 1,Arlington Heights,IL,60005,5123,Level 3 Musculoskeletal Procedures,99,4944.71929292929,16980
+9145,Northwest Community Hospital 1,Arlington Heights,IL,60005,5124,Level 4 Musculoskeletal Procedures,51,7083.13,16980
+9146,Northwest Community Hospital 1,Arlington Heights,IL,60005,5165,Level 5 ENT Procedures,26,3968.35,16980
+9147,Northwest Community Hospital 1,Arlington Heights,IL,60005,5191,Level 1 Endovascular Procedures,74,4606.52,16980
+9148,Northwest Community Hospital 1,Arlington Heights,IL,60005,5192,Level 2 Endovascular Procedures,156,9506.05173076923,16980
+9149,Northwest Community Hospital 1,Arlington Heights,IL,60005,5193,Level 3 Endovascular Procedures,32,13253.1671875,16980
+9150,Northwest Community Hospital 1,Arlington Heights,IL,60005,5213,Level 3 Electrophysiologic Procedures,70,15405.822,16980
+9151,Northwest Community Hospital 1,Arlington Heights,IL,60005,5222,Level 2 Pacemaker and Similar Procedures,19,6716.39842105263,16980
+9152,Northwest Community Hospital 1,Arlington Heights,IL,60005,5223,Level 3 Pacemaker and Similar Procedures,74,9290.38540540539,16980
+9153,Northwest Community Hospital 1,Arlington Heights,IL,60005,5232,Level 2 ICD and Similar Procedures,42,30486.61,16980
+9154,Northwest Community Hospital 1,Arlington Heights,IL,60005,5331,Complex GI Procedures,83,3590.11542168674,16980
+9155,Northwest Community Hospital 1,Arlington Heights,IL,60005,5361,Level 1 Laparoscopy,197,4013.67000000001,16980
+9156,Northwest Community Hospital 1,Arlington Heights,IL,60005,5362,Level 2 Laparoscopy,53,6460.0216981132,16980
+9157,Northwest Community Hospital 1,Arlington Heights,IL,60005,5375,Level 5 Urology and Related Services,95,3318.68526315789,16980
+9158,Northwest Community Hospital 1,Arlington Heights,IL,60005,5464,Level 4 Neurostimulator and Related Procedures,12,26728.79,16980
+9159,Northwest Community Hospital 1,Arlington Heights,IL,60005,5627,Level 7 Radiation Therapy,17,7319.08,16980
+9160,Northwest Community Hospital 1,Arlington Heights,IL,60005,8011,Comprehensive Observation Services,2288,2157.22069055953,16980
+9161,Alexian Brothers Medical Center 1,Elk Grove Village,IL,60007,5123,Level 3 Musculoskeletal Procedures,82,4961.61036585365,16980
+9162,Alexian Brothers Medical Center 1,Elk Grove Village,IL,60007,5124,Level 4 Musculoskeletal Procedures,33,7083.13,16980
+9163,Alexian Brothers Medical Center 1,Elk Grove Village,IL,60007,5125,Level 5 Musculoskeletal Procedures,14,9977.89928571428,16980
+9164,Alexian Brothers Medical Center 1,Elk Grove Village,IL,60007,5191,Level 1 Endovascular Procedures,60,4453.0135,16980
+9165,Alexian Brothers Medical Center 1,Elk Grove Village,IL,60007,5192,Level 2 Endovascular Procedures,258,9475.78430232558,16980
+9166,Alexian Brothers Medical Center 1,Elk Grove Village,IL,60007,5193,Level 3 Endovascular Procedures,119,14246.9077310924,16980
+9167,Alexian Brothers Medical Center 1,Elk Grove Village,IL,60007,5213,Level 3 Electrophysiologic Procedures,81,15249.3214814814,16980
+9168,Alexian Brothers Medical Center 1,Elk Grove Village,IL,60007,5223,Level 3 Pacemaker and Similar Procedures,82,9290.40048780486,16980
+9169,Alexian Brothers Medical Center 1,Elk Grove Village,IL,60007,5232,Level 2 ICD and Similar Procedures,58,29076.2786206896,16980
+9170,Alexian Brothers Medical Center 1,Elk Grove Village,IL,60007,5331,Complex GI Procedures,12,3624.88,16980
+9171,Alexian Brothers Medical Center 1,Elk Grove Village,IL,60007,5361,Level 1 Laparoscopy,128,3957.29687499999,16980
+9172,Alexian Brothers Medical Center 1,Elk Grove Village,IL,60007,5362,Level 2 Laparoscopy,17,6758.42529411764,16980
+9173,Alexian Brothers Medical Center 1,Elk Grove Village,IL,60007,5375,Level 5 Urology and Related Services,32,3334.3175,16980
+9174,Alexian Brothers Medical Center 1,Elk Grove Village,IL,60007,5627,Level 7 Radiation Therapy,56,7211.38214285714,16980
+9175,Alexian Brothers Medical Center 1,Elk Grove Village,IL,60007,8011,Comprehensive Observation Services,816,2163.92723039213,16980
+9182,Loyola University Medical Center,Maywood,IL,60153,5123,Level 3 Musculoskeletal Procedures,36,4764.16388888888,16980
+9183,Loyola University Medical Center,Maywood,IL,60153,5124,Level 4 Musculoskeletal Procedures,16,7083.13,16980
+9184,Loyola University Medical Center,Maywood,IL,60153,5125,Level 5 Musculoskeletal Procedures,14,10176.7435714285,16980
+9185,Loyola University Medical Center,Maywood,IL,60153,5165,Level 5 ENT Procedures,196,3872.25224489794,16980
+9186,Loyola University Medical Center,Maywood,IL,60153,5166,Level 6 ENT Procedures,23,29157.7313043478,16980
+9187,Loyola University Medical Center,Maywood,IL,60153,5191,Level 1 Endovascular Procedures,110,4539.78836363637,16980
+9188,Loyola University Medical Center,Maywood,IL,60153,5192,Level 2 Endovascular Procedures,285,9467.47866666666,16980
+9189,Loyola University Medical Center,Maywood,IL,60153,5193,Level 3 Endovascular Procedures,93,13883.1275268817,16980
+9190,Loyola University Medical Center,Maywood,IL,60153,5212,Level 2 Electrophysiologic Procedures,14,4446.04785714285,16980
+9191,Loyola University Medical Center,Maywood,IL,60153,5213,Level 3 Electrophysiologic Procedures,117,15450.0235897435,16980
+9192,Loyola University Medical Center,Maywood,IL,60153,5222,Level 2 Pacemaker and Similar Procedures,21,6495.54761904762,16980
+9193,Loyola University Medical Center,Maywood,IL,60153,5223,Level 3 Pacemaker and Similar Procedures,45,9290.39622222222,16980
+9194,Loyola University Medical Center,Maywood,IL,60153,5224,Level 4 Pacemaker and Similar Procedures,13,16924.12,16980
+9195,Loyola University Medical Center,Maywood,IL,60153,5231,Level 1 ICD and Similar Procedures,13,21071.1192307692,16980
+9196,Loyola University Medical Center,Maywood,IL,60153,5232,Level 2 ICD and Similar Procedures,90,29034.6805555555,16980
+9197,Loyola University Medical Center,Maywood,IL,60153,5331,Complex GI Procedures,90,3564.66033333333,16980
+9198,Loyola University Medical Center,Maywood,IL,60153,5361,Level 1 Laparoscopy,92,3909.92945652174,16980
+9199,Loyola University Medical Center,Maywood,IL,60153,5362,Level 2 Laparoscopy,42,6747.01333333333,16980
+9200,Loyola University Medical Center,Maywood,IL,60153,5375,Level 5 Urology and Related Services,91,3374.5334065934,16980
+9201,Loyola University Medical Center,Maywood,IL,60153,5376,Level 6 Urology and Related Services,14,7007.06214285714,16980
+9202,Loyola University Medical Center,Maywood,IL,60153,5415,Level 5 Gynecologic Procedures,30,3675.13,16980
+9203,Loyola University Medical Center,Maywood,IL,60153,5462,Level 2 Neurostimulator and Related Procedures,11,4498.68727272727,16980
+9204,Loyola University Medical Center,Maywood,IL,60153,5492,Level 2 Intraocular Procedures,49,3301.60061224489,16980
+9205,Loyola University Medical Center,Maywood,IL,60153,5627,Level 7 Radiation Therapy,17,7319.08,16980
+9206,Loyola University Medical Center,Maywood,IL,60153,8011,Comprehensive Observation Services,1137,2140.72803869832,16980
+9223,Northwestern Memorial Hospital,Chicago,IL,60611,5093,Level 3 Breast/Lymphatic Surgery and Related Procedures,37,7406.52027027027,16980
+9224,Northwestern Memorial Hospital,Chicago,IL,60611,5123,Level 3 Musculoskeletal Procedures,247,4921.05793522271,16980
+9225,Northwestern Memorial Hospital,Chicago,IL,60611,5124,Level 4 Musculoskeletal Procedures,44,7083.15818181818,16980
+9226,Northwestern Memorial Hospital,Chicago,IL,60611,5125,Level 5 Musculoskeletal Procedures,14,10553.66,16980
+9227,Northwestern Memorial Hospital,Chicago,IL,60611,5165,Level 5 ENT Procedures,101,3937.04534653464,16980
+9228,Northwestern Memorial Hospital,Chicago,IL,60611,5166,Level 6 ENT Procedures,13,28183.203076923,16980
+9229,Northwestern Memorial Hospital,Chicago,IL,60611,5191,Level 1 Endovascular Procedures,199,4606.55924623116,16980
+9230,Northwestern Memorial Hospital,Chicago,IL,60611,5192,Level 2 Endovascular Procedures,325,9482.72227692304,16980
+9231,Northwestern Memorial Hospital,Chicago,IL,60611,5193,Level 3 Endovascular Procedures,108,10697.2441666666,16980
+9232,Northwestern Memorial Hospital,Chicago,IL,60611,5212,Level 2 Electrophysiologic Procedures,12,4712.67,16980
+9233,Northwestern Memorial Hospital,Chicago,IL,60611,5213,Level 3 Electrophysiologic Procedures,164,15398.1749390243,16980
+9234,Northwestern Memorial Hospital,Chicago,IL,60611,5222,Level 2 Pacemaker and Similar Procedures,73,6716.26,16980
+9235,Northwestern Memorial Hospital,Chicago,IL,60611,5223,Level 3 Pacemaker and Similar Procedures,76,9079.77157894735,16980
+9236,Northwestern Memorial Hospital,Chicago,IL,60611,5224,Level 4 Pacemaker and Similar Procedures,14,15807.4614285714,16980
+9237,Northwestern Memorial Hospital,Chicago,IL,60611,5231,Level 1 ICD and Similar Procedures,16,21934.98,16980
+9238,Northwestern Memorial Hospital,Chicago,IL,60611,5232,Level 2 ICD and Similar Procedures,56,29965.2655357142,16980
+9239,Northwestern Memorial Hospital,Chicago,IL,60611,5331,Complex GI Procedures,90,3624.88,16980
+9240,Northwestern Memorial Hospital,Chicago,IL,60611,5361,Level 1 Laparoscopy,179,3942.96111731844,16980
+9241,Northwestern Memorial Hospital,Chicago,IL,60611,5362,Level 2 Laparoscopy,75,6805.59786666665,16980
+9242,Northwestern Memorial Hospital,Chicago,IL,60611,5375,Level 5 Urology and Related Services,152,3368.65848684211,16980
+9243,Northwestern Memorial Hospital,Chicago,IL,60611,5377,Level 7 Urology and Related Services,19,14100.41,16980
+9244,Northwestern Memorial Hospital,Chicago,IL,60611,5415,Level 5 Gynecologic Procedures,40,3675.13,16980
+9245,Northwestern Memorial Hospital,Chicago,IL,60611,5462,Level 2 Neurostimulator and Related Procedures,28,5260.78,16980
+9246,Northwestern Memorial Hospital,Chicago,IL,60611,5463,Level 3 Neurostimulator and Related Procedures,25,17368.66,16980
+9247,Northwestern Memorial Hospital,Chicago,IL,60611,5464,Level 4 Neurostimulator and Related Procedures,21,26728.79,16980
+9248,Northwestern Memorial Hospital,Chicago,IL,60611,5471,Implantation of Drug Infusion Device,14,15361.42,16980
+9249,Northwestern Memorial Hospital,Chicago,IL,60611,5492,Level 2 Intraocular Procedures,139,3293.760647482,16980
+9250,Northwestern Memorial Hospital,Chicago,IL,60611,5627,Level 7 Radiation Therapy,49,7319.08,16980
+9251,Northwestern Memorial Hospital,Chicago,IL,60611,8011,Comprehensive Observation Services,2895,2161.00489810028,16980
+9252,Kishwaukee Community Hospital,Dekalb,IL,60115,5123,Level 3 Musculoskeletal Procedures,30,4972.52266666666,16980
+9253,Kishwaukee Community Hospital,Dekalb,IL,60115,5124,Level 4 Musculoskeletal Procedures,35,7065.68,16980
+9254,Kishwaukee Community Hospital,Dekalb,IL,60115,5191,Level 1 Endovascular Procedures,12,4595.50416666666,16980
+9255,Kishwaukee Community Hospital,Dekalb,IL,60115,5192,Level 2 Endovascular Procedures,16,9535.49,16980
+9256,Kishwaukee Community Hospital,Dekalb,IL,60115,5223,Level 3 Pacemaker and Similar Procedures,12,9267.46,16980
+9257,Kishwaukee Community Hospital,Dekalb,IL,60115,5361,Level 1 Laparoscopy,45,3932.886,16980
+9258,Kishwaukee Community Hospital,Dekalb,IL,60115,5375,Level 5 Urology and Related Services,46,3337.13217391304,16980
+9259,Kishwaukee Community Hospital,Dekalb,IL,60115,8011,Comprehensive Observation Services,476,2161.27537815128,16980
+9260,Advocate Good Samaritan Hospital,Downers Grove,IL,60515,5123,Level 3 Musculoskeletal Procedures,61,4842.59459016393,16980
+9261,Advocate Good Samaritan Hospital,Downers Grove,IL,60515,5124,Level 4 Musculoskeletal Procedures,13,7065.68,16980
+9262,Advocate Good Samaritan Hospital,Downers Grove,IL,60515,5191,Level 1 Endovascular Procedures,36,4212.2025,16980
+9263,Advocate Good Samaritan Hospital,Downers Grove,IL,60515,5192,Level 2 Endovascular Procedures,160,9150.5171875,16980
+9264,Advocate Good Samaritan Hospital,Downers Grove,IL,60515,5193,Level 3 Endovascular Procedures,67,14389.4728358208,16980
+9265,Advocate Good Samaritan Hospital,Downers Grove,IL,60515,5213,Level 3 Electrophysiologic Procedures,22,15533.8209090909,16980
+9266,Advocate Good Samaritan Hospital,Downers Grove,IL,60515,5222,Level 2 Pacemaker and Similar Procedures,22,6699.72,16980
+9267,Advocate Good Samaritan Hospital,Downers Grove,IL,60515,5223,Level 3 Pacemaker and Similar Procedures,46,9267.56826086956,16980
+9268,Advocate Good Samaritan Hospital,Downers Grove,IL,60515,5231,Level 1 ICD and Similar Procedures,17,20813.9117647058,16980
+9269,Advocate Good Samaritan Hospital,Downers Grove,IL,60515,5232,Level 2 ICD and Similar Procedures,37,29676.1889189189,16980
+9270,Advocate Good Samaritan Hospital,Downers Grove,IL,60515,5361,Level 1 Laparoscopy,72,4003.75,16980
+9271,Advocate Good Samaritan Hospital,Downers Grove,IL,60515,5375,Level 5 Urology and Related Services,46,3337.1104347826,16980
+9272,Advocate Good Samaritan Hospital,Downers Grove,IL,60515,5415,Level 5 Gynecologic Procedures,16,3666.05,16980
+9273,Advocate Good Samaritan Hospital,Downers Grove,IL,60515,8011,Comprehensive Observation Services,1363,2151.86748349234,16980
+9286,St Alexius Medical Center,Hoffman Estates,IL,60194,5123,Level 3 Musculoskeletal Procedures,147,4930.81190476191,16980
+9287,St Alexius Medical Center,Hoffman Estates,IL,60194,5124,Level 4 Musculoskeletal Procedures,31,7083.23709677419,16980
+9288,St Alexius Medical Center,Hoffman Estates,IL,60194,5125,Level 5 Musculoskeletal Procedures,20,10395.6765,16980
+9289,St Alexius Medical Center,Hoffman Estates,IL,60194,5165,Level 5 ENT Procedures,11,3868.29909090909,16980
+9290,St Alexius Medical Center,Hoffman Estates,IL,60194,5191,Level 1 Endovascular Procedures,34,4575.45588235294,16980
+9291,St Alexius Medical Center,Hoffman Estates,IL,60194,5192,Level 2 Endovascular Procedures,60,9559.05,16980
+9292,St Alexius Medical Center,Hoffman Estates,IL,60194,5223,Level 3 Pacemaker and Similar Procedures,35,9081.722,16980
+9293,St Alexius Medical Center,Hoffman Estates,IL,60194,5361,Level 1 Laparoscopy,106,3972.20886792452,16980
+9294,St Alexius Medical Center,Hoffman Estates,IL,60194,5362,Level 2 Laparoscopy,19,6880.3347368421,16980
+9295,St Alexius Medical Center,Hoffman Estates,IL,60194,5375,Level 5 Urology and Related Services,17,3404.49647058823,16980
+9296,St Alexius Medical Center,Hoffman Estates,IL,60194,5415,Level 5 Gynecologic Procedures,17,3548.8,16980
+9297,St Alexius Medical Center,Hoffman Estates,IL,60194,5492,Level 2 Intraocular Procedures,88,3356.76181818181,16980
+9298,St Alexius Medical Center,Hoffman Estates,IL,60194,8011,Comprehensive Observation Services,721,2163.10968099858,16980
+9299,Advocate Good Shepherd Hospital,Barrington,IL,60010,5093,Level 3 Breast/Lymphatic Surgery and Related Procedures,28,7395.03357142857,16980
+9300,Advocate Good Shepherd Hospital,Barrington,IL,60010,5123,Level 3 Musculoskeletal Procedures,131,4862.66709923663,16980
+9301,Advocate Good Shepherd Hospital,Barrington,IL,60010,5124,Level 4 Musculoskeletal Procedures,28,6917.15321428571,16980
+9302,Advocate Good Shepherd Hospital,Barrington,IL,60010,5125,Level 5 Musculoskeletal Procedures,19,10616.25,16980
+9303,Advocate Good Shepherd Hospital,Barrington,IL,60010,5165,Level 5 ENT Procedures,19,3991.95,16980
+9304,Advocate Good Shepherd Hospital,Barrington,IL,60010,5191,Level 1 Endovascular Procedures,29,4154.53103448275,16980
+9305,Advocate Good Shepherd Hospital,Barrington,IL,60010,5192,Level 2 Endovascular Procedures,79,9145.17379746834,16980
+9306,Advocate Good Shepherd Hospital,Barrington,IL,60010,5193,Level 3 Endovascular Procedures,18,14302.2055555555,16980
+9307,Advocate Good Shepherd Hospital,Barrington,IL,60010,5213,Level 3 Electrophysiologic Procedures,38,15288.6386842105,16980
+9308,Advocate Good Shepherd Hospital,Barrington,IL,60010,5223,Level 3 Pacemaker and Similar Procedures,34,9345.43,16980
+9309,Advocate Good Shepherd Hospital,Barrington,IL,60010,5231,Level 1 ICD and Similar Procedures,11,18998.2436363636,16980
+9310,Advocate Good Shepherd Hospital,Barrington,IL,60010,5232,Level 2 ICD and Similar Procedures,21,30251.1333333333,16980
+9311,Advocate Good Shepherd Hospital,Barrington,IL,60010,5361,Level 1 Laparoscopy,114,3991.61649122808,16980
+9312,Advocate Good Shepherd Hospital,Barrington,IL,60010,5362,Level 2 Laparoscopy,21,6652.66666666666,16980
+9313,Advocate Good Shepherd Hospital,Barrington,IL,60010,5375,Level 5 Urology and Related Services,109,3375.28908256881,16980
+9314,Advocate Good Shepherd Hospital,Barrington,IL,60010,5415,Level 5 Gynecologic Procedures,16,3523.793125,16980
+9315,Advocate Good Shepherd Hospital,Barrington,IL,60010,5492,Level 2 Intraocular Procedures,44,3411.51,16980
+9316,Advocate Good Shepherd Hospital,Barrington,IL,60010,8011,Comprehensive Observation Services,1047,2167.28830945556,16980
+9317,Adventist Glenoaks,Glendale Heights,IL,60139,8011,Comprehensive Observation Services,235,2161.37242553191,16980
+9318,Provident Hospital Of Chicago,Chicago,IL,60615,8011,Comprehensive Observation Services,28,2181.17464285714,16980
+9319,Adventist Bolingbrook Hospital,Bolingbrook,IL,60440,5123,Level 3 Musculoskeletal Procedures,26,4972.49,16980
+9320,Adventist Bolingbrook Hospital,Bolingbrook,IL,60440,5361,Level 1 Laparoscopy,31,4003.75,16980
+9321,Adventist Bolingbrook Hospital,Bolingbrook,IL,60440,5375,Level 5 Urology and Related Services,30,3305.86899999999,16980
+9322,Adventist Bolingbrook Hospital,Bolingbrook,IL,60440,5462,Level 2 Neurostimulator and Related Procedures,22,4867.66636363636,16980
+9323,Adventist Bolingbrook Hospital,Bolingbrook,IL,60440,5464,Level 4 Neurostimulator and Related Procedures,19,25327.2652631579,16980
+9324,Adventist Bolingbrook Hospital,Bolingbrook,IL,60440,8011,Comprehensive Observation Services,450,2152.61820000002,16980

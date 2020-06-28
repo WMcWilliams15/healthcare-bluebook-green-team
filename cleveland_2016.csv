@@ -1,0 +1,253 @@
+,Provider Name,Provider City,"Provider
+State",ZIP,APC,"APC
+Description","Comprehensive APC
+Services","Average
+Medicare
+Allowed
+Amount",CBSA
+20931,St Vincent Charity Medical Center,Cleveland,OH,44115,5123,Level 3 Musculoskeletal Procedures,120,4586.49908333333,17460
+20932,St Vincent Charity Medical Center,Cleveland,OH,44115,5125,Level 5 Musculoskeletal Procedures,12,9909.25,17460
+20933,St Vincent Charity Medical Center,Cleveland,OH,44115,5191,Level 1 Endovascular Procedures,30,4094.84466666666,17460
+20934,St Vincent Charity Medical Center,Cleveland,OH,44115,5192,Level 2 Endovascular Procedures,30,8975.56566666666,17460
+20935,St Vincent Charity Medical Center,Cleveland,OH,44115,8011,Comprehensive Observation Services,227,2040.27872246696,17460
+21000,Parma Community General Hospital,Parma,OH,44129,5123,Level 3 Musculoskeletal Procedures,58,4679.69,17460
+21001,Parma Community General Hospital,Parma,OH,44129,5191,Level 1 Endovascular Procedures,26,4324.55,17460
+21002,Parma Community General Hospital,Parma,OH,44129,5192,Level 2 Endovascular Procedures,53,8517.97113207547,17460
+21003,Parma Community General Hospital,Parma,OH,44129,5193,Level 3 Endovascular Procedures,21,13730.5,17460
+21004,Parma Community General Hospital,Parma,OH,44129,5223,Level 3 Pacemaker and Similar Procedures,25,8723.4028,17460
+21005,Parma Community General Hospital,Parma,OH,44129,5232,Level 2 ICD and Similar Procedures,12,28622.2316666666,17460
+21006,Parma Community General Hospital,Parma,OH,44129,5361,Level 1 Laparoscopy,40,3697.993,17460
+21007,Parma Community General Hospital,Parma,OH,44129,5375,Level 5 Urology and Related Services,41,3195.97,17460
+21008,Parma Community General Hospital,Parma,OH,44129,5376,Level 6 Urology and Related Services,17,6992.92529411764,17460
+21009,Parma Community General Hospital,Parma,OH,44129,8011,Comprehensive Observation Services,969,2029.71092879253,17460
+21080,Metrohealth System,Cleveland,OH,44109,5123,Level 3 Musculoskeletal Procedures,56,4679.69,17460
+21081,Metrohealth System,Cleveland,OH,44109,5165,Level 5 ENT Procedures,43,3725.45,17460
+21082,Metrohealth System,Cleveland,OH,44109,5191,Level 1 Endovascular Procedures,168,4311.68107142857,17460
+21083,Metrohealth System,Cleveland,OH,44109,5192,Level 2 Endovascular Procedures,51,8975.52,17460
+21084,Metrohealth System,Cleveland,OH,44109,5213,Level 3 Electrophysiologic Procedures,29,14620.51,17460
+21085,Metrohealth System,Cleveland,OH,44109,5222,Level 2 Pacemaker and Similar Procedures,14,5975.45071428571,17460
+21086,Metrohealth System,Cleveland,OH,44109,5223,Level 3 Pacemaker and Similar Procedures,26,8723.27,17460
+21087,Metrohealth System,Cleveland,OH,44109,5231,Level 1 ICD and Similar Procedures,15,20593.92,17460
+21088,Metrohealth System,Cleveland,OH,44109,5232,Level 2 ICD and Similar Procedures,27,26597.3518518518,17460
+21089,Metrohealth System,Cleveland,OH,44109,5361,Level 1 Laparoscopy,70,3767.99,17460
+21090,Metrohealth System,Cleveland,OH,44109,5362,Level 2 Laparoscopy,15,6460.61,17460
+21091,Metrohealth System,Cleveland,OH,44109,5375,Level 5 Urology and Related Services,61,3195.97,17460
+21092,Metrohealth System,Cleveland,OH,44109,5415,Level 5 Gynecologic Procedures,21,3358.39142857142,17460
+21093,Metrohealth System,Cleveland,OH,44109,5416,Level 6 Gynecologic Procedures,11,5370.8,17460
+21094,Metrohealth System,Cleveland,OH,44109,5462,Level 2 Neurostimulator and Related Procedures,13,4558.85538461538,17460
+21095,Metrohealth System,Cleveland,OH,44109,5492,Level 2 Intraocular Procedures,44,3183.76,17460
+21096,Metrohealth System,Cleveland,OH,44109,8011,Comprehensive Observation Services,1422,2041.82459915614,17460
+21216,Uhhs Richmond Heights Hospital,Richmond Heights,OH,44143,5123,Level 3 Musculoskeletal Procedures,17,4460.36529411764,17460
+21217,Uhhs Richmond Heights Hospital,Richmond Heights,OH,44143,5191,Level 1 Endovascular Procedures,43,4244.42023255814,17460
+21218,Uhhs Richmond Heights Hospital,Richmond Heights,OH,44143,5361,Level 1 Laparoscopy,43,3767.99,17460
+21219,Uhhs Richmond Heights Hospital,Richmond Heights,OH,44143,5375,Level 5 Urology and Related Services,21,3195.97,17460
+21220,Uhhs Richmond Heights Hospital,Richmond Heights,OH,44143,8011,Comprehensive Observation Services,463,2034.80196544274,17460
+21251,Fairview Hospital,Cleveland,OH,44111,5123,Level 3 Musculoskeletal Procedures,90,4596.834,17460
+21252,Fairview Hospital,Cleveland,OH,44111,5124,Level 4 Musculoskeletal Procedures,18,6466.39555555555,17460
+21253,Fairview Hospital,Cleveland,OH,44111,5165,Level 5 ENT Procedures,14,3517.97857142857,17460
+21254,Fairview Hospital,Cleveland,OH,44111,5191,Level 1 Endovascular Procedures,86,4235.10453488371,17460
+21255,Fairview Hospital,Cleveland,OH,44111,5192,Level 2 Endovascular Procedures,132,8849.31583333333,17460
+21256,Fairview Hospital,Cleveland,OH,44111,5193,Level 3 Endovascular Procedures,20,13730.657,17460
+21257,Fairview Hospital,Cleveland,OH,44111,5213,Level 3 Electrophysiologic Procedures,15,14620.7313333333,17460
+21258,Fairview Hospital,Cleveland,OH,44111,5222,Level 2 Pacemaker and Similar Procedures,15,5980.50266666666,17460
+21259,Fairview Hospital,Cleveland,OH,44111,5223,Level 3 Pacemaker and Similar Procedures,78,8627.94794871796,17460
+21260,Fairview Hospital,Cleveland,OH,44111,5224,Level 4 Pacemaker and Similar Procedures,11,15889.76,17460
+21261,Fairview Hospital,Cleveland,OH,44111,5231,Level 1 ICD and Similar Procedures,23,20593.9947826087,17460
+21262,Fairview Hospital,Cleveland,OH,44111,5232,Level 2 ICD and Similar Procedures,22,28622.2509090909,17460
+21263,Fairview Hospital,Cleveland,OH,44111,5331,Complex GI Procedures,15,3176.13333333333,17460
+21264,Fairview Hospital,Cleveland,OH,44111,5361,Level 1 Laparoscopy,129,3726.30961240309,17460
+21265,Fairview Hospital,Cleveland,OH,44111,5362,Level 2 Laparoscopy,41,6460.61,17460
+21266,Fairview Hospital,Cleveland,OH,44111,5375,Level 5 Urology and Related Services,132,3164.60045454544,17460
+21267,Fairview Hospital,Cleveland,OH,44111,5416,Level 6 Gynecologic Procedures,19,5370.8,17460
+21268,Fairview Hospital,Cleveland,OH,44111,8011,Comprehensive Observation Services,1582,2029.21382427311,17460
+21311,Euclid Hospital,Euclid,OH,44119,5123,Level 3 Musculoskeletal Procedures,30,4679.69,17460
+21312,Euclid Hospital,Euclid,OH,44119,5191,Level 1 Endovascular Procedures,45,4324.66822222222,17460
+21313,Euclid Hospital,Euclid,OH,44119,5375,Level 5 Urology and Related Services,21,3195.97,17460
+21314,Euclid Hospital,Euclid,OH,44119,8011,Comprehensive Observation Services,642,2034.11875389405,17460
+21378,Lutheran Hospital,Cleveland,OH,44113,5123,Level 3 Musculoskeletal Procedures,40,4679.69,17460
+21379,Lutheran Hospital,Cleveland,OH,44113,5125,Level 5 Musculoskeletal Procedures,24,9909.25,17460
+21380,Lutheran Hospital,Cleveland,OH,44113,5375,Level 5 Urology and Related Services,17,3195.97,17460
+21381,Lutheran Hospital,Cleveland,OH,44113,8011,Comprehensive Observation Services,152,2023.28769736842,17460
+21403,Medina Hospital,Medina,OH,44256,5123,Level 3 Musculoskeletal Procedures,30,4679.86666666666,10420
+21404,Medina Hospital,Medina,OH,44256,5123,Level 3 Musculoskeletal Procedures,30,4679.86666666666,17460
+21405,Medina Hospital,Medina,OH,44256,5191,Level 1 Endovascular Procedures,24,4180.98416666666,10420
+21406,Medina Hospital,Medina,OH,44256,5191,Level 1 Endovascular Procedures,24,4180.98416666666,17460
+21407,Medina Hospital,Medina,OH,44256,5361,Level 1 Laparoscopy,71,3725.70633802817,10420
+21408,Medina Hospital,Medina,OH,44256,5361,Level 1 Laparoscopy,71,3725.70633802817,17460
+21409,Medina Hospital,Medina,OH,44256,5375,Level 5 Urology and Related Services,25,3195.97,10420
+21410,Medina Hospital,Medina,OH,44256,5375,Level 5 Urology and Related Services,25,3195.97,17460
+21411,Medina Hospital,Medina,OH,44256,8011,Comprehensive Observation Services,617,2037.09366288491,10420
+21412,Medina Hospital,Medina,OH,44256,8011,Comprehensive Observation Services,617,2037.09366288491,17460
+21427,Lake Health,Concord,OH,44077,5123,Level 3 Musculoskeletal Procedures,68,4643.34352941176,17460
+21428,Lake Health,Concord,OH,44077,5124,Level 4 Musculoskeletal Procedures,13,6238.6,17460
+21429,Lake Health,Concord,OH,44077,5165,Level 5 ENT Procedures,21,3587.69666666666,17460
+21430,Lake Health,Concord,OH,44077,5191,Level 1 Endovascular Procedures,79,4105.58544303797,17460
+21431,Lake Health,Concord,OH,44077,5192,Level 2 Endovascular Procedures,82,8537.68975609757,17460
+21432,Lake Health,Concord,OH,44077,5193,Level 3 Endovascular Procedures,56,13512.8469642857,17460
+21433,Lake Health,Concord,OH,44077,5213,Level 3 Electrophysiologic Procedures,17,13851.7094117647,17460
+21434,Lake Health,Concord,OH,44077,5222,Level 2 Pacemaker and Similar Procedures,21,6306.6,17460
+21435,Lake Health,Concord,OH,44077,5223,Level 3 Pacemaker and Similar Procedures,25,8723.27,17460
+21436,Lake Health,Concord,OH,44077,5232,Level 2 ICD and Similar Procedures,27,28622.1,17460
+21437,Lake Health,Concord,OH,44077,5361,Level 1 Laparoscopy,92,3735.36956521739,17460
+21438,Lake Health,Concord,OH,44077,5362,Level 2 Laparoscopy,12,6460.7975,17460
+21439,Lake Health,Concord,OH,44077,5375,Level 5 Urology and Related Services,40,3135.2045,17460
+21440,Lake Health,Concord,OH,44077,5415,Level 5 Gynecologic Procedures,20,3450.18,17460
+21441,Lake Health,Concord,OH,44077,5462,Level 2 Neurostimulator and Related Procedures,12,2964.595,17460
+21442,Lake Health,Concord,OH,44077,8011,Comprehensive Observation Services,855,2030.26883040932,17460
+21537,St John Medical Center,Westlake,OH,44145,5123,Level 3 Musculoskeletal Procedures,47,4679.69,17460
+21538,St John Medical Center,Westlake,OH,44145,5124,Level 4 Musculoskeletal Procedures,20,6382.9925,17460
+21539,St John Medical Center,Westlake,OH,44145,5191,Level 1 Endovascular Procedures,60,4037.432,17460
+21540,St John Medical Center,Westlake,OH,44145,5192,Level 2 Endovascular Procedures,85,8650.76270588236,17460
+21541,St John Medical Center,Westlake,OH,44145,5193,Level 3 Endovascular Procedures,13,12674.3076923076,17460
+21542,St John Medical Center,Westlake,OH,44145,5222,Level 2 Pacemaker and Similar Procedures,21,6067.4519047619,17460
+21543,St John Medical Center,Westlake,OH,44145,5223,Level 3 Pacemaker and Similar Procedures,29,8466.99586206896,17460
+21544,St John Medical Center,Westlake,OH,44145,5232,Level 2 ICD and Similar Procedures,13,26519.4769230769,17460
+21545,St John Medical Center,Westlake,OH,44145,5331,Complex GI Procedures,49,3403.0,17460
+21546,St John Medical Center,Westlake,OH,44145,5361,Level 1 Laparoscopy,60,3718.043,17460
+21547,St John Medical Center,Westlake,OH,44145,5375,Level 5 Urology and Related Services,63,3115.14841269841,17460
+21548,St John Medical Center,Westlake,OH,44145,5415,Level 5 Gynecologic Procedures,11,3450.40727272727,17460
+21549,St John Medical Center,Westlake,OH,44145,5462,Level 2 Neurostimulator and Related Procedures,18,2743.75555555555,17460
+21550,St John Medical Center,Westlake,OH,44145,8011,Comprehensive Observation Services,1163,2033.83016337058,17460
+21624,Uh Cleveland Medical Center,Cleveland,OH,44106,5123,Level 3 Musculoskeletal Procedures,41,4588.75048780487,17460
+21625,Uh Cleveland Medical Center,Cleveland,OH,44106,5124,Level 4 Musculoskeletal Procedures,11,6651.15,17460
+21626,Uh Cleveland Medical Center,Cleveland,OH,44106,5165,Level 5 ENT Procedures,84,3703.27476190476,17460
+21627,Uh Cleveland Medical Center,Cleveland,OH,44106,5166,Level 6 ENT Procedures,16,28563.76,17460
+21628,Uh Cleveland Medical Center,Cleveland,OH,44106,5191,Level 1 Endovascular Procedures,50,4324.55,17460
+21629,Uh Cleveland Medical Center,Cleveland,OH,44106,5192,Level 2 Endovascular Procedures,103,8975.55223300972,17460
+21630,Uh Cleveland Medical Center,Cleveland,OH,44106,5193,Level 3 Endovascular Procedures,36,11060.6805555555,17460
+21631,Uh Cleveland Medical Center,Cleveland,OH,44106,5213,Level 3 Electrophysiologic Procedures,79,14620.5256962025,17460
+21632,Uh Cleveland Medical Center,Cleveland,OH,44106,5223,Level 3 Pacemaker and Similar Procedures,56,8590.55339285714,17460
+21633,Uh Cleveland Medical Center,Cleveland,OH,44106,5231,Level 1 ICD and Similar Procedures,14,20593.92,17460
+21634,Uh Cleveland Medical Center,Cleveland,OH,44106,5232,Level 2 ICD and Similar Procedures,28,28622.1,17460
+21635,Uh Cleveland Medical Center,Cleveland,OH,44106,5331,Complex GI Procedures,33,3403.0,17460
+21636,Uh Cleveland Medical Center,Cleveland,OH,44106,5361,Level 1 Laparoscopy,147,3737.76986394557,17460
+21637,Uh Cleveland Medical Center,Cleveland,OH,44106,5362,Level 2 Laparoscopy,63,6460.60999999998,17460
+21638,Uh Cleveland Medical Center,Cleveland,OH,44106,5375,Level 5 Urology and Related Services,110,3158.31818181817,17460
+21639,Uh Cleveland Medical Center,Cleveland,OH,44106,5415,Level 5 Gynecologic Procedures,28,3357.81785714285,17460
+21640,Uh Cleveland Medical Center,Cleveland,OH,44106,5462,Level 2 Neurostimulator and Related Procedures,21,4938.76,17460
+21641,Uh Cleveland Medical Center,Cleveland,OH,44106,5463,Level 3 Neurostimulator and Related Procedures,33,16307.1,17460
+21642,Uh Cleveland Medical Center,Cleveland,OH,44106,5464,Level 4 Neurostimulator and Related Procedures,31,25094.3,17460
+21643,Uh Cleveland Medical Center,Cleveland,OH,44106,5471,Implantation of Drug Infusion Device,24,14422.71,17460
+21644,Uh Cleveland Medical Center,Cleveland,OH,44106,5492,Level 2 Intraocular Procedures,70,3183.76,17460
+21645,Uh Cleveland Medical Center,Cleveland,OH,44106,5627,Level 7 Radiation Therapy,42,6739.68214285714,17460
+21646,Uh Cleveland Medical Center,Cleveland,OH,44106,8011,Comprehensive Observation Services,476,2030.31487394956,17460
+21647,Marymount Hospital,Garfield Heights,OH,44125,5123,Level 3 Musculoskeletal Procedures,72,4492.74236111111,17460
+21648,Marymount Hospital,Garfield Heights,OH,44125,5124,Level 4 Musculoskeletal Procedures,12,6204.22083333333,17460
+21649,Marymount Hospital,Garfield Heights,OH,44125,5165,Level 5 ENT Procedures,34,3725.45,17460
+21650,Marymount Hospital,Garfield Heights,OH,44125,5191,Level 1 Endovascular Procedures,90,4084.35233333332,17460
+21651,Marymount Hospital,Garfield Heights,OH,44125,5192,Level 2 Endovascular Procedures,20,8975.52,17460
+21652,Marymount Hospital,Garfield Heights,OH,44125,5361,Level 1 Laparoscopy,55,3717.38890909091,17460
+21653,Marymount Hospital,Garfield Heights,OH,44125,5375,Level 5 Urology and Related Services,22,3080.22545454545,17460
+21654,Marymount Hospital,Garfield Heights,OH,44125,8011,Comprehensive Observation Services,616,2034.34923701297,17460
+21655,South Pointe Hospital,Warrensville Heights,OH,44122,5123,Level 3 Musculoskeletal Procedures,20,4493.264,17460
+21656,South Pointe Hospital,Warrensville Heights,OH,44122,5191,Level 1 Endovascular Procedures,56,4324.5975,17460
+21657,South Pointe Hospital,Warrensville Heights,OH,44122,5192,Level 2 Endovascular Procedures,28,8975.52,17460
+21658,South Pointe Hospital,Warrensville Heights,OH,44122,5375,Level 5 Urology and Related Services,28,3195.97,17460
+21659,South Pointe Hospital,Warrensville Heights,OH,44122,8011,Comprehensive Observation Services,757,2038.84207397619,17460
+21660,University Hospitals Ahuja Medical Center,Beachwood,OH,44122,5123,Level 3 Musculoskeletal Procedures,99,4679.69,17460
+21661,University Hospitals Ahuja Medical Center,Beachwood,OH,44122,5191,Level 1 Endovascular Procedures,28,4170.10178571428,17460
+21662,University Hospitals Ahuja Medical Center,Beachwood,OH,44122,5192,Level 2 Endovascular Procedures,76,8874.42315789475,17460
+21663,University Hospitals Ahuja Medical Center,Beachwood,OH,44122,5193,Level 3 Endovascular Procedures,27,12204.8888888888,17460
+21664,University Hospitals Ahuja Medical Center,Beachwood,OH,44122,5331,Complex GI Procedures,36,3327.68527777777,17460
+21665,University Hospitals Ahuja Medical Center,Beachwood,OH,44122,5361,Level 1 Laparoscopy,45,3768.04911111111,17460
+21666,University Hospitals Ahuja Medical Center,Beachwood,OH,44122,5362,Level 2 Laparoscopy,14,5794.44928571428,17460
+21667,University Hospitals Ahuja Medical Center,Beachwood,OH,44122,5375,Level 5 Urology and Related Services,20,3195.97,17460
+21668,University Hospitals Ahuja Medical Center,Beachwood,OH,44122,8011,Comprehensive Observation Services,823,2039.53239368162,17460
+21669,University Hospitals - Elyria Medical Center,Elyria,OH,44035,5123,Level 3 Musculoskeletal Procedures,84,4635.30952380952,17460
+21670,University Hospitals - Elyria Medical Center,Elyria,OH,44035,5124,Level 4 Musculoskeletal Procedures,26,6523.24307692307,17460
+21671,University Hospitals - Elyria Medical Center,Elyria,OH,44035,5191,Level 1 Endovascular Procedures,33,4220.13848484848,17460
+21672,University Hospitals - Elyria Medical Center,Elyria,OH,44035,5192,Level 2 Endovascular Procedures,110,8905.66527272728,17460
+21673,University Hospitals - Elyria Medical Center,Elyria,OH,44035,5193,Level 3 Endovascular Procedures,27,12348.1007407407,17460
+21674,University Hospitals - Elyria Medical Center,Elyria,OH,44035,5211,Level 1 Electrophysiologic Procedures,16,795.8,17460
+21675,University Hospitals - Elyria Medical Center,Elyria,OH,44035,5222,Level 2 Pacemaker and Similar Procedures,12,6306.6,17460
+21676,University Hospitals - Elyria Medical Center,Elyria,OH,44035,5223,Level 3 Pacemaker and Similar Procedures,58,8723.27,17460
+21677,University Hospitals - Elyria Medical Center,Elyria,OH,44035,5231,Level 1 ICD and Similar Procedures,25,19821.6832,17460
+21678,University Hospitals - Elyria Medical Center,Elyria,OH,44035,5232,Level 2 ICD and Similar Procedures,39,27943.7269230769,17460
+21679,University Hospitals - Elyria Medical Center,Elyria,OH,44035,5361,Level 1 Laparoscopy,51,3672.18352941176,17460
+21680,University Hospitals - Elyria Medical Center,Elyria,OH,44035,5375,Level 5 Urology and Related Services,31,3195.97,17460
+21681,University Hospitals - Elyria Medical Center,Elyria,OH,44035,8011,Comprehensive Observation Services,1030,2012.62014563103,17460
+21726,Southwest General Health Center,Middleburg Heights,OH,44130,5123,Level 3 Musculoskeletal Procedures,63,4563.45301587301,17460
+21727,Southwest General Health Center,Middleburg Heights,OH,44130,5124,Level 4 Musculoskeletal Procedures,24,6427.68541666666,17460
+21728,Southwest General Health Center,Middleburg Heights,OH,44130,5165,Level 5 ENT Procedures,15,3725.62733333333,17460
+21729,Southwest General Health Center,Middleburg Heights,OH,44130,5191,Level 1 Endovascular Procedures,41,4240.57634146341,17460
+21730,Southwest General Health Center,Middleburg Heights,OH,44130,5192,Level 2 Endovascular Procedures,79,8780.9070886076,17460
+21731,Southwest General Health Center,Middleburg Heights,OH,44130,5193,Level 3 Endovascular Procedures,29,11836.6379310344,17460
+21732,Southwest General Health Center,Middleburg Heights,OH,44130,5213,Level 3 Electrophysiologic Procedures,13,14620.51,17460
+21733,Southwest General Health Center,Middleburg Heights,OH,44130,5223,Level 3 Pacemaker and Similar Procedures,34,8727.73294117647,17460
+21734,Southwest General Health Center,Middleburg Heights,OH,44130,5232,Level 2 ICD and Similar Procedures,27,27610.0744444444,17460
+21735,Southwest General Health Center,Middleburg Heights,OH,44130,5361,Level 1 Laparoscopy,86,3767.99,17460
+21736,Southwest General Health Center,Middleburg Heights,OH,44130,5362,Level 2 Laparoscopy,28,6091.13785714285,17460
+21737,Southwest General Health Center,Middleburg Heights,OH,44130,5375,Level 5 Urology and Related Services,67,3122.45059701492,17460
+21738,Southwest General Health Center,Middleburg Heights,OH,44130,5415,Level 5 Gynecologic Procedures,11,3215.07636363636,17460
+21739,Southwest General Health Center,Middleburg Heights,OH,44130,5463,Level 3 Neurostimulator and Related Procedures,16,16307.1,17460
+21740,Southwest General Health Center,Middleburg Heights,OH,44130,8011,Comprehensive Observation Services,1190,2007.48989075629,17460
+21816,Mercy Regional Medical Center,Lorain,OH,44053,5123,Level 3 Musculoskeletal Procedures,102,4606.60774509804,17460
+21817,Mercy Regional Medical Center,Lorain,OH,44053,5124,Level 4 Musculoskeletal Procedures,29,6466.21379310345,17460
+21818,Mercy Regional Medical Center,Lorain,OH,44053,5191,Level 1 Endovascular Procedures,13,4324.55,17460
+21819,Mercy Regional Medical Center,Lorain,OH,44053,5192,Level 2 Endovascular Procedures,96,8895.55718750001,17460
+21820,Mercy Regional Medical Center,Lorain,OH,44053,5193,Level 3 Endovascular Procedures,35,13338.2451428571,17460
+21821,Mercy Regional Medical Center,Lorain,OH,44053,5223,Level 3 Pacemaker and Similar Procedures,29,8539.89965517241,17460
+21822,Mercy Regional Medical Center,Lorain,OH,44053,5232,Level 2 ICD and Similar Procedures,14,28622.1,17460
+21823,Mercy Regional Medical Center,Lorain,OH,44053,5361,Level 1 Laparoscopy,46,3637.46217391304,17460
+21824,Mercy Regional Medical Center,Lorain,OH,44053,5375,Level 5 Urology and Related Services,47,3196.00829787234,17460
+21825,Mercy Regional Medical Center,Lorain,OH,44053,5415,Level 5 Gynecologic Procedures,16,3450.18,17460
+21826,Mercy Regional Medical Center,Lorain,OH,44053,8011,Comprehensive Observation Services,397,2023.731209068,17460
+21859,Cleveland Clinic,Cleveland,OH,44195,5093,Level 3 Breast/Lymphatic Surgery and Related Procedures,37,6799.24189189189,17460
+21860,Cleveland Clinic,Cleveland,OH,44195,5123,Level 3 Musculoskeletal Procedures,183,4557.45792349725,17460
+21861,Cleveland Clinic,Cleveland,OH,44195,5124,Level 4 Musculoskeletal Procedures,30,6651.15,17460
+21862,Cleveland Clinic,Cleveland,OH,44195,5125,Level 5 Musculoskeletal Procedures,49,9733.30612244898,17460
+21863,Cleveland Clinic,Cleveland,OH,44195,5165,Level 5 ENT Procedures,157,3643.92388535032,17460
+21864,Cleveland Clinic,Cleveland,OH,44195,5166,Level 6 ENT Procedures,14,26702.1621428571,17460
+21865,Cleveland Clinic,Cleveland,OH,44195,5191,Level 1 Endovascular Procedures,180,4312.5373888889,17460
+21866,Cleveland Clinic,Cleveland,OH,44195,5192,Level 2 Endovascular Procedures,432,8693.97770833335,17460
+21867,Cleveland Clinic,Cleveland,OH,44195,5193,Level 3 Endovascular Procedures,78,13730.5,17460
+21868,Cleveland Clinic,Cleveland,OH,44195,5212,Level 2 Electrophysiologic Procedures,22,4424.21,17460
+21869,Cleveland Clinic,Cleveland,OH,44195,5213,Level 3 Electrophysiologic Procedures,387,14454.0958656329,17460
+21870,Cleveland Clinic,Cleveland,OH,44195,5222,Level 2 Pacemaker and Similar Procedures,51,6215.31725490196,17460
+21871,Cleveland Clinic,Cleveland,OH,44195,5223,Level 3 Pacemaker and Similar Procedures,120,8661.30941666666,17460
+21872,Cleveland Clinic,Cleveland,OH,44195,5224,Level 4 Pacemaker and Similar Procedures,26,14766.5476923076,17460
+21873,Cleveland Clinic,Cleveland,OH,44195,5231,Level 1 ICD and Similar Procedures,30,19950.3893333333,17460
+21874,Cleveland Clinic,Cleveland,OH,44195,5232,Level 2 ICD and Similar Procedures,153,27907.483006536,17460
+21875,Cleveland Clinic,Cleveland,OH,44195,5331,Complex GI Procedures,114,3349.36552631579,17460
+21876,Cleveland Clinic,Cleveland,OH,44195,5361,Level 1 Laparoscopy,259,3711.26633204632,17460
+21877,Cleveland Clinic,Cleveland,OH,44195,5362,Level 2 Laparoscopy,74,6390.71135135133,17460
+21878,Cleveland Clinic,Cleveland,OH,44195,5375,Level 5 Urology and Related Services,221,3149.88923076921,17460
+21879,Cleveland Clinic,Cleveland,OH,44195,5376,Level 6 Urology and Related Services,36,6895.60888888889,17460
+21880,Cleveland Clinic,Cleveland,OH,44195,5377,Level 7 Urology and Related Services,51,12770.3023529411,17460
+21881,Cleveland Clinic,Cleveland,OH,44195,5415,Level 5 Gynecologic Procedures,69,3412.69971014492,17460
+21882,Cleveland Clinic,Cleveland,OH,44195,5416,Level 6 Gynecologic Procedures,70,5312.47428571428,17460
+21883,Cleveland Clinic,Cleveland,OH,44195,5462,Level 2 Neurostimulator and Related Procedures,108,4865.89074074075,17460
+21884,Cleveland Clinic,Cleveland,OH,44195,5463,Level 3 Neurostimulator and Related Procedures,104,16017.4635576923,17460
+21885,Cleveland Clinic,Cleveland,OH,44195,5464,Level 4 Neurostimulator and Related Procedures,80,23292.731125,17460
+21886,Cleveland Clinic,Cleveland,OH,44195,5471,Implantation of Drug Infusion Device,18,13693.0038888888,17460
+21887,Cleveland Clinic,Cleveland,OH,44195,5492,Level 2 Intraocular Procedures,442,3130.52993212669,17460
+21888,Cleveland Clinic,Cleveland,OH,44195,5627,Level 7 Radiation Therapy,165,6804.95727272727,17460
+21889,Cleveland Clinic,Cleveland,OH,44195,8011,Comprehensive Observation Services,1349,2015.2762638992,17460
+21908,Uh Geauga Medical Center,Chardon,OH,44024,5123,Level 3 Musculoskeletal Procedures,66,4679.69,17460
+21909,Uh Geauga Medical Center,Chardon,OH,44024,5124,Level 4 Musculoskeletal Procedures,24,6651.15,17460
+21910,Uh Geauga Medical Center,Chardon,OH,44024,5192,Level 2 Endovascular Procedures,31,8975.52,17460
+21911,Uh Geauga Medical Center,Chardon,OH,44024,5222,Level 2 Pacemaker and Similar Procedures,11,6306.6,17460
+21912,Uh Geauga Medical Center,Chardon,OH,44024,5223,Level 3 Pacemaker and Similar Procedures,27,8723.27,17460
+21913,Uh Geauga Medical Center,Chardon,OH,44024,5361,Level 1 Laparoscopy,26,3768.05423076923,17460
+21914,Uh Geauga Medical Center,Chardon,OH,44024,5375,Level 5 Urology and Related Services,31,3195.97,17460
+21915,Uh Geauga Medical Center,Chardon,OH,44024,5415,Level 5 Gynecologic Procedures,11,3450.18,17460
+21916,Uh Geauga Medical Center,Chardon,OH,44024,8011,Comprehensive Observation Services,525,2047.44999999998,17460
+21955,Hillcrest Hospital,Mayfield Heights,OH,44124,5123,Level 3 Musculoskeletal Procedures,55,4679.70545454545,17460
+21956,Hillcrest Hospital,Mayfield Heights,OH,44124,5124,Level 4 Musculoskeletal Procedures,22,6651.15,17460
+21957,Hillcrest Hospital,Mayfield Heights,OH,44124,5191,Level 1 Endovascular Procedures,69,4274.65260869565,17460
+21958,Hillcrest Hospital,Mayfield Heights,OH,44124,5192,Level 2 Endovascular Procedures,107,8903.67738317758,17460
+21959,Hillcrest Hospital,Mayfield Heights,OH,44124,5193,Level 3 Endovascular Procedures,18,13730.5,17460
+21960,Hillcrest Hospital,Mayfield Heights,OH,44124,5213,Level 3 Electrophysiologic Procedures,35,14620.51,17460
+21961,Hillcrest Hospital,Mayfield Heights,OH,44124,5222,Level 2 Pacemaker and Similar Procedures,19,6306.6,17460
+21962,Hillcrest Hospital,Mayfield Heights,OH,44124,5223,Level 3 Pacemaker and Similar Procedures,50,8723.3082,17460
+21963,Hillcrest Hospital,Mayfield Heights,OH,44124,5231,Level 1 ICD and Similar Procedures,11,20593.92,17460
+21964,Hillcrest Hospital,Mayfield Heights,OH,44124,5232,Level 2 ICD and Similar Procedures,35,27841.4519999999,17460
+21965,Hillcrest Hospital,Mayfield Heights,OH,44124,5331,Complex GI Procedures,11,3199.01727272727,17460
+21966,Hillcrest Hospital,Mayfield Heights,OH,44124,5361,Level 1 Laparoscopy,123,3732.48780487804,17460
+21967,Hillcrest Hospital,Mayfield Heights,OH,44124,5362,Level 2 Laparoscopy,30,5943.349,17460
+21968,Hillcrest Hospital,Mayfield Heights,OH,44124,5375,Level 5 Urology and Related Services,98,3169.98653061224,17460
+21969,Hillcrest Hospital,Mayfield Heights,OH,44124,5376,Level 6 Urology and Related Services,16,6992.73,17460
+21970,Hillcrest Hospital,Mayfield Heights,OH,44124,5415,Level 5 Gynecologic Procedures,11,3450.18,17460
+21971,Hillcrest Hospital,Mayfield Heights,OH,44124,5416,Level 6 Gynecologic Procedures,17,5370.8,17460
+21972,Hillcrest Hospital,Mayfield Heights,OH,44124,5492,Level 2 Intraocular Procedures,78,3183.76,17460
+21973,Hillcrest Hospital,Mayfield Heights,OH,44124,8011,Comprehensive Observation Services,1704,2031.13500000005,17460
